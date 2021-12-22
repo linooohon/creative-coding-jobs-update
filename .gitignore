@@ -20,7 +20,7 @@ pnpm-debug.log*
 
 # data file
 *.csv
-*.md
+readme_*.md
 
 # VE
 venv/
