@@ -1,5 +1,6 @@
 import time
 import random
+import subprocess
 
 from crawlers.setting import Setting
 from crawlers.log import Log
@@ -7,7 +8,7 @@ from crawlers import JOB_BANK_LIST
 from helpers.data_convert_helper import ConvertData
 
 
-Log()
+# Log()
 s = Setting()
 df = s.get_csv_from_s3()
 
@@ -37,3 +38,4 @@ if __name__ == '__main__':
     cd.merge_csv()
     cd.csv_to_json()
     cd.json_transform()
+    subprocess.Popen('date -u "+DATE: %Y-%m-%d%, TIME: %H:%M:%S / UTC+0" > update_time.log', shell=True)
