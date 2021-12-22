@@ -1,0 +1,44 @@
+.jobCard_wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.jobCard_keyword {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 5rem;
+}
+
+.jobCard_platform {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 2rem;
+}
+
+.jobCard_platform a, .jobCard_platform span {
+    font-size: 12.5px;
+}
+
+.jobCard_platform_linkedin{
+    display: flex;
+    flex-direction: column;
+}
+
+.jobCard_platform_glassdoor {
+    display: flex;
+    flex-direction: column;
+}
+
+.jobCard_platform_simplyhired {
+    display: flex;
+    flex-direction: column;
+}
+
+.jobCard_platform_indeed {
+    display: flex;
+    flex-direction: column;
+}

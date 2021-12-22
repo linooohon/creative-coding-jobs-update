@@ -1,0 +1,6 @@
+from .indeed import Indeed
+from .linkedin import LinkedIn
+from .simplyhired import SimplyHired
+from .glassdoor import Glassdoor
+
+JOB_BANK_LIST = [Indeed, LinkedIn, SimplyHired, Glassdoor]
