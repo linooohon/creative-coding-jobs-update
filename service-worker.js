@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b1c69bae9f37949669129e4b10743505.js"
+  "/vue3-cart/precache-manifest.0b4dac60e1845b95eaa764d6d7045a8e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ccjob"});
