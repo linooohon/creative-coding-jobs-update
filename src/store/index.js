@@ -1,7 +1,6 @@
 import { createStore } from 'vuex'
 import axios from 'axios'
 
-// not use right now
 export default createStore({
   state: {
     dataArray: [],
@@ -23,6 +22,7 @@ export default createStore({
     async getUpdateTime (context) {
       const data = await axios.get('https://raw.githubusercontent.com/linooohon/creative-coding-jobs-update/main/data/update_time.log')
       context.commit('assignUpdateTime', data.data)
+      console.log(data.data)
     }
   },
   modules: {

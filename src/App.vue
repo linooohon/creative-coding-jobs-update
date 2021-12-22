@@ -3,6 +3,7 @@
     <router-link to="/">Dashboard</router-link> |
     <router-link to="/keyword">Keyword</router-link> |
     <router-link to="/search">Search</router-link>
+    <p>Update at: {{ updateTime }}</p>
   </div>
   <router-view :chunkData="chunkJobData" :jobData="totalJobData" :loadData="loadData"/>
 </template>
@@ -10,32 +11,35 @@
 <script>
 // import ccJob from './final.json'
 import axios from 'axios'
-// import { mapState, mapActions } from 'vuex'
+import { mapState } from 'vuex'
 
 export default {
   data () {
     return {
-      totalJobData: [], // 改用 vuex
+      totalJobData: [], // no vuex
       keywordChunk: 0
     }
   },
   mounted () {
     this.getTotalJobData()
+    this.getUpdateTime()
   },
   computed: {
     chunkJobData () {
       return this.totalJobData.slice(0, this.keywordChunk + 3)
-    }
-    // ...mapState(['dataArray'])
+    },
+    ...mapState(['updateTime'])
   },
   methods: {
-    // 改用 vuex
+    // no vuex
     getTotalJobData () {
       axios.get('https://raw.githubusercontent.com/linooohon/creative-coding-jobs-update/main/data/final.json').then((res) => {
         this.totalJobData = res.data
       })
     },
-    // ...mapActions(['getTotalJobData']),
+    getUpdateTime () {
+      this.$store.dispatch('getUpdateTime')
+    },
     loadData () {
       this.keywordChunk += 1
     }
