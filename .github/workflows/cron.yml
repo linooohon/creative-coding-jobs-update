@@ -1,0 +1,30 @@
+on:
+  schedule:
+    - cron: '30 09 * * Wed'
+jobs:
+  setup_python:
+    name: Setup Python
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Set up Python version
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: |
+          pip install poetry
+          cat << EOF > poetry.toml
+          [virtualenvs]
+          in-project = true
+          EOF
+          poetry install
+          source $PWD/.venv/bin/activate
+      - name: Update Data
+        run: |
+          cd data/
+          python main.py
