@@ -4,15 +4,40 @@
     <router-link to="/keyword">Keyword</router-link> |
     <router-link to="/search">Search</router-link>
   </div>
-  <router-view :jobData="totalJobData"/>
+  <router-view :chunkData="chunkJobData" :jobData="totalJobData" :loadData="loadData"/>
 </template>
 
 <script>
-import ccJob from './final.json'
+// import ccJob from './final.json'
+import axios from 'axios'
+// import { mapState, mapActions } from 'vuex'
+
 export default {
   data () {
     return {
-      totalJobData: ccJob
+      totalJobData: [], // 改用 vuex
+      keywordChunk: 0
+    }
+  },
+  mounted () {
+    this.getTotalJobData()
+  },
+  computed: {
+    chunkJobData () {
+      return this.totalJobData.slice(0, this.keywordChunk + 3)
+    }
+    // ...mapState(['dataArray'])
+  },
+  methods: {
+    // 改用 vuex
+    getTotalJobData () {
+      axios.get('https://raw.githubusercontent.com/linooohon/creative-coding-jobs-update/data/final.json').then((res) => {
+        this.totalJobData = res.data
+      })
+    },
+    // ...mapActions(['getTotalJobData']),
+    loadData () {
+      this.keywordChunk += 1
     }
   }
 }

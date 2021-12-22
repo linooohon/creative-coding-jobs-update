@@ -1,6 +1,6 @@
 <template>
   <div class="jobCard_wrapper">
-    <div v-for="(jobItem, index) in jobData" :key="index">
+    <div v-for="(jobItem, index) in chunkData" :key="index">
       <div v-for="item in Object.entries(jobItem)" :key="item[0]">
         <div class="jobCard_keyword">{{ item[0] }}</div>
         <div class="jobCard_platform">
@@ -32,6 +32,7 @@
       </div>
     </div>
   </div>
+  <button @click="loadData">More</button>
 </template>
 
 <script>
@@ -47,7 +48,7 @@ export default {
       indeed: 'Indeed'
     }
   },
-  props: ['jobData'],
+  props: ['chunkData', 'loadData'],
   components: {
     JobCard
   }
