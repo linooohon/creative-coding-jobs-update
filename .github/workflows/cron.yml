@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '30 09 * * Wed'
+    - cron: '50 09 * * Wed'
 jobs:
   setup_python:
     name: Setup Python
@@ -23,8 +23,8 @@ jobs:
           in-project = true
           EOF
           poetry install
-          source $PWD/.venv/bin/activate
       - name: Update Data
         run: |
+          source $PWD/.venv/bin/activate
           cd data/
           python main.py
