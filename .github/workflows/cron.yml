@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '15 15 * * Wed'
+    - cron: '00 02 * * Thu'
 jobs:
   setup_python:
     name: Setup Python
@@ -37,3 +37,9 @@ jobs:
           source $PWD/.venv/bin/activate
           cd data/
           python main.py
+      - name: Git Commit
+        run: |
+          git config --global user.name 'linooohon'
+          git config --global user.email 'linooohon@gmail.com'
+          git commit -am "[Automated commit] - upate data"
+          git push
