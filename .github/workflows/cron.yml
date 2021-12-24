@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '28 04 * * Fri'
+    - cron: '58 04 * * Fri'
 jobs:
   setup_python:
     name: Setup Python
@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: venv
-          path: $PWD/.venv
+          path: .venv/
   
   update-data:
     name: Update Data
@@ -56,7 +56,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: data
-          path: $PWD/data
+          path: data/
 
   git-push:
     name: Git Push
