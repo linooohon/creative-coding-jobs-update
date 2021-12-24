@@ -28,9 +28,9 @@ class LinkedIn(BaseCrawler):
         self.query = s.linkedIn_setting()['query']
         self.referer_list = s.linkedIn_setting()['referer_list']
         self.ip_list = s.linkedIn_setting()['ip_list']
-        self.headers = {
-            "User-Agent": self.ua.random,
-        }
+        # self.headers = {
+        #     "User-Agent": self.ua.random,
+        # }
 
     def get_job_list(self, soup: BeautifulSoup):
         pre = soup.find('ul', class_='jobs-search__results-list')
@@ -122,8 +122,9 @@ class LinkedIn(BaseCrawler):
         print(f'Now Processing: {url}')
         # print(f'Page: {self.keyword}, {page}')
 
-        resp = requests.get(
-            url=url, headers=self.headers)
+        # resp = requests.get(
+        #     url=url, headers=self.headers)
+        resp = requests.get(url=url)
         soup = BeautifulSoup(resp.text, 'html.parser')
         # print(soup)
 
