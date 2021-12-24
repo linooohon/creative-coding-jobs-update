@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '12 08 * * Thu'
+    - cron: '20 02 * * Fri'
 jobs:
   setup_python:
     name: Setup Python
@@ -41,6 +41,10 @@ jobs:
         run: |
           git config --global user.name 'linooohon'
           git config --global user.email 'linooohon@gmail.com'
-          git remote add origin https://${{ secrets.GITHUB_TOKEN }}@github.com/linooohon/creative-coding-jobs-update.git
-          git commit -am "[Automated commit] - upate data"
-          git push
+          git add .
+          git commit -m "[Automated commit] - upate data"
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
