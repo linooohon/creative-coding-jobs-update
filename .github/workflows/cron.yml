@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '33 08 * * Fri'
+    - cron: '05 09 * * Fri'
 jobs:
   setup-python-and-update-data:
     name: Setup Python And Update Data
@@ -37,21 +37,6 @@ jobs:
           source $PWD/.venv/bin/activate
           cd data/
           python main.py
-      - name: Upload Data
-        uses: actions/upload-artifact@v2
-        with:
-          name: data
-          path: data/
-
-  git-push:
-    name: Git Push
-    needs: setup-python-and-update-data
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download Data Folder
-        uses: actions/download-artifact@v2
-        with:
-          name: data
       - name: Git Commit
         run: |
           git config --global user.name 'linooohon'
