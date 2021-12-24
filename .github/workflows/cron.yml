@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '35 12 * * Fri'
+    - cron: '20 17 * * Fri'
 jobs:
   setup-python-and-update-data:
     name: Setup Python And Update Data
@@ -37,6 +37,7 @@ jobs:
           source $PWD/.venv/bin/activate
           cd data/
           python main.py
+          cd ..
       - name: Git Commit
         run: |
           git config --global user.name 'linooohon'
