@@ -49,7 +49,7 @@ jobs:
           name: venv
       - name: Update Data Folder
         run: |
-          source $PWD/.venv/bin/activate
+          source ./.venv/bin/activate
           cd data/
           python main.py
       - name: Upload Data
