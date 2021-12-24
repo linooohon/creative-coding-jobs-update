@@ -36,4 +36,4 @@ poetry.toml
 # python cache
 __pycache__/
 
-app-basic.log
+# app-basic.log
