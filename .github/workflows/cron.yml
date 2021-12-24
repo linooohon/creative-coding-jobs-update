@@ -1,9 +1,9 @@
 on:
   schedule:
-    - cron: '45 07 * * Fri'
+    - cron: '33 08 * * Fri'
 jobs:
-  setup_python:
-    name: Setup Python
+  setup-python-and-update-data:
+    name: Setup Python And Update Data
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -32,24 +32,9 @@ jobs:
           in-project = true
           EOF
           poetry install
-      - name: Upload venv folder
-        uses: actions/upload-artifact@v2
-        with:
-          name: venv
-          path: .venv/
-  
-  update-data:
-    name: Update Data
-    needs: setup_python
-    runs-on: ubuntu-latest
-    steps: 
-      - name: Download venv Folder
-        uses: actions/download-artifact@v2
-        with:
-          name: venv
       - name: Update Data Folder
         run: |
-          source .venv/bin/activate
+          source $PWD/.venv/bin/activate
           cd data/
           python main.py
       - name: Upload Data
@@ -60,7 +45,7 @@ jobs:
 
   git-push:
     name: Git Push
-    needs: update-data
+    needs: setup-python-and-update-data
     runs-on: ubuntu-latest
     steps:
       - name: Download Data Folder
