@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '30 06 * * Fri'
+    - cron: '07 07 * * Fri'
 jobs:
   setup_python:
     name: Setup Python
@@ -49,7 +49,7 @@ jobs:
           name: venv
       - name: Update Data Folder
         run: |
-          source ./.venv/bin/activate
+          source $PWD/venv/bin/activate
           cd data/
           python main.py
       - name: Upload Data
