@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '58 04 * * Fri'
+    - cron: '30 06 * * Fri'
 jobs:
   setup_python:
     name: Setup Python
