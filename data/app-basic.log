@@ -1,0 +1,84 @@
+2021-12-25 06:29:01 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:01 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:01 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:29:07 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=interactive+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:08 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=interactive+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:08 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:29:17 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=technical+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:17 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=technical+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:17 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:29:22 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=virtual+reality+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:22 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=virtual+reality+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:22 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:29:32 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=arvr+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:32 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=arvr+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:32 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:29:39 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=sound+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:39 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=sound+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:39 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:29:41 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=unity+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:41 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=unity+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:41 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:29:42 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:42 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:42 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:29:46 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=digital+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:46 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=digital+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:46 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:29:55 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=animation+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:56 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=animation+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:29:56 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:01 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=digital+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:01 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=digital+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:01 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:08 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=interactive+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:08 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=interactive+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:08 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:09 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=arvr+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:10 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=arvr+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:10 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:11 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=sound+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:11 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=sound+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:11 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:16 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+coder&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:16 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+coder&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:16 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:17 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:17 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:17 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:22 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=Techical+Sound+Designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:22 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=Techical+Sound+Designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:22 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:23 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=audio+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:23 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=audio+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:23 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:28 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=digital+platform&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:28 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=digital+platform&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:28 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:36 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:36 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:36 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:39 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:39 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:39 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:47 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:47 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:47 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:50 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:50 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:50 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:55 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=ux+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:55 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=ux+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:55 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:30:56 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=ux+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:57 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=ux+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:30:57 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:31:03 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=design+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:31:03 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=design+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:31:03 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:31:12 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:31:12 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:31:12 - root - INFO - Break here, now go to next loop(next page)
+2021-12-25 06:31:16 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:31:16 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-25 06:31:16 - root - INFO - Break here, now go to next loop(next page)
