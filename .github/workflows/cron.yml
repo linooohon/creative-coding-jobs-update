@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '20 05 * * Sat'
+    - cron: '05 06 * * Sat'
 jobs:
   setup-python-and-update-data:
     name: Setup Python And Update Data
