@@ -124,7 +124,24 @@ class LinkedIn(BaseCrawler):
 
         # resp = requests.get(
         #     url=url, headers=self.headers)
-        resp = requests.get(url=url, headers={'user-agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44'}, proxies={'http': '180.177.111.133', 'https': '180.177.111.133'})
+
+        headers = {
+            "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+            "accept-encoding": "gzip, deflate, br",
+            "accept-language": "en-US,en;q=0.9",
+            "cache-control": "max-age=0",
+            # "cookie": 'bcookie="v=2&f50620a6-1d27-43ef-8c82-889eb4d9ab7a"; _ga=GA1.2.1567656659.1626282027; bscookie="v=1&20210714170037e2cf71dc-e5fd-4cea-88d7-a5d2285b4cbeAQEdGelxaHqgpnZatX3Ln0xvi-c4Nae4"; li_rm=AQE_xAkP-aDnpAAAAXql9qYGtkgPo4SJejsW5Sr5AOXMwk58W71IubWozwOBB3GMxnCAQBiLR1sAghsksUhnL36G73rBjEt222NC2SPpt_qGkSANTqc48bo5fbOOgRS5liTvBNEu1M6F0ITkqhSaPFHaSFDzGISHYwNXpc-jMZNHAzZvSVjV6LpiE6bOTXsLwSrqF6IGFiOHns6orVPtJXwVlYfvXo_HEzREsnpe0g9QlU3pZwBHtplvj_4X17A6hHwGoGdcHX3JaSylY3hebh7gOLzALVMi_rJ1c5zRpA1-l67E2F31QGMsJbejCMZquwTeTcr-YaULXM1zXwo; _gcl_au=1.1.384073379.1626411391; G_ENABLED_IDPS=google; visit=v=1&M; g_state={"i_p":1632621074798,"i_l":3}; liap=true; JSESSIONID="ajax:5358018358150210109"; liveagent_oref=https://www.linkedin.com/help/lms/answer/a424393; liveagent_vc=2; liveagent_ptid=eea97cca-9bb3-4667-97d8-9230e77018fe; li_theme=light; mbox=session#ba7ee320771b4a1989c41e0b722fc50a#1636783710|PC#ba7ee320771b4a1989c41e0b722fc50a.32_0#1652333860; lang=v=2&lang=en-us; li_at=AQEDASfccHYBwZRIAAABe_1vbK8AAAF9-dW5404AC--U_lAJn26zRKOr3ruder-ZxQpcQxfQY_sAIrzxiGd8ExDdF3hOEQOvmPqZnifiAT0M9_mYlwZWd3BrIV0cLLGCINoMv0DaeqnlcMgKPFtuAdAF; timezone=Asia/Taipei; li_theme_set=user; AMCVS_14215E3D5995C57C0A495C55%40AdobeOrg=1; aam_uuid=85944933508547408802946978665592763967; lil-lang=en_US; gpv_pn=www.linkedin.com%2Flearning%2Flearning-github-actions-2; s_tp=2622; s_cc=true; s_plt=2.31; s_pltp=www.linkedin.com%2Flearning%2Flearning-github-actions-2; s_tslv=1640365531204; s_ips=985; s_ppv=www.linkedin.com%2Flearning%2Flearning-github-actions-2%2C61%2C38%2C1597%2C1%2C2; lidc="b=OB34:s=O:r=O:a=O:p=O:g=3150:u=337:x=1:i=1640410712:t=1640489403:v=2:sig=AQHg8_xUASjUvYqfMGiafwQTg7vHnrCn"; AMCV_14215E3D5995C57C0A495C55%40AdobeOrg=-637568504%7CMCIDTS%7C18987%7CMCMID%7C86139535201259828112894383302137693684%7CMCAAMLH-1641015515%7C11%7CMCAAMB-1641015515%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1640417915s%7CNONE%7CMCCIDH%7C193992886%7CvVersion%7C5.1.1; UserMatchHistory=AQJ6exgvI7sXfgAAAX3wHIA-tz1jEhePYh08DnX54oJMUhEPWtqmL3eY6PG4Q9g1wOQPCMXhrqjFQdZGOzKZQDZ_8IyMkZjID4C4qG_606h_qHKDbOlF6gicP4vbme8METyPzONONqGi2Fm95Nhh4xzjLtrNVHzcO7m9NuCFNWmP0gblfWWUSm9_eWka485aQG9uu0o1KYdToD-ddvwVdcHfK0c4JhCD3UI_sur0p4s3EYdfeAX8r9btgVfreUcc9uedyjvYcQ',
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "macOS",
+            "sec-fetch-dest": "document",
+            "sec-fetch-mode": "navigate",
+            "sec-fetch-site": "same-origin",
+            "sec-fetch-user": "?1",
+            "upgrade-insecure-requests": "1",
+            "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44",
+            "referer": self.referer_list[random.randrange(0, len(self.referer_list) - 1)]
+        }
+        resp = requests.get(url=url, headers=headers)
         soup = BeautifulSoup(resp.text, 'html.parser')
         # print(soup)
 
