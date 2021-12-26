@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '05 06 * * Sat'
+    - cron: '20 04 * * Sat'
 jobs:
   setup-python-and-update-data:
     name: Setup Python And Update Data
@@ -38,8 +38,10 @@ jobs:
           cd data/
           python main.py
           cd ..
+          echo $PWD
       - name: Git Commit
         run: |
+          echo $PWD
           git config --global user.name 'linooohon'
           git config --global user.email 'linooohon@gmail.com'
           git add .
