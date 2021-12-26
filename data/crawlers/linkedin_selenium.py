@@ -1,21 +1,23 @@
-import re
 import requests
 import pandas as pd
-import time
 import random
 import logging
+import time
 from urllib.parse import urlencode
 # from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
-from bs4.element import ResultSet, Tag
+from bs4.element import Tag
 from typing import List
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as GoogleService
+from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 
 
 from crawlers.setting import Setting
 from .base_crawler import BaseCrawler
 
 s = Setting()
-
 
 class LinkedIn(BaseCrawler):
     def __init__(self, keyword):
@@ -111,7 +113,7 @@ class LinkedIn(BaseCrawler):
         with open(f"./csv_{platform_class.__name__}.csv", "a") as f:
             f.write(csv_content)
 
-    def fetch_request(self, platform_class):
+    def fetch_request_2(self, platform_class):
         self.query['keywords'] = self.keyword
         # while self.query['start'] < 30:
         url = self.platform_url + urlencode(self.query)
@@ -195,3 +197,73 @@ class LinkedIn(BaseCrawler):
         logging.info(
             f'====Finished Sending data to readme====: {self.keyword}')
         print(f'====Finished Sending data to readme====: {self.keyword}')
+
+
+    def fetch_request(self, platform_class):
+        self.query['keywords'] = self.keyword
+        url = self.platform_url + urlencode(self.query)
+        logging.info(f'Now Processing: {url}')
+        print(f'Now Processing: {url}')
+
+        s = GoogleService(ChromeDriverManager().install())
+        opts = webdriver.ChromeOptions()
+        opts.add_argument("--incognito")
+        browser = webdriver.Chrome(service=s, options=opts)
+        browser.get(url)
+        soup = BeautifulSoup(browser.page_source, "html.parser")
+        result = self.get_job_list(soup)
+        # 如果沒抓到 job list 頁面就略過這次 url
+        if not result:
+            logging.error(f'FAIL, no result when crawling this url: {url}')
+            logging.info(f'Break here, now go to next loop(next page)')
+            return None
+        for job_item in result:
+            job_name = self.get_job_name(job_item)
+            job_page_link = self.get_job_page_link(job_item)
+            company_name = self.get_company_name(job_item)
+            company_page_link = self.get_company_page_link(job_item)
+            update_time = self.update_time(job_item)
+            location = self.get_location(job_item)
+            print('=================')
+            print('-----------------')
+
+            job_dict = {
+                'company': f'[{company_name}]({company_page_link})',
+                'company_name': company_name,
+                'company_page_link': company_page_link,
+                'job': f'[{job_name}]({job_page_link})',
+                'job_name': job_name,
+                'job_page_link': job_page_link,
+                'update_time': update_time,
+                'location': location,
+            }
+            self.result_list.append(job_dict)
+
+        logging.info(f'====Finished Processing====: {self.keyword}')
+        print(f'====Finished Processing====: {self.keyword}')
+
+        logging.info(f'====Sending data to CSV file====: {self.keyword}')
+        print(f'====Sending data to CSV file====: {self.keyword}')
+        self._insert_to_csv(self.result_list, self.query['keywords'], platform_class)
+        logging.info(
+            f'====Finished Sending data to CSV file====: {self.keyword}')
+        print(f'====Finished Sending data to CSV file====: {self.keyword}')
+
+        logging.info(f'====Sending data to readme====: {self.keyword}')
+        print(f'====Sending data to readme====: {self.keyword}')
+        self._insert_to_readme(
+            self.result_list, self.query['keywords'], platform_class)
+        logging.info(
+            f'====Finished Sending data to readme====: {self.keyword}')
+        print(f'====Finished Sending data to readme====: {self.keyword}')
+        browser.quit()
+        s.stop()
+        time.sleep(2)
+
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
 from .indeed import Indeed
-from .linkedin import LinkedIn
+from .linkedin_selenium import LinkedIn
 from .simplyhired import SimplyHired
 from .glassdoor import Glassdoor
 
