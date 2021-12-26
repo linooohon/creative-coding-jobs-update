@@ -3,4 +3,4 @@ from .linkedin_selenium import LinkedIn
 from .simplyhired import SimplyHired
 from .glassdoor import Glassdoor
 
-JOB_BANK_LIST = [LinkedIn, Indeed, SimplyHired, Glassdoor]
+JOB_BANK_LIST = [Indeed, SimplyHired, Glassdoor]
