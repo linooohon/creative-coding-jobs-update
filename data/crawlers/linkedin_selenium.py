@@ -208,6 +208,7 @@ class LinkedIn(BaseCrawler):
         s = GoogleService(ChromeDriverManager().install())
         opts = webdriver.ChromeOptions()
         opts.add_argument("--incognito")
+        opts.headless = True
         browser = webdriver.Chrome(service=s, options=opts)
         browser.get(url)
         soup = BeautifulSoup(browser.page_source, "html.parser")
