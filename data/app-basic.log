@@ -1,0 +1,254 @@
+2021-12-26 05:07:59 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:07:59 - WDM - INFO - 
+
+2021-12-26 05:07:59 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:08:01 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:08:01 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:08:01 - WDM - INFO - There is no [linux64] chromedriver for browser  in cache
+2021-12-26 05:08:01 - WDM - INFO - Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_linux64.zip
+2021-12-26 05:08:01 - WDM - INFO - Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45]
+2021-12-26 05:08:06 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:06 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:08:13 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=interactive+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:13 - WDM - INFO - 
+
+2021-12-26 05:08:13 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:08:13 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:08:13 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:08:13 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:08:14 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=interactive+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:14 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:08:18 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=technical+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:18 - WDM - INFO - 
+
+2021-12-26 05:08:18 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:08:18 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:08:18 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:08:18 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:08:19 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=technical+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:19 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:08:20 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=virtual+reality+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:20 - WDM - INFO - 
+
+2021-12-26 05:08:20 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:08:20 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:08:20 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:08:20 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:08:21 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=virtual+reality+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:21 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:08:30 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=arvr+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:30 - WDM - INFO - 
+
+2021-12-26 05:08:30 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:08:30 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:08:30 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:08:30 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:08:31 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=arvr+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:31 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:08:39 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=sound+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:39 - WDM - INFO - 
+
+2021-12-26 05:08:39 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:08:39 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:08:39 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:08:39 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:08:40 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=sound+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:40 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:08:47 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=unity+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:47 - WDM - INFO - 
+
+2021-12-26 05:08:47 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:08:47 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:08:47 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:08:47 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:08:48 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=unity+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:48 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:08:56 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:56 - WDM - INFO - 
+
+2021-12-26 05:08:56 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:08:56 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:08:56 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:08:56 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:08:57 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:57 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:08:59 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=digital+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:08:59 - WDM - INFO - 
+
+2021-12-26 05:08:59 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:08:59 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:08:59 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:00 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:01 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=digital+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:01 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:04 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=animation+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:04 - WDM - INFO - 
+
+2021-12-26 05:09:04 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:04 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:04 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:04 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:05 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=animation+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:05 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:09 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=digital+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:09 - WDM - INFO - 
+
+2021-12-26 05:09:09 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:09 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:09 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:09 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:10 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=digital+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:10 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:18 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=interactive+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:18 - WDM - INFO - 
+
+2021-12-26 05:09:18 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:18 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:18 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:18 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:19 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=interactive+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:19 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:21 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=arvr+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:21 - WDM - INFO - 
+
+2021-12-26 05:09:21 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:22 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:22 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:22 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:23 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=arvr+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:23 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:27 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=sound+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:27 - WDM - INFO - 
+
+2021-12-26 05:09:27 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:27 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:27 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:27 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:28 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=sound+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:28 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:30 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+coder&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:30 - WDM - INFO - 
+
+2021-12-26 05:09:30 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:30 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:30 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:30 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:31 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+coder&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:31 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:37 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:37 - WDM - INFO - 
+
+2021-12-26 05:09:37 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:37 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:37 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:37 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:38 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:38 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:44 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=Techical+Sound+Designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:44 - WDM - INFO - 
+
+2021-12-26 05:09:44 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:44 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:44 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:44 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:45 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=Techical+Sound+Designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:45 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:47 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=audio+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:47 - WDM - INFO - 
+
+2021-12-26 05:09:47 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:47 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:47 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:47 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:48 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=audio+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:48 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:09:55 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=digital+platform&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:55 - WDM - INFO - 
+
+2021-12-26 05:09:55 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:09:55 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:09:55 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:09:55 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:09:56 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=digital+platform&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:09:56 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:10:05 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:05 - WDM - INFO - 
+
+2021-12-26 05:10:05 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:10:05 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:10:05 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:10:05 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:10:06 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:06 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:10:09 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:09 - WDM - INFO - 
+
+2021-12-26 05:10:09 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:10:09 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:10:09 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:10:09 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:10:10 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:10 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:10:12 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:12 - WDM - INFO - 
+
+2021-12-26 05:10:12 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:10:12 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:10:12 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:10:12 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:10:13 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:13 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:10:21 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:21 - WDM - INFO - 
+
+2021-12-26 05:10:21 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:10:21 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:10:21 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:10:21 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:10:22 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:22 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:10:30 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=ux+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:30 - WDM - INFO - 
+
+2021-12-26 05:10:30 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:10:30 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:10:30 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:10:30 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:10:31 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=ux+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:31 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:10:33 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=ux+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:33 - WDM - INFO - 
+
+2021-12-26 05:10:33 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:10:33 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:10:33 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:10:33 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:10:34 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=ux+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:34 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:10:43 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=design+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:43 - WDM - INFO - 
+
+2021-12-26 05:10:43 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:10:43 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:10:43 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:10:43 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:10:44 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=design+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:44 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:10:50 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:50 - WDM - INFO - 
+
+2021-12-26 05:10:50 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:10:50 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:10:50 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:10:50 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:10:51 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:51 - root - INFO - Break here, now go to next loop(next page)
+2021-12-26 05:10:58 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:58 - WDM - INFO - 
+
+2021-12-26 05:10:58 - WDM - INFO - ====== WebDriver manager ======
+2021-12-26 05:10:58 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-26 05:10:58 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-26 05:10:58 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-26 05:10:59 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-26 05:10:59 - root - INFO - Break here, now go to next loop(next page)
