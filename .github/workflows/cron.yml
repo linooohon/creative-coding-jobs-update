@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '* 01 * * *'
+    - cron: '25 04 * * Mon'
 jobs:
   setup-python-and-update-data:
     name: Setup Python And Update Data
@@ -44,8 +44,8 @@ jobs:
         if: steps.git-check.outputs.modified == 'true'
         run: |
           echo $PWD
-          git config --global user.name 'linooohon'
-          git config --global user.email 'linooohon@gmail.com'
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
           git commit -m "[Cron commit] - upate data on $(date -u '+D:%Y-%m-%d, T:%H:%M:%S / UTC+0')"
       - name: Push Changes
