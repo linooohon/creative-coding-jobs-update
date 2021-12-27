@@ -1,6 +1,8 @@
 import csv
 import json
 import subprocess
+import pandas as pd
+from datetime import datetime
 from crawlers import JOB_BANK_LIST
 
 class ConvertData():
@@ -69,4 +71,27 @@ class ConvertData():
         print(result_list)
         with open('final.json', 'w') as file:
             json.dump(result_list, file)
-        
+    
+    def final_readme_init(self):
+        update_date = datetime.utcnow().date()
+        markdown_content = f'<h1 style="text-align: center;">Creative Coding Jobs Update</h1>'
+        with open(f"./README.md", "w+") as f:
+            f.write(markdown_content)
+        with open(f"./README.md", "a") as f:
+            f.write(f'\n<p style="text-align: center;">{update_date}</p>\n[TOC]\n')
+    
+    def final_json_to_readme():
+        with open("final.json", "r") as read_file:
+            data = json.load(read_file)
+        for i in data:
+            for keyword, value in i.items():
+                df = pd.DataFrame(value).sort_values(["platform"]).reset_index(drop=True)
+                columns = ['keyword', 'company_name', 'company_page_link', 'job_name', 'job_page_link', 'index']
+                df.drop(columns, inplace=True, axis=1)
+                df.index += 1
+                markdown_content = "\n"
+                markdown_content += f"\n#### {keyword}"
+                markdown_content += "\n" + df.to_markdown()
+
+                with open(f"./README.md", "a") as f:
+                    f.write(markdown_content)

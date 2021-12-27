@@ -38,4 +38,6 @@ if __name__ == '__main__':
     cd.merge_csv()
     cd.csv_to_json()
     cd.json_transform()
+    cd.final_readme_init()
+    cd.final_json_to_readme()
     subprocess.Popen('date -u "+DATE: %Y-%m-%d, TIME: %H:%M:%S / UTC+0" > update_time.log', shell=True)
