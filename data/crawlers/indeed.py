@@ -182,11 +182,19 @@ class Indeed(BaseCrawler):
         else:
             logging.info(f'====Finished Processing====: {self.keyword}')
             print(f'====Finished Processing====: {self.keyword}')
-            df = pd.DataFrame(self.result_list)
+
             logging.info(f'====Send data to CSV file====: {self.keyword}')
             print(f'====Send data to CSV file====: {self.keyword}')
-            self._insert_to_readme(
-                self.result_list, self.query['q'], platform_class)
-            # df.to_csv('indeed.csv')
             self._insert_to_csv(
                 self.result_list, self.query['q'], platform_class)
+            logging.info(
+            f'====Finished Sending data to CSV file====: {self.keyword}')
+            print(f'====Finished Sending data to CSV file====: {self.keyword}')
+
+            logging.info(f'====Sending data to readme====: {self.keyword}')
+            print(f'====Sending data to readme====: {self.keyword}')
+            self._insert_to_readme(
+                self.result_list, self.query['q'], platform_class)
+            logging.info(
+            f'====Finished Sending data to readme====: {self.keyword}')
+            print(f'====Finished Sending data to readme====: {self.keyword}')
