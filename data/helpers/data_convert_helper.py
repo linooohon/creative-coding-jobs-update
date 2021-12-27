@@ -75,11 +75,11 @@ class ConvertData():
     
     def final_readme_init(self):
         update_date = datetime.utcnow().date()
-        markdown_content = f'<h1 style="text-align: center;">Creative Coding Jobs Update</h1>'
+        markdown_content = f'<h1 align="center">Creative Coding Jobs Update</h1>'
         with open(f"../README.md", "w+") as f:
             f.write(markdown_content)
         with open(f"../README.md", "a") as f:
-            f.write(f'\n<p style="text-align: center;">{update_date}</p>\n## TOC\n')
+            f.write(f'\n<p align="center">U{update_date}</p>\n## TOC\n\n')
         s = Setting()
         df = s.get_csv_from_s3()
         title_keyword_list = df['title_keyword'].tolist()
@@ -87,7 +87,7 @@ class ConvertData():
         with open(f"../README.md", "a") as f:
             for keyword in title_keyword_list:
                 toc_a_link = ''.join(keyword.split())
-                f.write(f'[{keyword}](#{toc_a_link})')
+                f.write(f'[{keyword}](#{toc_a_link})\n')
     
     def final_json_to_readme(self):
         with open("final.json", "r") as read_file:
