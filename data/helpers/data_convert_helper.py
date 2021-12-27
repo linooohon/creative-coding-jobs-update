@@ -3,6 +3,7 @@ import json
 import subprocess
 import pandas as pd
 from datetime import datetime
+from crawlers.setting import Setting
 from crawlers import JOB_BANK_LIST
 
 class ConvertData():
@@ -75,10 +76,18 @@ class ConvertData():
     def final_readme_init(self):
         update_date = datetime.utcnow().date()
         markdown_content = f'<h1 style="text-align: center;">Creative Coding Jobs Update</h1>'
-        with open(f"./README.md", "w+") as f:
+        with open(f"../README.md", "w+") as f:
             f.write(markdown_content)
-        with open(f"./README.md", "a") as f:
-            f.write(f'\n<p style="text-align: center;">{update_date}</p>\n[TOC]\n')
+        with open(f"../README.md", "a") as f:
+            f.write(f'\n<p style="text-align: center;">{update_date}</p>\n## TOC\n')
+        s = Setting()
+        df = s.get_csv_from_s3()
+        title_keyword_list = df['title_keyword'].tolist()
+        title_keyword_list = [x for x in title_keyword_list if x]
+        with open(f"../README.md", "a") as f:
+            for keyword in title_keyword_list:
+                toc_a_link = ''.join(keyword.split())
+                f.write(f'[{keyword}](#{toc_a_link})')
     
     def final_json_to_readme(self):
         with open("final.json", "r") as read_file:
@@ -90,8 +99,9 @@ class ConvertData():
                 df.drop(columns, inplace=True, axis=1)
                 df.index += 1
                 markdown_content = "\n"
-                markdown_content += f"\n#### {keyword}"
+                toc_a_link = ''.join(keyword.split())
+                markdown_content += f'\n#### {keyword} <a name="{toc_a_link}" />'
                 markdown_content += "\n" + df.to_markdown()
 
-                with open(f"./README.md", "a") as f:
+                with open(f"../README.md", "a") as f:
                     f.write(markdown_content)
