@@ -1,6 +1,10 @@
+# References:
+# https://github.com/actions/checkout/issues/13
+# https://github.community/t/github-actions-bot-email-address/17204/5
+
 on:
   schedule:
-    - cron: '25 04 * * Mon'
+    - cron: '45 04 * * Mon'
 jobs:
   setup-python-and-update-data:
     name: Setup Python And Update Data
@@ -45,7 +49,7 @@ jobs:
         run: |
           echo $PWD
           git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add .
           git commit -m "[Cron commit] - upate data on $(date -u '+D:%Y-%m-%d, T:%H:%M:%S / UTC+0')"
       - name: Push Changes
