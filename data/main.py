@@ -33,7 +33,7 @@ if __name__ == '__main__':
     for keyword in title_keyword_list:
         print(f"You search keywords: {keyword}")
         crawler = CreativeCoderJobSearch(keyword)
-        time.sleep(random.randrange(1, 10))
+        time.sleep(random.randrange(3, 10))
         crawler.run()
     cd.merge_csv()
     cd.csv_to_json()
