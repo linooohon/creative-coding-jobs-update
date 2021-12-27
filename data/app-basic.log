@@ -1764,3 +1764,331 @@ IndexError: list index out of range
 2021-12-27 02:09:05 - root - INFO - ====Finished Sending data to CSV file====: artworker
 2021-12-27 02:09:05 - root - INFO - ====Sending data to readme====: artworker
 2021-12-27 02:09:05 - root - INFO - ====Finished Sending data to readme====: artworker
+2021-12-27 05:00:16 - fake_useragent - WARNING - Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.11
+Traceback (most recent call last):
+  File "/home/runner/work/creative-coding-jobs-update/creative-coding-jobs-update/.venv/lib/python3.9/site-packages/fake_useragent/utils.py", line 154, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "/home/runner/work/creative-coding-jobs-update/creative-coding-jobs-update/.venv/lib/python3.9/site-packages/fake_useragent/utils.py", line 99, in get_browsers
+    html = html.split('<table class="w3-table-all notranslate">')[1]
+IndexError: list index out of range
+2021-12-27 05:00:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+developer&pn=1
+2021-12-27 05:00:18 - root - INFO - ====Finished Processing====: creative developer
+2021-12-27 05:00:18 - root - INFO - ====Sending data to CSV file====: creative developer
+2021-12-27 05:00:18 - root - INFO - ====Finished Sending data to CSV file====: creative developer
+2021-12-27 05:00:18 - root - INFO - ====Sending data to readme====: creative developer
+2021-12-27 05:00:18 - root - INFO - ====Finished Sending data to readme====: creative developer
+2021-12-27 05:00:23 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+art&pn=1
+2021-12-27 05:00:24 - root - INFO - ====Finished Processing====: generative art
+2021-12-27 05:00:24 - root - INFO - ====Sending data to CSV file====: generative art
+2021-12-27 05:00:24 - root - INFO - ====Finished Sending data to CSV file====: generative art
+2021-12-27 05:00:24 - root - INFO - ====Sending data to readme====: generative art
+2021-12-27 05:00:24 - root - INFO - ====Finished Sending data to readme====: generative art
+2021-12-27 05:00:26 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+developer&pn=1
+2021-12-27 05:00:26 - root - INFO - ====Finished Processing====: digital developer
+2021-12-27 05:00:26 - root - INFO - ====Sending data to CSV file====: digital developer
+2021-12-27 05:00:26 - root - INFO - ====Finished Sending data to CSV file====: digital developer
+2021-12-27 05:00:26 - root - INFO - ====Sending data to readme====: digital developer
+2021-12-27 05:00:26 - root - INFO - ====Finished Sending data to readme====: digital developer
+2021-12-27 05:00:28 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+artist&pn=1
+2021-12-27 05:00:29 - root - INFO - ====Finished Processing====: generative artist
+2021-12-27 05:00:29 - root - INFO - ====Sending data to CSV file====: generative artist
+2021-12-27 05:00:29 - root - INFO - ====Finished Sending data to CSV file====: generative artist
+2021-12-27 05:00:29 - root - INFO - ====Sending data to readme====: generative artist
+2021-12-27 05:00:29 - root - INFO - ====Finished Sending data to readme====: generative artist
+2021-12-27 05:00:32 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+developer&pn=1
+2021-12-27 05:00:32 - root - INFO - ====Finished Processing====: interactive developer
+2021-12-27 05:00:32 - root - INFO - ====Sending data to CSV file====: interactive developer
+2021-12-27 05:00:32 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
+2021-12-27 05:00:32 - root - INFO - ====Sending data to readme====: interactive developer
+2021-12-27 05:00:32 - root - INFO - ====Finished Sending data to readme====: interactive developer
+2021-12-27 05:00:42 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+designer&pn=1
+2021-12-27 05:00:43 - root - INFO - ====Finished Processing====: generative designer
+2021-12-27 05:00:43 - root - INFO - ====Sending data to CSV file====: generative designer
+2021-12-27 05:00:43 - root - INFO - ====Finished Sending data to CSV file====: generative designer
+2021-12-27 05:00:43 - root - INFO - ====Sending data to readme====: generative designer
+2021-12-27 05:00:43 - root - INFO - ====Finished Sending data to readme====: generative designer
+2021-12-27 05:00:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2021-12-27 05:00:46 - root - INFO - ====Finished Processing====: graphic engineer
+2021-12-27 05:00:46 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2021-12-27 05:00:46 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2021-12-27 05:00:46 - root - INFO - ====Sending data to readme====: graphic engineer
+2021-12-27 05:00:46 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2021-12-27 05:00:49 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+engineer&pn=1
+2021-12-27 05:00:50 - root - INFO - ====Finished Processing====: generative engineer
+2021-12-27 05:00:50 - root - INFO - ====Sending data to CSV file====: generative engineer
+2021-12-27 05:00:50 - root - INFO - ====Finished Sending data to CSV file====: generative engineer
+2021-12-27 05:00:50 - root - INFO - ====Sending data to readme====: generative engineer
+2021-12-27 05:00:50 - root - INFO - ====Finished Sending data to readme====: generative engineer
+2021-12-27 05:00:56 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+designer&pn=1
+2021-12-27 05:00:57 - root - INFO - ====Finished Processing====: interactive designer
+2021-12-27 05:00:57 - root - INFO - ====Sending data to CSV file====: interactive designer
+2021-12-27 05:00:57 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
+2021-12-27 05:00:57 - root - INFO - ====Sending data to readme====: interactive designer
+2021-12-27 05:00:57 - root - INFO - ====Finished Sending data to readme====: interactive designer
+2021-12-27 05:01:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+artist&pn=1
+2021-12-27 05:01:01 - root - INFO - ====Finished Processing====: technical artist
+2021-12-27 05:01:01 - root - INFO - ====Sending data to CSV file====: technical artist
+2021-12-27 05:01:01 - root - INFO - ====Finished Sending data to CSV file====: technical artist
+2021-12-27 05:01:01 - root - INFO - ====Sending data to readme====: technical artist
+2021-12-27 05:01:01 - root - INFO - ====Finished Sending data to readme====: technical artist
+2021-12-27 05:01:11 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
+2021-12-27 05:01:11 - root - INFO - ====Finished Processing====: virtual reality developer
+2021-12-27 05:01:11 - root - INFO - ====Sending data to CSV file====: virtual reality developer
+2021-12-27 05:01:11 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
+2021-12-27 05:01:11 - root - INFO - ====Sending data to readme====: virtual reality developer
+2021-12-27 05:01:11 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
+2021-12-27 05:01:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+developer&pn=1
+2021-12-27 05:01:18 - root - INFO - ====Finished Processing====: arvr developer
+2021-12-27 05:01:18 - root - INFO - ====Sending data to CSV file====: arvr developer
+2021-12-27 05:01:18 - root - INFO - ====Finished Sending data to CSV file====: arvr developer
+2021-12-27 05:01:18 - root - INFO - ====Sending data to readme====: arvr developer
+2021-12-27 05:01:18 - root - INFO - ====Finished Sending data to readme====: arvr developer
+2021-12-27 05:01:23 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+designer&pn=1
+2021-12-27 05:01:24 - root - INFO - ====Finished Processing====: sound designer
+2021-12-27 05:01:24 - root - INFO - ====Sending data to CSV file====: sound designer
+2021-12-27 05:01:24 - root - INFO - ====Finished Sending data to CSV file====: sound designer
+2021-12-27 05:01:24 - root - INFO - ====Sending data to readme====: sound designer
+2021-12-27 05:01:24 - root - INFO - ====Finished Sending data to readme====: sound designer
+2021-12-27 05:01:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=unity+developer&pn=1
+2021-12-27 05:01:31 - root - INFO - ====Finished Processing====: unity developer
+2021-12-27 05:01:31 - root - INFO - ====Sending data to CSV file====: unity developer
+2021-12-27 05:01:31 - root - INFO - ====Finished Sending data to CSV file====: unity developer
+2021-12-27 05:01:31 - root - INFO - ====Sending data to readme====: unity developer
+2021-12-27 05:01:31 - root - INFO - ====Finished Sending data to readme====: unity developer
+2021-12-27 05:01:36 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+designer&pn=1
+2021-12-27 05:01:37 - root - INFO - ====Finished Processing====: creative designer
+2021-12-27 05:01:37 - root - INFO - ====Sending data to CSV file====: creative designer
+2021-12-27 05:01:37 - root - INFO - ====Finished Sending data to CSV file====: creative designer
+2021-12-27 05:01:37 - root - INFO - ====Sending data to readme====: creative designer
+2021-12-27 05:01:37 - root - INFO - ====Finished Sending data to readme====: creative designer
+2021-12-27 05:01:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+designer&pn=1
+2021-12-27 05:01:39 - root - INFO - ====Finished Processing====: digital designer
+2021-12-27 05:01:39 - root - INFO - ====Sending data to CSV file====: digital designer
+2021-12-27 05:01:39 - root - INFO - ====Finished Sending data to CSV file====: digital designer
+2021-12-27 05:01:39 - root - INFO - ====Sending data to readme====: digital designer
+2021-12-27 05:01:39 - root - INFO - ====Finished Sending data to readme====: digital designer
+2021-12-27 05:01:41 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=animation+developer&pn=1
+2021-12-27 05:01:41 - root - INFO - ====Finished Processing====: animation developer
+2021-12-27 05:01:41 - root - INFO - ====Sending data to CSV file====: animation developer
+2021-12-27 05:01:41 - root - INFO - ====Finished Sending data to CSV file====: animation developer
+2021-12-27 05:01:41 - root - INFO - ====Sending data to readme====: animation developer
+2021-12-27 05:01:41 - root - INFO - ====Finished Sending data to readme====: animation developer
+2021-12-27 05:01:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+designer&pn=1
+2021-12-27 05:01:43 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+designer&pn=1
+2021-12-27 05:01:43 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 05:01:48 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+developer&pn=1
+2021-12-27 05:01:48 - root - INFO - ====Finished Processing====: sound developer
+2021-12-27 05:01:48 - root - INFO - ====Sending data to CSV file====: sound developer
+2021-12-27 05:01:48 - root - INFO - ====Finished Sending data to CSV file====: sound developer
+2021-12-27 05:01:48 - root - INFO - ====Sending data to readme====: sound developer
+2021-12-27 05:01:48 - root - INFO - ====Finished Sending data to readme====: sound developer
+2021-12-27 05:01:52 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+coder&pn=1
+2021-12-27 05:01:52 - root - INFO - ====Finished Processing====: creative coder
+2021-12-27 05:01:52 - root - INFO - ====Sending data to CSV file====: creative coder
+2021-12-27 05:01:52 - root - INFO - ====Finished Sending data to CSV file====: creative coder
+2021-12-27 05:01:52 - root - INFO - ====Sending data to readme====: creative coder
+2021-12-27 05:01:52 - root - INFO - ====Finished Sending data to readme====: creative coder
+2021-12-27 05:01:59 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+engineer&pn=1
+2021-12-27 05:01:59 - root - INFO - ====Finished Processing====: ux engineer
+2021-12-27 05:01:59 - root - INFO - ====Sending data to CSV file====: ux engineer
+2021-12-27 05:01:59 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
+2021-12-27 05:01:59 - root - INFO - ====Sending data to readme====: ux engineer
+2021-12-27 05:01:59 - root - INFO - ====Finished Sending data to readme====: ux engineer
+2021-12-27 05:02:08 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+sound+designer&pn=1
+2021-12-27 05:02:08 - root - INFO - ====Finished Processing====: technical sound designer
+2021-12-27 05:02:08 - root - INFO - ====Sending data to CSV file====: technical sound designer
+2021-12-27 05:02:08 - root - INFO - ====Finished Sending data to CSV file====: technical sound designer
+2021-12-27 05:02:08 - root - INFO - ====Sending data to readme====: technical sound designer
+2021-12-27 05:02:08 - root - INFO - ====Finished Sending data to readme====: technical sound designer
+2021-12-27 05:02:11 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=audio+engineer&pn=1
+2021-12-27 05:02:11 - root - INFO - ====Finished Processing====: audio engineer
+2021-12-27 05:02:11 - root - INFO - ====Sending data to CSV file====: audio engineer
+2021-12-27 05:02:11 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
+2021-12-27 05:02:11 - root - INFO - ====Sending data to readme====: audio engineer
+2021-12-27 05:02:11 - root - INFO - ====Finished Sending data to readme====: audio engineer
+2021-12-27 05:02:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+platform&pn=1
+2021-12-27 05:02:21 - root - INFO - ====Finished Processing====: digital platform
+2021-12-27 05:02:21 - root - INFO - ====Sending data to CSV file====: digital platform
+2021-12-27 05:02:21 - root - INFO - ====Finished Sending data to CSV file====: digital platform
+2021-12-27 05:02:21 - root - INFO - ====Sending data to readme====: digital platform
+2021-12-27 05:02:21 - root - INFO - ====Finished Sending data to readme====: digital platform
+2021-12-27 05:02:22 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+designer&pn=1
+2021-12-27 05:02:23 - root - INFO - ====Finished Processing====: graphic designer
+2021-12-27 05:02:23 - root - INFO - ====Sending data to CSV file====: graphic designer
+2021-12-27 05:02:23 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
+2021-12-27 05:02:23 - root - INFO - ====Sending data to readme====: graphic designer
+2021-12-27 05:02:23 - root - INFO - ====Finished Sending data to readme====: graphic designer
+2021-12-27 05:02:32 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+designer&pn=1
+2021-12-27 05:02:33 - root - INFO - ====Finished Processing====: ux designer
+2021-12-27 05:02:33 - root - INFO - ====Sending data to CSV file====: ux designer
+2021-12-27 05:02:33 - root - INFO - ====Finished Sending data to CSV file====: ux designer
+2021-12-27 05:02:33 - root - INFO - ====Sending data to readme====: ux designer
+2021-12-27 05:02:33 - root - INFO - ====Finished Sending data to readme====: ux designer
+2021-12-27 05:02:40 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+artist&pn=1
+2021-12-27 05:02:41 - root - INFO - ====Finished Processing====: graphic artist
+2021-12-27 05:02:41 - root - INFO - ====Sending data to CSV file====: graphic artist
+2021-12-27 05:02:41 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
+2021-12-27 05:02:41 - root - INFO - ====Sending data to readme====: graphic artist
+2021-12-27 05:02:41 - root - INFO - ====Finished Sending data to readme====: graphic artist
+2021-12-27 05:02:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+artworker&pn=1
+2021-12-27 05:02:46 - root - INFO - ====Finished Processing====: creative artworker
+2021-12-27 05:02:46 - root - INFO - ====Sending data to CSV file====: creative artworker
+2021-12-27 05:02:46 - root - INFO - ====Finished Sending data to CSV file====: creative artworker
+2021-12-27 05:02:46 - root - INFO - ====Sending data to readme====: creative artworker
+2021-12-27 05:02:46 - root - INFO - ====Finished Sending data to readme====: creative artworker
+2021-12-27 05:02:51 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+developer&pn=1
+2021-12-27 05:02:52 - root - INFO - ====Finished Processing====: graphic developer
+2021-12-27 05:02:52 - root - INFO - ====Sending data to CSV file====: graphic developer
+2021-12-27 05:02:52 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
+2021-12-27 05:02:52 - root - INFO - ====Sending data to readme====: graphic developer
+2021-12-27 05:02:52 - root - INFO - ====Finished Sending data to readme====: graphic developer
+2021-12-27 05:02:56 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+designer&pn=1
+2021-12-27 05:02:56 - root - INFO - ====Finished Processing====: ui designer
+2021-12-27 05:02:56 - root - INFO - ====Sending data to CSV file====: ui designer
+2021-12-27 05:02:56 - root - INFO - ====Finished Sending data to CSV file====: ui designer
+2021-12-27 05:02:56 - root - INFO - ====Sending data to readme====: ui designer
+2021-12-27 05:02:56 - root - INFO - ====Finished Sending data to readme====: ui designer
+2021-12-27 05:03:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2021-12-27 05:03:02 - root - INFO - ====Finished Processing====: graphic engineer
+2021-12-27 05:03:02 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2021-12-27 05:03:02 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2021-12-27 05:03:02 - root - INFO - ====Sending data to readme====: graphic engineer
+2021-12-27 05:03:02 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2021-12-27 05:03:10 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=design+developer&pn=1
+2021-12-27 05:03:10 - root - INFO - ====Finished Processing====: design developer
+2021-12-27 05:03:10 - root - INFO - ====Sending data to CSV file====: design developer
+2021-12-27 05:03:10 - root - INFO - ====Finished Sending data to CSV file====: design developer
+2021-12-27 05:03:10 - root - INFO - ====Sending data to readme====: design developer
+2021-12-27 05:03:10 - root - INFO - ====Finished Sending data to readme====: design developer
+2021-12-27 05:03:13 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+art&pn=1
+2021-12-27 05:03:14 - root - INFO - ====Finished Processing====: visual art
+2021-12-27 05:03:14 - root - INFO - ====Sending data to CSV file====: visual art
+2021-12-27 05:03:14 - root - INFO - ====Finished Sending data to CSV file====: visual art
+2021-12-27 05:03:14 - root - INFO - ====Sending data to readme====: visual art
+2021-12-27 05:03:14 - root - INFO - ====Finished Sending data to readme====: visual art
+2021-12-27 05:03:23 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+engineer&pn=1
+2021-12-27 05:03:24 - root - INFO - ====Finished Processing====: ui engineer
+2021-12-27 05:03:24 - root - INFO - ====Sending data to CSV file====: ui engineer
+2021-12-27 05:03:24 - root - INFO - ====Finished Sending data to CSV file====: ui engineer
+2021-12-27 05:03:24 - root - INFO - ====Sending data to readme====: ui engineer
+2021-12-27 05:03:24 - root - INFO - ====Finished Sending data to readme====: ui engineer
+2021-12-27 05:03:29 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+designer&pn=1
+2021-12-27 05:03:29 - root - INFO - ====Finished Processing====: 3d designer
+2021-12-27 05:03:29 - root - INFO - ====Sending data to CSV file====: 3d designer
+2021-12-27 05:03:29 - root - INFO - ====Finished Sending data to CSV file====: 3d designer
+2021-12-27 05:03:29 - root - INFO - ====Sending data to readme====: 3d designer
+2021-12-27 05:03:29 - root - INFO - ====Finished Sending data to readme====: 3d designer
+2021-12-27 05:03:34 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+effects&pn=1
+2021-12-27 05:03:35 - root - INFO - ====Finished Processing====: visual effects
+2021-12-27 05:03:35 - root - INFO - ====Sending data to CSV file====: visual effects
+2021-12-27 05:03:35 - root - INFO - ====Finished Sending data to CSV file====: visual effects
+2021-12-27 05:03:35 - root - INFO - ====Sending data to readme====: visual effects
+2021-12-27 05:03:35 - root - INFO - ====Finished Sending data to readme====: visual effects
+2021-12-27 05:03:40 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+developer&pn=1
+2021-12-27 05:03:41 - root - INFO - ====Finished Processing====: acoustic developer
+2021-12-27 05:03:41 - root - INFO - ====Sending data to CSV file====: acoustic developer
+2021-12-27 05:03:41 - root - INFO - ====Finished Sending data to CSV file====: acoustic developer
+2021-12-27 05:03:41 - root - INFO - ====Sending data to readme====: acoustic developer
+2021-12-27 05:03:41 - root - INFO - ====Finished Sending data to readme====: acoustic developer
+2021-12-27 05:03:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+developer&pn=1
+2021-12-27 05:03:45 - root - INFO - ====Finished Processing====: music developer
+2021-12-27 05:03:45 - root - INFO - ====Sending data to CSV file====: music developer
+2021-12-27 05:03:45 - root - INFO - ====Finished Sending data to CSV file====: music developer
+2021-12-27 05:03:45 - root - INFO - ====Sending data to readme====: music developer
+2021-12-27 05:03:45 - root - INFO - ====Finished Sending data to readme====: music developer
+2021-12-27 05:03:52 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+architect&pn=1
+2021-12-27 05:03:52 - root - INFO - ====Finished Processing====: visual architect
+2021-12-27 05:03:52 - root - INFO - ====Sending data to CSV file====: visual architect
+2021-12-27 05:03:52 - root - INFO - ====Finished Sending data to CSV file====: visual architect
+2021-12-27 05:03:52 - root - INFO - ====Sending data to readme====: visual architect
+2021-12-27 05:03:52 - root - INFO - ====Finished Sending data to readme====: visual architect
+2021-12-27 05:04:02 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=artworker&pn=1
+2021-12-27 05:04:02 - root - INFO - ====Finished Processing====: artworker
+2021-12-27 05:04:02 - root - INFO - ====Sending data to CSV file====: artworker
+2021-12-27 05:04:02 - root - INFO - ====Finished Sending data to CSV file====: artworker
+2021-12-27 05:04:02 - root - INFO - ====Sending data to readme====: artworker
+2021-12-27 05:04:02 - root - INFO - ====Finished Sending data to readme====: artworker
+2021-12-27 05:04:03 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+developer&pn=1
+2021-12-27 05:04:04 - root - INFO - ====Finished Processing====: 3d developer
+2021-12-27 05:04:04 - root - INFO - ====Sending data to CSV file====: 3d developer
+2021-12-27 05:04:04 - root - INFO - ====Finished Sending data to CSV file====: 3d developer
+2021-12-27 05:04:04 - root - INFO - ====Sending data to readme====: 3d developer
+2021-12-27 05:04:04 - root - INFO - ====Finished Sending data to readme====: 3d developer
+2021-12-27 05:04:11 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+engineer&pn=1
+2021-12-27 05:04:12 - root - INFO - ====Finished Processing====: music engineer
+2021-12-27 05:04:12 - root - INFO - ====Sending data to CSV file====: music engineer
+2021-12-27 05:04:12 - root - INFO - ====Finished Sending data to CSV file====: music engineer
+2021-12-27 05:04:12 - root - INFO - ====Sending data to readme====: music engineer
+2021-12-27 05:04:12 - root - INFO - ====Finished Sending data to readme====: music engineer
+2021-12-27 05:04:14 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+engineer&pn=1
+2021-12-27 05:04:14 - root - INFO - ====Finished Processing====: acoustic engineer
+2021-12-27 05:04:14 - root - INFO - ====Sending data to CSV file====: acoustic engineer
+2021-12-27 05:04:14 - root - INFO - ====Finished Sending data to CSV file====: acoustic engineer
+2021-12-27 05:04:14 - root - INFO - ====Sending data to readme====: acoustic engineer
+2021-12-27 05:04:14 - root - INFO - ====Finished Sending data to readme====: acoustic engineer
+2021-12-27 05:04:19 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+engineer&pn=1
+2021-12-27 05:04:20 - root - INFO - ====Finished Processing====: visual engineer
+2021-12-27 05:04:20 - root - INFO - ====Sending data to CSV file====: visual engineer
+2021-12-27 05:04:20 - root - INFO - ====Finished Sending data to CSV file====: visual engineer
+2021-12-27 05:04:20 - root - INFO - ====Sending data to readme====: visual engineer
+2021-12-27 05:04:20 - root - INFO - ====Finished Sending data to readme====: visual engineer
+2021-12-27 05:04:24 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+design&pn=1
+2021-12-27 05:04:24 - root - INFO - ====Finished Processing====: generative design
+2021-12-27 05:04:24 - root - INFO - ====Sending data to CSV file====: generative design
+2021-12-27 05:04:24 - root - INFO - ====Finished Sending data to CSV file====: generative design
+2021-12-27 05:04:24 - root - INFO - ====Sending data to readme====: generative design
+2021-12-27 05:04:24 - root - INFO - ====Finished Sending data to readme====: generative design
+2021-12-27 05:04:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+engineer&pn=1
+2021-12-27 05:04:30 - root - INFO - ====Finished Processing====: vfx engineer
+2021-12-27 05:04:30 - root - INFO - ====Sending data to CSV file====: vfx engineer
+2021-12-27 05:04:30 - root - INFO - ====Finished Sending data to CSV file====: vfx engineer
+2021-12-27 05:04:30 - root - INFO - ====Sending data to readme====: vfx engineer
+2021-12-27 05:04:30 - root - INFO - ====Finished Sending data to readme====: vfx engineer
+2021-12-27 05:04:35 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=junior+designer&pn=1
+2021-12-27 05:04:35 - root - INFO - ====Finished Processing====: junior designer
+2021-12-27 05:04:35 - root - INFO - ====Sending data to CSV file====: junior designer
+2021-12-27 05:04:35 - root - INFO - ====Finished Sending data to CSV file====: junior designer
+2021-12-27 05:04:35 - root - INFO - ====Sending data to readme====: junior designer
+2021-12-27 05:04:35 - root - INFO - ====Finished Sending data to readme====: junior designer
+2021-12-27 05:04:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programming&pn=1
+2021-12-27 05:04:46 - root - INFO - ====Finished Processing====: creative programming
+2021-12-27 05:04:46 - root - INFO - ====Sending data to CSV file====: creative programming
+2021-12-27 05:04:46 - root - INFO - ====Finished Sending data to CSV file====: creative programming
+2021-12-27 05:04:46 - root - INFO - ====Sending data to readme====: creative programming
+2021-12-27 05:04:46 - root - INFO - ====Finished Sending data to readme====: creative programming
+2021-12-27 05:04:55 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=frontend+engineer&pn=1
+2021-12-27 05:04:56 - root - INFO - ====Finished Processing====: frontend engineer
+2021-12-27 05:04:56 - root - INFO - ====Sending data to CSV file====: frontend engineer
+2021-12-27 05:04:56 - root - INFO - ====Finished Sending data to CSV file====: frontend engineer
+2021-12-27 05:04:56 - root - INFO - ====Sending data to readme====: frontend engineer
+2021-12-27 05:04:56 - root - INFO - ====Finished Sending data to readme====: frontend engineer
+2021-12-27 05:05:02 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programmer&pn=1
+2021-12-27 05:05:03 - root - INFO - ====Finished Processing====: creative programmer
+2021-12-27 05:05:03 - root - INFO - ====Sending data to CSV file====: creative programmer
+2021-12-27 05:05:03 - root - INFO - ====Finished Sending data to CSV file====: creative programmer
+2021-12-27 05:05:03 - root - INFO - ====Sending data to readme====: creative programmer
+2021-12-27 05:05:03 - root - INFO - ====Finished Sending data to readme====: creative programmer
+2021-12-27 05:05:10 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=senior+designer&pn=1
+2021-12-27 05:05:11 - root - INFO - ====Finished Processing====: senior designer
+2021-12-27 05:05:11 - root - INFO - ====Sending data to CSV file====: senior designer
+2021-12-27 05:05:11 - root - INFO - ====Finished Sending data to CSV file====: senior designer
+2021-12-27 05:05:11 - root - INFO - ====Sending data to readme====: senior designer
+2021-12-27 05:05:11 - root - INFO - ====Finished Sending data to readme====: senior designer
+2021-12-27 05:05:15 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustical+engineering&pn=1
+2021-12-27 05:05:15 - root - INFO - ====Finished Processing====: acoustical engineering
+2021-12-27 05:05:15 - root - INFO - ====Sending data to CSV file====: acoustical engineering
+2021-12-27 05:05:15 - root - INFO - ====Finished Sending data to CSV file====: acoustical engineering
+2021-12-27 05:05:15 - root - INFO - ====Sending data to readme====: acoustical engineering
+2021-12-27 05:05:15 - root - INFO - ====Finished Sending data to readme====: acoustical engineering
+2021-12-27 05:05:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+designer&pn=1
+2021-12-27 05:05:20 - root - INFO - ====Finished Processing====: vfx designer
+2021-12-27 05:05:20 - root - INFO - ====Sending data to CSV file====: vfx designer
+2021-12-27 05:05:20 - root - INFO - ====Finished Sending data to CSV file====: vfx designer
+2021-12-27 05:05:20 - root - INFO - ====Sending data to readme====: vfx designer
+2021-12-27 05:05:20 - root - INFO - ====Finished Sending data to readme====: vfx designer
+2021-12-27 05:05:21 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+engineer&pn=1
+2021-12-27 05:05:21 - root - INFO - ====Finished Processing====: 3d engineer
+2021-12-27 05:05:22 - root - INFO - ====Sending data to CSV file====: 3d engineer
+2021-12-27 05:05:22 - root - INFO - ====Finished Sending data to CSV file====: 3d engineer
+2021-12-27 05:05:22 - root - INFO - ====Sending data to readme====: 3d engineer
+2021-12-27 05:05:22 - root - INFO - ====Finished Sending data to readme====: 3d engineer
