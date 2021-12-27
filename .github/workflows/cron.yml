@@ -11,11 +11,11 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
-      - name: Set up Python version
+      - name: Set Up Python Version
         uses: actions/setup-python@v2
         with:
           python-version: '3.9'
-      - name: Create env file
+      - name: Create env File
         run: |
           cd data/
           cat << EOF > .env
@@ -24,7 +24,7 @@ jobs:
           AWS_S3_BUCKET=${{ secrets.AWS_S3_BUCKET }}
           AWS_S3_FILE_NAME=${{ secrets.AWS_S3_FILE_NAME }}
           EOF
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           pip install poetry
           cat << EOF > poetry.toml
@@ -35,18 +35,20 @@ jobs:
       - name: Update Data Folder
         run: |
           source $PWD/.venv/bin/activate
-          cd data/
-          python main.py
+          cd data/ && python main.py
           cd ..
-          echo $PWD
+      - name: Check For Modified Files
+        id: git-check
+        run: echo ::set-output name=modified::$(if [ -n "$(git status --porcelain)" ]; then echo "true"; else echo "false"; fi)
       - name: Git Commit
+        if: steps.git-check.outputs.modified == 'true'
         run: |
           echo $PWD
           git config --global user.name 'linooohon'
           git config --global user.email 'linooohon@gmail.com'
           git add .
-          git commit -m "[Automated commit] - upate data"
-      - name: Push changes
+          git commit -m "[Cron commit] - upate data on $(date -u '+D:%Y-%m-%d, T:%H:%M:%S / UTC+0')"
+      - name: Push Changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
