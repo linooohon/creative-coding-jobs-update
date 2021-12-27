@@ -4,12 +4,12 @@
       <div v-for="item in Object.entries(jobItem)" :key="item[0]">
         <div class="jobCard_keyword">{{ item[0] }}</div>
         <div class="jobCard_platform">
-          <div class="jobCard_platform_linkedin">
+          <!-- <div class="jobCard_platform_linkedin">
             <div>{{ linkedin }}</div>
             <div v-for="(job, index) in item[1]" :key="`${job}_${index}`">
               <JobCard :job="job" :platform="linkedin" />
             </div>
-          </div>
+          </div> -->
           <div class="jobCard_platform_glassdoor">
             <div>{{ glassdoor }}</div>
             <div v-for="(job, index) in item[1]" :key="`${job}_${index}`">
@@ -42,7 +42,7 @@ export default {
   name: 'Dashboard',
   data () {
     return {
-      linkedin: 'LinkedIn',
+      // linkedin: 'LinkedIn',
       glassdoor: 'Glassdoor',
       simplyhired: 'SimplyHired',
       indeed: 'Indeed'

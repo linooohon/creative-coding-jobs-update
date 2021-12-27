@@ -37,3 +37,5 @@ poetry.toml
 __pycache__/
 
 # app-basic.log
+final_test.json
+testing.json

@@ -7,12 +7,12 @@
         <div
           class="jobCard_platform"
         >
-          <div class="jobCard_platform_linkedin">
-            <!-- <div>{{ linkedin }}</div> -->
+          <!-- <div class="jobCard_platform_linkedin">
+            <div>{{ linkedin }}</div>
             <div v-for="(job, index) in item[1]" :key="`${job}_${index}`">
               <JobCard :job="job" :platform="linkedin" v-if="job.company_name.toLowerCase().indexOf(searchQuery.toLowerCase()) > -1 || job.job_name.toLowerCase().indexOf(searchQuery.toLowerCase()) > -1"/>
             </div>
-          </div>
+          </div> -->
           <div class="jobCard_platform_glassdoor">
             <!-- <div>{{ glassdoor }}</div> -->
             <div v-for="(job, index) in item[1]" :key="`${job}_${index}`">
@@ -45,7 +45,7 @@ export default {
   props: ['jobData', 'searchQuery'],
   data () {
     return {
-      linkedin: 'LinkedIn',
+      // linkedin: 'LinkedIn',
       glassdoor: 'Glassdoor',
       simplyhired: 'SimplyHired',
       indeed: 'Indeed'
