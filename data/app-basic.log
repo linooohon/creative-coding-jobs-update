@@ -1007,3 +1007,760 @@ IndexError: list index out of range
 2021-12-26 07:19:19 - root - INFO - ====Finished Sending data to CSV file====: artworker
 2021-12-26 07:19:19 - root - INFO - ====Sending data to readme====: artworker
 2021-12-26 07:19:19 - root - INFO - ====Finished Sending data to readme====: artworker
+2021-12-27 02:03:50 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:03:50 - WDM - INFO - 
+
+2021-12-27 02:03:50 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:03:50 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:03:50 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:03:50 - WDM - INFO - There is no [linux64] chromedriver for browser  in cache
+2021-12-27 02:03:50 - WDM - INFO - Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_linux64.zip
+2021-12-27 02:03:51 - WDM - INFO - Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45]
+2021-12-27 02:03:52 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:03:52 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:03:52 - fake_useragent - WARNING - Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.11
+Traceback (most recent call last):
+  File "/home/runner/work/creative-coding-jobs-update/creative-coding-jobs-update/.venv/lib/python3.9/site-packages/fake_useragent/utils.py", line 154, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "/home/runner/work/creative-coding-jobs-update/creative-coding-jobs-update/.venv/lib/python3.9/site-packages/fake_useragent/utils.py", line 99, in get_browsers
+    html = html.split('<table class="w3-table-all notranslate">')[1]
+IndexError: list index out of range
+2021-12-27 02:03:54 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:03:54 - root - INFO - Page: 0, creative developer
+2021-12-27 02:03:54 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:03:54 - root - INFO - Page: 1, creative developer
+2021-12-27 02:03:55 - root - INFO - ====Finished Processing====: creative developer
+2021-12-27 02:03:55 - root - INFO - ====Send data to CSV file====: creative developer
+2021-12-27 02:03:56 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+developer&pn=1
+2021-12-27 02:03:56 - root - INFO - ====Finished Processing====: creative developer
+2021-12-27 02:03:56 - root - INFO - ====Sending data to CSV file====: creative developer
+2021-12-27 02:03:56 - root - INFO - ====Finished Sending data to CSV file====: creative developer
+2021-12-27 02:03:56 - root - INFO - ====Sending data to readme====: creative developer
+2021-12-27 02:03:56 - root - INFO - ====Finished Sending data to readme====: creative developer
+2021-12-27 02:03:57 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
+2021-12-27 02:03:59 - root - INFO - ====Finished Processing====: creative developer
+2021-12-27 02:03:59 - root - INFO - ====Sending data to CSV file====: creative developer
+2021-12-27 02:03:59 - root - INFO - ====Finished Sending data to CSV file====: creative developer
+2021-12-27 02:03:59 - root - INFO - ====Sending data to readme====: creative developer
+2021-12-27 02:03:59 - root - INFO - ====Finished Sending data to readme====: creative developer
+2021-12-27 02:04:06 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=interactive+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:06 - WDM - INFO - 
+
+2021-12-27 02:04:06 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:04:06 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:04:06 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:04:06 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:04:07 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=interactive+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:07 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:08 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=interactive+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:04:08 - root - INFO - Page: 0, interactive designer
+2021-12-27 02:04:08 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=interactive+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:04:08 - root - INFO - Page: 1, interactive designer
+2021-12-27 02:04:09 - root - INFO - ====Finished Processing====: interactive designer
+2021-12-27 02:04:09 - root - INFO - ====Send data to CSV file====: interactive designer
+2021-12-27 02:04:09 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+designer&pn=1
+2021-12-27 02:04:10 - root - INFO - ====Finished Processing====: interactive designer
+2021-12-27 02:04:10 - root - INFO - ====Sending data to CSV file====: interactive designer
+2021-12-27 02:04:10 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
+2021-12-27 02:04:10 - root - INFO - ====Sending data to readme====: interactive designer
+2021-12-27 02:04:10 - root - INFO - ====Finished Sending data to readme====: interactive designer
+2021-12-27 02:04:10 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
+2021-12-27 02:04:12 - root - INFO - ====Finished Processing====: interactive designer
+2021-12-27 02:04:12 - root - INFO - ====Sending data to CSV file====: interactive designer
+2021-12-27 02:04:12 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
+2021-12-27 02:04:12 - root - INFO - ====Sending data to readme====: interactive designer
+2021-12-27 02:04:12 - root - INFO - ====Finished Sending data to readme====: interactive designer
+2021-12-27 02:04:17 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=technical+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:17 - WDM - INFO - 
+
+2021-12-27 02:04:17 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:04:17 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:04:17 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:04:17 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:04:18 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=technical+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:18 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:19 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=technical+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:04:19 - root - INFO - Page: 0, technical artist
+2021-12-27 02:04:19 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=technical+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:04:19 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:19 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=technical+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:04:19 - root - INFO - Page: 1, technical artist
+2021-12-27 02:04:20 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=technical+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:04:20 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+artist&pn=1
+2021-12-27 02:04:21 - root - INFO - ====Finished Processing====: technical artist
+2021-12-27 02:04:21 - root - INFO - ====Sending data to CSV file====: technical artist
+2021-12-27 02:04:21 - root - INFO - ====Finished Sending data to CSV file====: technical artist
+2021-12-27 02:04:21 - root - INFO - ====Sending data to readme====: technical artist
+2021-12-27 02:04:21 - root - INFO - ====Finished Sending data to readme====: technical artist
+2021-12-27 02:04:21 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
+2021-12-27 02:04:23 - root - INFO - ====Finished Processing====: technical artist
+2021-12-27 02:04:23 - root - INFO - ====Sending data to CSV file====: technical artist
+2021-12-27 02:04:23 - root - INFO - ====Finished Sending data to CSV file====: technical artist
+2021-12-27 02:04:23 - root - INFO - ====Sending data to readme====: technical artist
+2021-12-27 02:04:23 - root - INFO - ====Finished Sending data to readme====: technical artist
+2021-12-27 02:04:31 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=virtual+reality+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:31 - WDM - INFO - 
+
+2021-12-27 02:04:31 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:04:31 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:04:31 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:04:31 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:04:32 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=virtual+reality+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:32 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:33 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=virtual+reality+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:04:33 - root - INFO - Page: 0, virtual reality developer
+2021-12-27 02:04:33 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=virtual+reality+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:04:33 - root - INFO - Page: 1, virtual reality developer
+2021-12-27 02:04:34 - root - INFO - ====Finished Processing====: virtual reality developer
+2021-12-27 02:04:34 - root - INFO - ====Send data to CSV file====: virtual reality developer
+2021-12-27 02:04:34 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
+2021-12-27 02:04:35 - root - INFO - ====Finished Processing====: virtual reality developer
+2021-12-27 02:04:35 - root - INFO - ====Sending data to CSV file====: virtual reality developer
+2021-12-27 02:04:35 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
+2021-12-27 02:04:35 - root - INFO - ====Sending data to readme====: virtual reality developer
+2021-12-27 02:04:35 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
+2021-12-27 02:04:35 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
+2021-12-27 02:04:37 - root - INFO - ====Finished Processing====: virtual reality developer
+2021-12-27 02:04:37 - root - INFO - ====Sending data to CSV file====: virtual reality developer
+2021-12-27 02:04:37 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
+2021-12-27 02:04:37 - root - INFO - ====Sending data to readme====: virtual reality developer
+2021-12-27 02:04:37 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
+2021-12-27 02:04:43 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=arvr+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:43 - WDM - INFO - 
+
+2021-12-27 02:04:43 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:04:43 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:04:43 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:04:43 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:04:44 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=arvr+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:44 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:44 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=arvr+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:04:44 - root - INFO - Page: 0, arvr developer
+2021-12-27 02:04:44 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=arvr+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:04:44 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:44 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=arvr+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:04:44 - root - INFO - Page: 1, arvr developer
+2021-12-27 02:04:45 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=arvr+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:04:45 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+developer&pn=1
+2021-12-27 02:04:45 - root - INFO - ====Finished Processing====: arvr developer
+2021-12-27 02:04:45 - root - INFO - ====Sending data to CSV file====: arvr developer
+2021-12-27 02:04:45 - root - INFO - ====Finished Sending data to CSV file====: arvr developer
+2021-12-27 02:04:45 - root - INFO - ====Sending data to readme====: arvr developer
+2021-12-27 02:04:45 - root - INFO - ====Finished Sending data to readme====: arvr developer
+2021-12-27 02:04:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
+2021-12-27 02:04:47 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
+2021-12-27 02:04:47 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:51 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=sound+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:51 - WDM - INFO - 
+
+2021-12-27 02:04:51 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:04:51 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:04:51 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:04:52 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:04:53 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=sound+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:53 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:04:53 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=sound+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:04:53 - root - INFO - Page: 0, sound designer
+2021-12-27 02:04:53 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=sound+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:04:53 - root - INFO - Page: 1, sound designer
+2021-12-27 02:04:54 - root - INFO - ====Finished Processing====: sound designer
+2021-12-27 02:04:54 - root - INFO - ====Send data to CSV file====: sound designer
+2021-12-27 02:04:54 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+designer&pn=1
+2021-12-27 02:04:55 - root - INFO - ====Finished Processing====: sound designer
+2021-12-27 02:04:55 - root - INFO - ====Sending data to CSV file====: sound designer
+2021-12-27 02:04:55 - root - INFO - ====Finished Sending data to CSV file====: sound designer
+2021-12-27 02:04:55 - root - INFO - ====Sending data to readme====: sound designer
+2021-12-27 02:04:55 - root - INFO - ====Finished Sending data to readme====: sound designer
+2021-12-27 02:04:55 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
+2021-12-27 02:04:57 - root - INFO - ====Finished Processing====: sound designer
+2021-12-27 02:04:57 - root - INFO - ====Sending data to CSV file====: sound designer
+2021-12-27 02:04:57 - root - INFO - ====Finished Sending data to CSV file====: sound designer
+2021-12-27 02:04:57 - root - INFO - ====Sending data to readme====: sound designer
+2021-12-27 02:04:57 - root - INFO - ====Finished Sending data to readme====: sound designer
+2021-12-27 02:04:58 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=unity+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:58 - WDM - INFO - 
+
+2021-12-27 02:04:58 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:04:58 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:04:58 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:04:58 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:04:59 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=unity+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:04:59 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:05:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=unity+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:05:00 - root - INFO - Page: 0, unity developer
+2021-12-27 02:05:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=unity+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:05:00 - root - INFO - Page: 1, unity developer
+2021-12-27 02:05:01 - root - INFO - ====Finished Processing====: unity developer
+2021-12-27 02:05:01 - root - INFO - ====Send data to CSV file====: unity developer
+2021-12-27 02:05:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=unity+developer&pn=1
+2021-12-27 02:05:02 - root - INFO - ====Finished Processing====: unity developer
+2021-12-27 02:05:02 - root - INFO - ====Sending data to CSV file====: unity developer
+2021-12-27 02:05:02 - root - INFO - ====Finished Sending data to CSV file====: unity developer
+2021-12-27 02:05:02 - root - INFO - ====Sending data to readme====: unity developer
+2021-12-27 02:05:02 - root - INFO - ====Finished Sending data to readme====: unity developer
+2021-12-27 02:05:02 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
+2021-12-27 02:05:04 - root - INFO - ====Finished Processing====: unity developer
+2021-12-27 02:05:04 - root - INFO - ====Sending data to CSV file====: unity developer
+2021-12-27 02:05:04 - root - INFO - ====Finished Sending data to CSV file====: unity developer
+2021-12-27 02:05:04 - root - INFO - ====Sending data to readme====: unity developer
+2021-12-27 02:05:04 - root - INFO - ====Finished Sending data to readme====: unity developer
+2021-12-27 02:05:07 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:07 - WDM - INFO - 
+
+2021-12-27 02:05:07 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:05:07 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:05:07 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:05:07 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:05:08 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:08 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:05:09 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:05:09 - root - INFO - Page: 0, creative designer
+2021-12-27 02:05:09 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:05:09 - root - INFO - Page: 1, creative designer
+2021-12-27 02:05:10 - root - INFO - ====Finished Processing====: creative designer
+2021-12-27 02:05:10 - root - INFO - ====Send data to CSV file====: creative designer
+2021-12-27 02:05:10 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+designer&pn=1
+2021-12-27 02:05:11 - root - INFO - ====Finished Processing====: creative designer
+2021-12-27 02:05:11 - root - INFO - ====Sending data to CSV file====: creative designer
+2021-12-27 02:05:11 - root - INFO - ====Finished Sending data to CSV file====: creative designer
+2021-12-27 02:05:11 - root - INFO - ====Sending data to readme====: creative designer
+2021-12-27 02:05:11 - root - INFO - ====Finished Sending data to readme====: creative designer
+2021-12-27 02:05:11 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
+2021-12-27 02:05:13 - root - INFO - ====Finished Processing====: creative designer
+2021-12-27 02:05:13 - root - INFO - ====Sending data to CSV file====: creative designer
+2021-12-27 02:05:13 - root - INFO - ====Finished Sending data to CSV file====: creative designer
+2021-12-27 02:05:13 - root - INFO - ====Sending data to readme====: creative designer
+2021-12-27 02:05:13 - root - INFO - ====Finished Sending data to readme====: creative designer
+2021-12-27 02:05:22 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=digital+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:22 - WDM - INFO - 
+
+2021-12-27 02:05:22 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:05:22 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:05:22 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:05:22 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:05:23 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=digital+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:23 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:05:24 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:05:24 - root - INFO - Page: 0, digital designer
+2021-12-27 02:05:24 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:05:24 - root - INFO - Page: 1, digital designer
+2021-12-27 02:05:25 - root - INFO - ====Finished Processing====: digital designer
+2021-12-27 02:05:25 - root - INFO - ====Send data to CSV file====: digital designer
+2021-12-27 02:05:25 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+designer&pn=1
+2021-12-27 02:05:26 - root - INFO - ====Finished Processing====: digital designer
+2021-12-27 02:05:26 - root - INFO - ====Sending data to CSV file====: digital designer
+2021-12-27 02:05:26 - root - INFO - ====Finished Sending data to CSV file====: digital designer
+2021-12-27 02:05:26 - root - INFO - ====Sending data to readme====: digital designer
+2021-12-27 02:05:26 - root - INFO - ====Finished Sending data to readme====: digital designer
+2021-12-27 02:05:26 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
+2021-12-27 02:05:27 - root - INFO - ====Finished Processing====: digital designer
+2021-12-27 02:05:27 - root - INFO - ====Sending data to CSV file====: digital designer
+2021-12-27 02:05:27 - root - INFO - ====Finished Sending data to CSV file====: digital designer
+2021-12-27 02:05:27 - root - INFO - ====Sending data to readme====: digital designer
+2021-12-27 02:05:27 - root - INFO - ====Finished Sending data to readme====: digital designer
+2021-12-27 02:05:35 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=animation+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:35 - WDM - INFO - 
+
+2021-12-27 02:05:35 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:05:35 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:05:35 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:05:35 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:05:36 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=animation+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:36 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:05:36 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=animation+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:05:36 - root - INFO - Page: 0, animation developer
+2021-12-27 02:05:37 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=animation+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:05:37 - root - INFO - Page: 1, animation developer
+2021-12-27 02:05:37 - root - INFO - ====Finished Processing====: animation developer
+2021-12-27 02:05:37 - root - INFO - ====Send data to CSV file====: animation developer
+2021-12-27 02:05:38 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=animation+developer&pn=1
+2021-12-27 02:05:38 - root - INFO - ====Finished Processing====: animation developer
+2021-12-27 02:05:38 - root - INFO - ====Sending data to CSV file====: animation developer
+2021-12-27 02:05:38 - root - INFO - ====Finished Sending data to CSV file====: animation developer
+2021-12-27 02:05:38 - root - INFO - ====Sending data to readme====: animation developer
+2021-12-27 02:05:38 - root - INFO - ====Finished Sending data to readme====: animation developer
+2021-12-27 02:05:39 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
+2021-12-27 02:05:40 - root - INFO - ====Finished Processing====: animation developer
+2021-12-27 02:05:40 - root - INFO - ====Sending data to CSV file====: animation developer
+2021-12-27 02:05:40 - root - INFO - ====Finished Sending data to CSV file====: animation developer
+2021-12-27 02:05:40 - root - INFO - ====Sending data to readme====: animation developer
+2021-12-27 02:05:40 - root - INFO - ====Finished Sending data to readme====: animation developer
+2021-12-27 02:05:41 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=digital+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:41 - WDM - INFO - 
+
+2021-12-27 02:05:41 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:05:41 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:05:41 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:05:41 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:05:42 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=digital+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:42 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:05:42 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:05:42 - root - INFO - Page: 0, digital developer
+2021-12-27 02:05:43 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:05:43 - root - INFO - Page: 1, digital developer
+2021-12-27 02:05:43 - root - INFO - ====Finished Processing====: digital developer
+2021-12-27 02:05:43 - root - INFO - ====Send data to CSV file====: digital developer
+2021-12-27 02:05:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+developer&pn=1
+2021-12-27 02:05:44 - root - INFO - ====Finished Processing====: digital developer
+2021-12-27 02:05:44 - root - INFO - ====Sending data to CSV file====: digital developer
+2021-12-27 02:05:44 - root - INFO - ====Finished Sending data to CSV file====: digital developer
+2021-12-27 02:05:44 - root - INFO - ====Sending data to readme====: digital developer
+2021-12-27 02:05:44 - root - INFO - ====Finished Sending data to readme====: digital developer
+2021-12-27 02:05:44 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
+2021-12-27 02:05:45 - root - INFO - ====Finished Processing====: digital developer
+2021-12-27 02:05:45 - root - INFO - ====Sending data to CSV file====: digital developer
+2021-12-27 02:05:45 - root - INFO - ====Finished Sending data to CSV file====: digital developer
+2021-12-27 02:05:45 - root - INFO - ====Sending data to readme====: digital developer
+2021-12-27 02:05:45 - root - INFO - ====Finished Sending data to readme====: digital developer
+2021-12-27 02:05:49 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=interactive+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:49 - WDM - INFO - 
+
+2021-12-27 02:05:49 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:05:49 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:05:49 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:05:49 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:05:50 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=interactive+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:50 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:05:50 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=interactive+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:05:50 - root - INFO - Page: 0, interactive developer
+2021-12-27 02:05:51 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=interactive+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:05:51 - root - INFO - Page: 1, interactive developer
+2021-12-27 02:05:51 - root - INFO - ====Finished Processing====: interactive developer
+2021-12-27 02:05:51 - root - INFO - ====Send data to CSV file====: interactive developer
+2021-12-27 02:05:52 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+developer&pn=1
+2021-12-27 02:05:52 - root - INFO - ====Finished Processing====: interactive developer
+2021-12-27 02:05:52 - root - INFO - ====Sending data to CSV file====: interactive developer
+2021-12-27 02:05:52 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
+2021-12-27 02:05:52 - root - INFO - ====Sending data to readme====: interactive developer
+2021-12-27 02:05:52 - root - INFO - ====Finished Sending data to readme====: interactive developer
+2021-12-27 02:05:53 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
+2021-12-27 02:05:55 - root - INFO - ====Finished Processing====: interactive developer
+2021-12-27 02:05:55 - root - INFO - ====Sending data to CSV file====: interactive developer
+2021-12-27 02:05:55 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
+2021-12-27 02:05:55 - root - INFO - ====Sending data to readme====: interactive developer
+2021-12-27 02:05:55 - root - INFO - ====Finished Sending data to readme====: interactive developer
+2021-12-27 02:05:58 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=arvr+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:58 - WDM - INFO - 
+
+2021-12-27 02:05:58 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:05:58 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:05:58 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:05:58 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:05:59 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=arvr+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:05:59 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=arvr+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:06:00 - root - INFO - Page: 0, arvr designer
+2021-12-27 02:06:00 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=arvr+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:06:00 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=arvr+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:06:00 - root - INFO - Page: 1, arvr designer
+2021-12-27 02:06:00 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=arvr+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:06:00 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+designer&pn=1
+2021-12-27 02:06:01 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+designer&pn=1
+2021-12-27 02:06:01 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:01 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
+2021-12-27 02:06:02 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
+2021-12-27 02:06:02 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:12 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=sound+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:06:12 - WDM - INFO - 
+
+2021-12-27 02:06:12 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:06:12 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:06:12 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:06:12 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:06:13 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=sound+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:06:13 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:13 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=sound+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:06:13 - root - INFO - Page: 0, sound developer
+2021-12-27 02:06:14 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=sound+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:06:14 - root - INFO - Page: 1, sound developer
+2021-12-27 02:06:14 - root - INFO - ====Finished Processing====: sound developer
+2021-12-27 02:06:14 - root - INFO - ====Send data to CSV file====: sound developer
+2021-12-27 02:06:15 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+developer&pn=1
+2021-12-27 02:06:15 - root - INFO - ====Finished Processing====: sound developer
+2021-12-27 02:06:15 - root - INFO - ====Sending data to CSV file====: sound developer
+2021-12-27 02:06:15 - root - INFO - ====Finished Sending data to CSV file====: sound developer
+2021-12-27 02:06:15 - root - INFO - ====Sending data to readme====: sound developer
+2021-12-27 02:06:15 - root - INFO - ====Finished Sending data to readme====: sound developer
+2021-12-27 02:06:15 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
+2021-12-27 02:06:17 - root - INFO - ====Finished Processing====: sound developer
+2021-12-27 02:06:17 - root - INFO - ====Sending data to CSV file====: sound developer
+2021-12-27 02:06:17 - root - INFO - ====Finished Sending data to CSV file====: sound developer
+2021-12-27 02:06:17 - root - INFO - ====Sending data to readme====: sound developer
+2021-12-27 02:06:17 - root - INFO - ====Finished Sending data to readme====: sound developer
+2021-12-27 02:06:26 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+coder&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:06:26 - WDM - INFO - 
+
+2021-12-27 02:06:26 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:06:26 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:06:26 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:06:26 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:06:27 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+coder&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:06:27 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:28 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+coder&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:06:28 - root - INFO - Page: 0, creative coder
+2021-12-27 02:06:28 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+coder&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:06:28 - root - INFO - Page: 1, creative coder
+2021-12-27 02:06:28 - root - INFO - ====Finished Processing====: creative coder
+2021-12-27 02:06:28 - root - INFO - ====Send data to CSV file====: creative coder
+2021-12-27 02:06:29 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+coder&pn=1
+2021-12-27 02:06:29 - root - INFO - ====Finished Processing====: creative coder
+2021-12-27 02:06:29 - root - INFO - ====Sending data to CSV file====: creative coder
+2021-12-27 02:06:29 - root - INFO - ====Finished Sending data to CSV file====: creative coder
+2021-12-27 02:06:29 - root - INFO - ====Sending data to readme====: creative coder
+2021-12-27 02:06:29 - root - INFO - ====Finished Sending data to readme====: creative coder
+2021-12-27 02:06:30 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
+2021-12-27 02:06:31 - root - INFO - ====Finished Processing====: creative coder
+2021-12-27 02:06:31 - root - INFO - ====Sending data to CSV file====: creative coder
+2021-12-27 02:06:31 - root - INFO - ====Finished Sending data to CSV file====: creative coder
+2021-12-27 02:06:31 - root - INFO - ====Sending data to readme====: creative coder
+2021-12-27 02:06:31 - root - INFO - ====Finished Sending data to readme====: creative coder
+2021-12-27 02:06:39 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:06:39 - WDM - INFO - 
+
+2021-12-27 02:06:39 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:06:39 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:06:39 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:06:39 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:06:40 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:06:40 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:41 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:06:41 - root - INFO - Page: 0, インタラクティブデベロッパー
+2021-12-27 02:06:41 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:06:41 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:41 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:06:41 - root - INFO - Page: 1, インタラクティブデベロッパー
+2021-12-27 02:06:41 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:06:41 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:42 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&pn=1
+2021-12-27 02:06:42 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&pn=1
+2021-12-27 02:06:42 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC&fromAge=14
+2021-12-27 02:06:45 - root - INFO - ====Finished Processing====: インタラクティブデベロッパー
+2021-12-27 02:06:45 - root - INFO - ====Sending data to CSV file====: インタラクティブデベロッパー
+2021-12-27 02:06:45 - root - INFO - ====Finished Sending data to CSV file====: インタラクティブデベロッパー
+2021-12-27 02:06:45 - root - INFO - ====Sending data to readme====: インタラクティブデベロッパー
+2021-12-27 02:06:45 - root - INFO - ====Finished Sending data to readme====: インタラクティブデベロッパー
+2021-12-27 02:06:51 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=Techical+Sound+Designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:06:51 - WDM - INFO - 
+
+2021-12-27 02:06:51 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:06:51 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:06:51 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:06:51 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:06:52 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=Techical+Sound+Designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:06:52 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:53 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=Techical+Sound+Designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:06:53 - root - INFO - Page: 0, Techical Sound Designer
+2021-12-27 02:06:53 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=Techical+Sound+Designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:06:53 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:53 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=Techical+Sound+Designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:06:53 - root - INFO - Page: 1, Techical Sound Designer
+2021-12-27 02:06:53 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=Techical+Sound+Designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:06:53 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:54 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=Techical+Sound+Designer&pn=1
+2021-12-27 02:06:54 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=Techical+Sound+Designer&pn=1
+2021-12-27 02:06:54 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:06:54 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=Techical+Sound+Designer&fromAge=14
+2021-12-27 02:06:55 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=Techical+Sound+Designer&fromAge=14
+2021-12-27 02:06:55 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:07:04 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=audio+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:04 - WDM - INFO - 
+
+2021-12-27 02:07:04 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:07:04 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:07:04 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:07:04 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:07:05 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=audio+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:05 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:07:05 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=audio+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:07:05 - root - INFO - Page: 0, audio engineer
+2021-12-27 02:07:06 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=audio+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:07:06 - root - INFO - Page: 1, audio engineer
+2021-12-27 02:07:06 - root - INFO - ====Finished Processing====: audio engineer
+2021-12-27 02:07:06 - root - INFO - ====Send data to CSV file====: audio engineer
+2021-12-27 02:07:07 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=audio+engineer&pn=1
+2021-12-27 02:07:07 - root - INFO - ====Finished Processing====: audio engineer
+2021-12-27 02:07:07 - root - INFO - ====Sending data to CSV file====: audio engineer
+2021-12-27 02:07:07 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
+2021-12-27 02:07:07 - root - INFO - ====Sending data to readme====: audio engineer
+2021-12-27 02:07:07 - root - INFO - ====Finished Sending data to readme====: audio engineer
+2021-12-27 02:07:07 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
+2021-12-27 02:07:09 - root - INFO - ====Finished Processing====: audio engineer
+2021-12-27 02:07:09 - root - INFO - ====Sending data to CSV file====: audio engineer
+2021-12-27 02:07:09 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
+2021-12-27 02:07:09 - root - INFO - ====Sending data to readme====: audio engineer
+2021-12-27 02:07:09 - root - INFO - ====Finished Sending data to readme====: audio engineer
+2021-12-27 02:07:12 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=digital+platform&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:12 - WDM - INFO - 
+
+2021-12-27 02:07:12 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:07:12 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:07:12 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:07:12 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:07:13 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=digital+platform&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:13 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:07:14 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+platform&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:07:14 - root - INFO - Page: 0, digital platform
+2021-12-27 02:07:14 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+platform&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:07:14 - root - INFO - Page: 1, digital platform
+2021-12-27 02:07:15 - root - INFO - ====Finished Processing====: digital platform
+2021-12-27 02:07:15 - root - INFO - ====Send data to CSV file====: digital platform
+2021-12-27 02:07:16 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+platform&pn=1
+2021-12-27 02:07:17 - root - INFO - ====Finished Processing====: digital platform
+2021-12-27 02:07:17 - root - INFO - ====Sending data to CSV file====: digital platform
+2021-12-27 02:07:17 - root - INFO - ====Finished Sending data to CSV file====: digital platform
+2021-12-27 02:07:17 - root - INFO - ====Sending data to readme====: digital platform
+2021-12-27 02:07:17 - root - INFO - ====Finished Sending data to readme====: digital platform
+2021-12-27 02:07:17 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
+2021-12-27 02:07:19 - root - INFO - ====Finished Processing====: digital platform
+2021-12-27 02:07:19 - root - INFO - ====Sending data to CSV file====: digital platform
+2021-12-27 02:07:19 - root - INFO - ====Finished Sending data to CSV file====: digital platform
+2021-12-27 02:07:19 - root - INFO - ====Sending data to readme====: digital platform
+2021-12-27 02:07:19 - root - INFO - ====Finished Sending data to readme====: digital platform
+2021-12-27 02:07:24 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:24 - WDM - INFO - 
+
+2021-12-27 02:07:24 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:07:24 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:07:24 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:07:24 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:07:25 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:25 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:07:26 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:07:26 - root - INFO - Page: 0, graphic designer
+2021-12-27 02:07:26 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:07:26 - root - INFO - Page: 1, graphic designer
+2021-12-27 02:07:27 - root - INFO - ====Finished Processing====: graphic designer
+2021-12-27 02:07:27 - root - INFO - ====Send data to CSV file====: graphic designer
+2021-12-27 02:07:27 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+designer&pn=1
+2021-12-27 02:07:28 - root - INFO - ====Finished Processing====: graphic designer
+2021-12-27 02:07:28 - root - INFO - ====Sending data to CSV file====: graphic designer
+2021-12-27 02:07:28 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
+2021-12-27 02:07:28 - root - INFO - ====Sending data to readme====: graphic designer
+2021-12-27 02:07:28 - root - INFO - ====Finished Sending data to readme====: graphic designer
+2021-12-27 02:07:28 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
+2021-12-27 02:07:30 - root - INFO - ====Finished Processing====: graphic designer
+2021-12-27 02:07:30 - root - INFO - ====Sending data to CSV file====: graphic designer
+2021-12-27 02:07:30 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
+2021-12-27 02:07:30 - root - INFO - ====Sending data to readme====: graphic designer
+2021-12-27 02:07:30 - root - INFO - ====Finished Sending data to readme====: graphic designer
+2021-12-27 02:07:36 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:36 - WDM - INFO - 
+
+2021-12-27 02:07:36 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:07:36 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:07:36 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:07:36 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:07:37 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+artist&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:37 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:07:38 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:07:38 - root - INFO - Page: 0, graphic artist
+2021-12-27 02:07:38 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:07:38 - root - INFO - Page: 1, graphic artist
+2021-12-27 02:07:38 - root - INFO - ====Finished Processing====: graphic artist
+2021-12-27 02:07:38 - root - INFO - ====Send data to CSV file====: graphic artist
+2021-12-27 02:07:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+artist&pn=1
+2021-12-27 02:07:39 - root - INFO - ====Finished Processing====: graphic artist
+2021-12-27 02:07:39 - root - INFO - ====Sending data to CSV file====: graphic artist
+2021-12-27 02:07:39 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
+2021-12-27 02:07:39 - root - INFO - ====Sending data to readme====: graphic artist
+2021-12-27 02:07:39 - root - INFO - ====Finished Sending data to readme====: graphic artist
+2021-12-27 02:07:40 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
+2021-12-27 02:07:42 - root - INFO - ====Finished Processing====: graphic artist
+2021-12-27 02:07:42 - root - INFO - ====Sending data to CSV file====: graphic artist
+2021-12-27 02:07:42 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
+2021-12-27 02:07:42 - root - INFO - ====Sending data to readme====: graphic artist
+2021-12-27 02:07:42 - root - INFO - ====Finished Sending data to readme====: graphic artist
+2021-12-27 02:07:44 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:44 - WDM - INFO - 
+
+2021-12-27 02:07:44 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:07:44 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:07:44 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:07:44 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:07:45 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:45 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:07:46 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:07:46 - root - INFO - Page: 0, graphic developer
+2021-12-27 02:07:46 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:07:46 - root - INFO - Page: 1, graphic developer
+2021-12-27 02:07:47 - root - INFO - ====Finished Processing====: graphic developer
+2021-12-27 02:07:47 - root - INFO - ====Send data to CSV file====: graphic developer
+2021-12-27 02:07:47 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+developer&pn=1
+2021-12-27 02:07:47 - root - INFO - ====Finished Processing====: graphic developer
+2021-12-27 02:07:47 - root - INFO - ====Sending data to CSV file====: graphic developer
+2021-12-27 02:07:47 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
+2021-12-27 02:07:47 - root - INFO - ====Sending data to readme====: graphic developer
+2021-12-27 02:07:47 - root - INFO - ====Finished Sending data to readme====: graphic developer
+2021-12-27 02:07:48 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
+2021-12-27 02:07:49 - root - INFO - ====Finished Processing====: graphic developer
+2021-12-27 02:07:49 - root - INFO - ====Sending data to CSV file====: graphic developer
+2021-12-27 02:07:49 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
+2021-12-27 02:07:49 - root - INFO - ====Sending data to readme====: graphic developer
+2021-12-27 02:07:49 - root - INFO - ====Finished Sending data to readme====: graphic developer
+2021-12-27 02:07:58 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=graphic+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:58 - WDM - INFO - 
+
+2021-12-27 02:07:58 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:07:58 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:07:58 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:07:58 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:07:59 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=graphic+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:07:59 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:08:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:08:00 - root - INFO - Page: 0, graphic engineer
+2021-12-27 02:08:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:08:00 - root - INFO - Page: 1, graphic engineer
+2021-12-27 02:08:01 - root - INFO - ====Finished Processing====: graphic engineer
+2021-12-27 02:08:01 - root - INFO - ====Send data to CSV file====: graphic engineer
+2021-12-27 02:08:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2021-12-27 02:08:02 - root - INFO - ====Finished Processing====: graphic engineer
+2021-12-27 02:08:02 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2021-12-27 02:08:02 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2021-12-27 02:08:02 - root - INFO - ====Sending data to readme====: graphic engineer
+2021-12-27 02:08:02 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2021-12-27 02:08:02 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2021-12-27 02:08:03 - root - INFO - ====Finished Processing====: graphic engineer
+2021-12-27 02:08:03 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2021-12-27 02:08:03 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2021-12-27 02:08:03 - root - INFO - ====Sending data to readme====: graphic engineer
+2021-12-27 02:08:03 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2021-12-27 02:08:07 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=ux+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:08:07 - WDM - INFO - 
+
+2021-12-27 02:08:07 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:08:07 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:08:07 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:08:07 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:08:08 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=ux+designer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:08:08 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:08:09 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ux+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:08:09 - root - INFO - Page: 0, ux designer
+2021-12-27 02:08:09 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ux+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:08:09 - root - INFO - Page: 1, ux designer
+2021-12-27 02:08:10 - root - INFO - ====Finished Processing====: ux designer
+2021-12-27 02:08:10 - root - INFO - ====Send data to CSV file====: ux designer
+2021-12-27 02:08:10 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+designer&pn=1
+2021-12-27 02:08:11 - root - INFO - ====Finished Processing====: ux designer
+2021-12-27 02:08:11 - root - INFO - ====Sending data to CSV file====: ux designer
+2021-12-27 02:08:11 - root - INFO - ====Finished Sending data to CSV file====: ux designer
+2021-12-27 02:08:11 - root - INFO - ====Sending data to readme====: ux designer
+2021-12-27 02:08:11 - root - INFO - ====Finished Sending data to readme====: ux designer
+2021-12-27 02:08:11 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
+2021-12-27 02:08:12 - root - INFO - ====Finished Processing====: ux designer
+2021-12-27 02:08:12 - root - INFO - ====Sending data to CSV file====: ux designer
+2021-12-27 02:08:12 - root - INFO - ====Finished Sending data to CSV file====: ux designer
+2021-12-27 02:08:12 - root - INFO - ====Sending data to readme====: ux designer
+2021-12-27 02:08:12 - root - INFO - ====Finished Sending data to readme====: ux designer
+2021-12-27 02:08:22 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=ux+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:08:22 - WDM - INFO - 
+
+2021-12-27 02:08:22 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:08:22 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:08:22 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:08:22 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:08:23 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=ux+engineer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:08:23 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:08:23 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ux+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:08:23 - root - INFO - Page: 0, ux engineer
+2021-12-27 02:08:24 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ux+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:08:24 - root - INFO - Page: 1, ux engineer
+2021-12-27 02:08:24 - root - INFO - ====Finished Processing====: ux engineer
+2021-12-27 02:08:24 - root - INFO - ====Send data to CSV file====: ux engineer
+2021-12-27 02:08:25 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+engineer&pn=1
+2021-12-27 02:08:25 - root - INFO - ====Finished Processing====: ux engineer
+2021-12-27 02:08:25 - root - INFO - ====Sending data to CSV file====: ux engineer
+2021-12-27 02:08:25 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
+2021-12-27 02:08:25 - root - INFO - ====Sending data to readme====: ux engineer
+2021-12-27 02:08:25 - root - INFO - ====Finished Sending data to readme====: ux engineer
+2021-12-27 02:08:26 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
+2021-12-27 02:08:27 - root - INFO - ====Finished Processing====: ux engineer
+2021-12-27 02:08:27 - root - INFO - ====Sending data to CSV file====: ux engineer
+2021-12-27 02:08:27 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
+2021-12-27 02:08:27 - root - INFO - ====Sending data to readme====: ux engineer
+2021-12-27 02:08:27 - root - INFO - ====Finished Sending data to readme====: ux engineer
+2021-12-27 02:08:36 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=design+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:08:36 - WDM - INFO - 
+
+2021-12-27 02:08:36 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:08:36 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:08:36 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:08:36 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:08:37 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=design+developer&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:08:37 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:08:37 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=design+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:08:37 - root - INFO - Page: 0, design developer
+2021-12-27 02:08:38 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=design+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:08:38 - root - INFO - Page: 1, design developer
+2021-12-27 02:08:38 - root - INFO - ====Finished Processing====: design developer
+2021-12-27 02:08:38 - root - INFO - ====Send data to CSV file====: design developer
+2021-12-27 02:08:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=design+developer&pn=1
+2021-12-27 02:08:39 - root - INFO - ====Finished Processing====: design developer
+2021-12-27 02:08:39 - root - INFO - ====Sending data to CSV file====: design developer
+2021-12-27 02:08:39 - root - INFO - ====Finished Sending data to CSV file====: design developer
+2021-12-27 02:08:39 - root - INFO - ====Sending data to readme====: design developer
+2021-12-27 02:08:39 - root - INFO - ====Finished Sending data to readme====: design developer
+2021-12-27 02:08:40 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
+2021-12-27 02:08:41 - root - INFO - ====Finished Processing====: design developer
+2021-12-27 02:08:41 - root - INFO - ====Sending data to CSV file====: design developer
+2021-12-27 02:08:41 - root - INFO - ====Finished Sending data to CSV file====: design developer
+2021-12-27 02:08:41 - root - INFO - ====Sending data to readme====: design developer
+2021-12-27 02:08:41 - root - INFO - ====Finished Sending data to readme====: design developer
+2021-12-27 02:08:47 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=creative+artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:08:47 - WDM - INFO - 
+
+2021-12-27 02:08:47 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:08:47 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:08:47 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:08:47 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:08:48 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=creative+artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:08:48 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:08:49 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+artworker&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:08:49 - root - INFO - Page: 0, creative artworker
+2021-12-27 02:08:49 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+artworker&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:08:49 - root - INFO - Page: 1, creative artworker
+2021-12-27 02:08:49 - root - INFO - ====Finished Processing====: creative artworker
+2021-12-27 02:08:49 - root - INFO - ====Send data to CSV file====: creative artworker
+2021-12-27 02:08:50 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+artworker&pn=1
+2021-12-27 02:08:50 - root - INFO - ====Finished Processing====: creative artworker
+2021-12-27 02:08:50 - root - INFO - ====Sending data to CSV file====: creative artworker
+2021-12-27 02:08:50 - root - INFO - ====Finished Sending data to CSV file====: creative artworker
+2021-12-27 02:08:50 - root - INFO - ====Sending data to readme====: creative artworker
+2021-12-27 02:08:50 - root - INFO - ====Finished Sending data to readme====: creative artworker
+2021-12-27 02:08:50 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
+2021-12-27 02:08:52 - root - INFO - ====Finished Processing====: creative artworker
+2021-12-27 02:08:52 - root - INFO - ====Sending data to CSV file====: creative artworker
+2021-12-27 02:08:52 - root - INFO - ====Finished Sending data to CSV file====: creative artworker
+2021-12-27 02:08:52 - root - INFO - ====Sending data to readme====: creative artworker
+2021-12-27 02:08:52 - root - INFO - ====Finished Sending data to readme====: creative artworker
+2021-12-27 02:09:00 - root - INFO - Now Processing: https://www.linkedin.com/jobs/search/?keywords=artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:09:00 - WDM - INFO - 
+
+2021-12-27 02:09:00 - WDM - INFO - ====== WebDriver manager ======
+2021-12-27 02:09:00 - WDM - INFO - Current google-chrome version is 96.0.4664
+2021-12-27 02:09:00 - WDM - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+2021-12-27 02:09:00 - WDM - INFO - Driver [/home/runner/.wdm/drivers/chromedriver/linux64/96.0.4664.45/chromedriver] found in cache
+2021-12-27 02:09:01 - root - ERROR - FAIL, no result when crawling this url: https://www.linkedin.com/jobs/search/?keywords=artworker&location=Worldwide&sortBy=R&f_TPR=r2592000&position=1&pageNum=0
+2021-12-27 02:09:01 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 02:09:02 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=artworker&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 02:09:02 - root - INFO - Page: 0, artworker
+2021-12-27 02:09:02 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=artworker&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 02:09:02 - root - INFO - Page: 1, artworker
+2021-12-27 02:09:03 - root - INFO - ====Finished Processing====: artworker
+2021-12-27 02:09:03 - root - INFO - ====Send data to CSV file====: artworker
+2021-12-27 02:09:03 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=artworker&pn=1
+2021-12-27 02:09:04 - root - INFO - ====Finished Processing====: artworker
+2021-12-27 02:09:04 - root - INFO - ====Sending data to CSV file====: artworker
+2021-12-27 02:09:04 - root - INFO - ====Finished Sending data to CSV file====: artworker
+2021-12-27 02:09:04 - root - INFO - ====Sending data to readme====: artworker
+2021-12-27 02:09:04 - root - INFO - ====Finished Sending data to readme====: artworker
+2021-12-27 02:09:04 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
+2021-12-27 02:09:05 - root - INFO - ====Finished Processing====: artworker
+2021-12-27 02:09:05 - root - INFO - ====Sending data to CSV file====: artworker
+2021-12-27 02:09:05 - root - INFO - ====Finished Sending data to CSV file====: artworker
+2021-12-27 02:09:05 - root - INFO - ====Sending data to readme====: artworker
+2021-12-27 02:09:05 - root - INFO - ====Finished Sending data to readme====: artworker
