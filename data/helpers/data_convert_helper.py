@@ -79,21 +79,23 @@ class ConvertData():
         with open(f"../README.md", "w+") as f:
             f.write(markdown_content)
         with open(f"../README.md", "a") as f:
-            f.write(f'\n<p align="center">U{update_date}</p>\n## TOC\n\n')
+            f.write(f'\n<p align="center">Last updated on: {update_date}</p>\n\n## TOC\n\n')
         s = Setting()
         df = s.get_csv_from_s3()
         title_keyword_list = df['title_keyword'].tolist()
         title_keyword_list = [x for x in title_keyword_list if x]
         with open(f"../README.md", "a") as f:
             for keyword in title_keyword_list:
-                toc_a_link = ''.join(keyword.split())
-                f.write(f'[{keyword}](#{toc_a_link})\n')
+                # toc_a_link = ''.join(keyword.split())
+                f.write(f'\n<a src="https://github.com/linooohon/creative-coding-jobs-update/blob/main/JOBLIST/{keyword}.md" target="_blank">{keyword}</a>\n')
     
     def final_json_to_readme(self):
         with open("final.json", "r") as read_file:
             data = json.load(read_file)
         for i in data:
             for keyword, value in i.items():
+                with open(f"../JOBLIST/{keyword}.md", "w") as f:
+                    pass
                 df = pd.DataFrame(value).sort_values(["platform"]).reset_index(drop=True)
                 columns = ['keyword', 'company_name', 'company_page_link', 'job_name', 'job_page_link', 'index']
                 df.drop(columns, inplace=True, axis=1)
@@ -102,6 +104,5 @@ class ConvertData():
                 toc_a_link = ''.join(keyword.split())
                 markdown_content += f'\n#### {keyword} <a name="{toc_a_link}" />'
                 markdown_content += "\n" + df.to_markdown()
-
-                with open(f"../README.md", "a") as f:
+                with open(f"../JOBLIST/{keyword}.md", "a") as f:
                     f.write(markdown_content)
