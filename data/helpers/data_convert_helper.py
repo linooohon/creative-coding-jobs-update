@@ -80,7 +80,7 @@ class ConvertData():
         with open(f"./README.md", "a") as f:
             f.write(f'\n<p style="text-align: center;">{update_date}</p>\n[TOC]\n')
     
-    def final_json_to_readme():
+    def final_json_to_readme(self):
         with open("final.json", "r") as read_file:
             data = json.load(read_file)
         for i in data:
