@@ -2582,3 +2582,492 @@ IndexError: list index out of range
 2021-12-27 09:35:54 - root - INFO - ====Finished Sending data to CSV file====: 3d engineer
 2021-12-27 09:35:54 - root - INFO - ====Sending data to readme====: 3d engineer
 2021-12-27 09:35:54 - root - INFO - ====Finished Sending data to readme====: 3d engineer
+2021-12-27 10:38:13 - fake_useragent - WARNING - Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com/browsers/0.1.11
+Traceback (most recent call last):
+  File "/home/runner/work/creative-coding-jobs-update/creative-coding-jobs-update/.venv/lib/python3.9/site-packages/fake_useragent/utils.py", line 154, in load
+    for item in get_browsers(verify_ssl=verify_ssl):
+  File "/home/runner/work/creative-coding-jobs-update/creative-coding-jobs-update/.venv/lib/python3.9/site-packages/fake_useragent/utils.py", line 99, in get_browsers
+    html = html.split('<table class="w3-table-all notranslate">')[1]
+IndexError: list index out of range
+2021-12-27 10:38:14 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:38:14 - root - INFO - Page: 0, creative developer
+2021-12-27 10:38:15 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:38:15 - root - INFO - Page: 1, creative developer
+2021-12-27 10:38:15 - root - INFO - ====Finished Processing====: creative developer
+2021-12-27 10:38:15 - root - INFO - ====Send data to CSV file====: creative developer
+2021-12-27 10:38:15 - root - INFO - ====Finished Sending data to CSV file====: creative developer
+2021-12-27 10:38:15 - root - INFO - ====Sending data to readme====: creative developer
+2021-12-27 10:38:15 - root - INFO - ====Finished Sending data to readme====: creative developer
+2021-12-27 10:38:22 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+art&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:38:22 - root - INFO - Page: 0, generative art
+2021-12-27 10:38:22 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+art&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:38:22 - root - INFO - Page: 1, generative art
+2021-12-27 10:38:23 - root - INFO - ====Finished Processing====: generative art
+2021-12-27 10:38:23 - root - INFO - ====Send data to CSV file====: generative art
+2021-12-27 10:38:23 - root - INFO - ====Finished Sending data to CSV file====: generative art
+2021-12-27 10:38:23 - root - INFO - ====Sending data to readme====: generative art
+2021-12-27 10:38:23 - root - INFO - ====Finished Sending data to readme====: generative art
+2021-12-27 10:38:31 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:38:31 - root - INFO - Page: 0, digital developer
+2021-12-27 10:38:32 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:38:32 - root - INFO - Page: 1, digital developer
+2021-12-27 10:38:33 - root - INFO - ====Finished Processing====: digital developer
+2021-12-27 10:38:33 - root - INFO - ====Send data to CSV file====: digital developer
+2021-12-27 10:38:33 - root - INFO - ====Finished Sending data to CSV file====: digital developer
+2021-12-27 10:38:33 - root - INFO - ====Sending data to readme====: digital developer
+2021-12-27 10:38:33 - root - INFO - ====Finished Sending data to readme====: digital developer
+2021-12-27 10:38:36 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:38:36 - root - INFO - Page: 0, generative artist
+2021-12-27 10:38:36 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:38:36 - root - INFO - Page: 1, generative artist
+2021-12-27 10:38:36 - root - INFO - ====Finished Processing====: generative artist
+2021-12-27 10:38:36 - root - INFO - ====Send data to CSV file====: generative artist
+2021-12-27 10:38:36 - root - INFO - ====Finished Sending data to CSV file====: generative artist
+2021-12-27 10:38:36 - root - INFO - ====Sending data to readme====: generative artist
+2021-12-27 10:38:36 - root - INFO - ====Finished Sending data to readme====: generative artist
+2021-12-27 10:38:40 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=interactive+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:38:40 - root - INFO - Page: 0, interactive developer
+2021-12-27 10:38:40 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=interactive+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:38:40 - root - INFO - Page: 1, interactive developer
+2021-12-27 10:38:41 - root - INFO - ====Finished Processing====: interactive developer
+2021-12-27 10:38:41 - root - INFO - ====Send data to CSV file====: interactive developer
+2021-12-27 10:38:41 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
+2021-12-27 10:38:41 - root - INFO - ====Sending data to readme====: interactive developer
+2021-12-27 10:38:41 - root - INFO - ====Finished Sending data to readme====: interactive developer
+2021-12-27 10:38:49 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:38:49 - root - INFO - Page: 0, generative designer
+2021-12-27 10:38:50 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:38:50 - root - INFO - Page: 1, generative designer
+2021-12-27 10:38:50 - root - INFO - ====Finished Processing====: generative designer
+2021-12-27 10:38:50 - root - INFO - ====Send data to CSV file====: generative designer
+2021-12-27 10:38:50 - root - INFO - ====Finished Sending data to CSV file====: generative designer
+2021-12-27 10:38:50 - root - INFO - ====Sending data to readme====: generative designer
+2021-12-27 10:38:50 - root - INFO - ====Finished Sending data to readme====: generative designer
+2021-12-27 10:39:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:00 - root - INFO - Page: 0, graphic engineer
+2021-12-27 10:39:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:00 - root - INFO - Page: 1, graphic engineer
+2021-12-27 10:39:01 - root - INFO - ====Finished Processing====: graphic engineer
+2021-12-27 10:39:01 - root - INFO - ====Send data to CSV file====: graphic engineer
+2021-12-27 10:39:01 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2021-12-27 10:39:01 - root - INFO - ====Sending data to readme====: graphic engineer
+2021-12-27 10:39:01 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2021-12-27 10:39:06 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:06 - root - INFO - Page: 0, generative engineer
+2021-12-27 10:39:07 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:07 - root - INFO - Page: 1, generative engineer
+2021-12-27 10:39:07 - root - INFO - ====Finished Processing====: generative engineer
+2021-12-27 10:39:07 - root - INFO - ====Send data to CSV file====: generative engineer
+2021-12-27 10:39:07 - root - INFO - ====Finished Sending data to CSV file====: generative engineer
+2021-12-27 10:39:07 - root - INFO - ====Sending data to readme====: generative engineer
+2021-12-27 10:39:07 - root - INFO - ====Finished Sending data to readme====: generative engineer
+2021-12-27 10:39:14 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=interactive+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:14 - root - INFO - Page: 0, interactive designer
+2021-12-27 10:39:14 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=interactive+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:14 - root - INFO - Page: 1, interactive designer
+2021-12-27 10:39:15 - root - INFO - ====Finished Processing====: interactive designer
+2021-12-27 10:39:15 - root - INFO - ====Send data to CSV file====: interactive designer
+2021-12-27 10:39:15 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
+2021-12-27 10:39:15 - root - INFO - ====Sending data to readme====: interactive designer
+2021-12-27 10:39:15 - root - INFO - ====Finished Sending data to readme====: interactive designer
+2021-12-27 10:39:23 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=technical+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:23 - root - INFO - Page: 0, technical artist
+2021-12-27 10:39:24 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=technical+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:24 - root - INFO - Page: 1, technical artist
+2021-12-27 10:39:24 - root - INFO - ====Finished Processing====: technical artist
+2021-12-27 10:39:24 - root - INFO - ====Send data to CSV file====: technical artist
+2021-12-27 10:39:24 - root - INFO - ====Finished Sending data to CSV file====: technical artist
+2021-12-27 10:39:24 - root - INFO - ====Sending data to readme====: technical artist
+2021-12-27 10:39:24 - root - INFO - ====Finished Sending data to readme====: technical artist
+2021-12-27 10:39:27 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=virtual+reality+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:27 - root - INFO - Page: 0, virtual reality developer
+2021-12-27 10:39:28 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=virtual+reality+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:28 - root - INFO - Page: 1, virtual reality developer
+2021-12-27 10:39:28 - root - INFO - ====Finished Processing====: virtual reality developer
+2021-12-27 10:39:28 - root - INFO - ====Send data to CSV file====: virtual reality developer
+2021-12-27 10:39:28 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
+2021-12-27 10:39:28 - root - INFO - ====Sending data to readme====: virtual reality developer
+2021-12-27 10:39:28 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
+2021-12-27 10:39:34 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=arvr+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:34 - root - INFO - Page: 0, arvr developer
+2021-12-27 10:39:34 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=arvr+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:34 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 10:39:34 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=arvr+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:34 - root - INFO - Page: 1, arvr developer
+2021-12-27 10:39:34 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=arvr+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:34 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 10:39:40 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=sound+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:40 - root - INFO - Page: 0, sound designer
+2021-12-27 10:39:40 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=sound+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:40 - root - INFO - Page: 1, sound designer
+2021-12-27 10:39:40 - root - INFO - ====Finished Processing====: sound designer
+2021-12-27 10:39:40 - root - INFO - ====Send data to CSV file====: sound designer
+2021-12-27 10:39:40 - root - INFO - ====Finished Sending data to CSV file====: sound designer
+2021-12-27 10:39:40 - root - INFO - ====Sending data to readme====: sound designer
+2021-12-27 10:39:40 - root - INFO - ====Finished Sending data to readme====: sound designer
+2021-12-27 10:39:45 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=unity+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:45 - root - INFO - Page: 0, unity developer
+2021-12-27 10:39:45 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=unity+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:45 - root - INFO - Page: 1, unity developer
+2021-12-27 10:39:46 - root - INFO - ====Finished Processing====: unity developer
+2021-12-27 10:39:46 - root - INFO - ====Send data to CSV file====: unity developer
+2021-12-27 10:39:46 - root - INFO - ====Finished Sending data to CSV file====: unity developer
+2021-12-27 10:39:46 - root - INFO - ====Sending data to readme====: unity developer
+2021-12-27 10:39:46 - root - INFO - ====Finished Sending data to readme====: unity developer
+2021-12-27 10:39:54 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:54 - root - INFO - Page: 0, creative designer
+2021-12-27 10:39:55 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:39:55 - root - INFO - Page: 1, creative designer
+2021-12-27 10:39:55 - root - INFO - ====Finished Processing====: creative designer
+2021-12-27 10:39:55 - root - INFO - ====Send data to CSV file====: creative designer
+2021-12-27 10:39:55 - root - INFO - ====Finished Sending data to CSV file====: creative designer
+2021-12-27 10:39:55 - root - INFO - ====Sending data to readme====: creative designer
+2021-12-27 10:39:55 - root - INFO - ====Finished Sending data to readme====: creative designer
+2021-12-27 10:39:59 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:39:59 - root - INFO - Page: 0, digital designer
+2021-12-27 10:40:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:00 - root - INFO - Page: 1, digital designer
+2021-12-27 10:40:01 - root - INFO - ====Finished Processing====: digital designer
+2021-12-27 10:40:01 - root - INFO - ====Send data to CSV file====: digital designer
+2021-12-27 10:40:01 - root - INFO - ====Finished Sending data to CSV file====: digital designer
+2021-12-27 10:40:01 - root - INFO - ====Sending data to readme====: digital designer
+2021-12-27 10:40:01 - root - INFO - ====Finished Sending data to readme====: digital designer
+2021-12-27 10:40:07 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=animation+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:07 - root - INFO - Page: 0, animation developer
+2021-12-27 10:40:08 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=animation+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:08 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 10:40:08 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=animation+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:08 - root - INFO - Page: 1, animation developer
+2021-12-27 10:40:08 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=animation+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:08 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 10:40:14 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=arvr+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:14 - root - INFO - Page: 0, arvr designer
+2021-12-27 10:40:14 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=arvr+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:14 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 10:40:14 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=arvr+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:14 - root - INFO - Page: 1, arvr designer
+2021-12-27 10:40:14 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=arvr+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:14 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 10:40:19 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=sound+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:19 - root - INFO - Page: 0, sound developer
+2021-12-27 10:40:20 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=sound+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:20 - root - INFO - Page: 1, sound developer
+2021-12-27 10:40:20 - root - INFO - ====Finished Processing====: sound developer
+2021-12-27 10:40:20 - root - INFO - ====Send data to CSV file====: sound developer
+2021-12-27 10:40:20 - root - INFO - ====Finished Sending data to CSV file====: sound developer
+2021-12-27 10:40:20 - root - INFO - ====Sending data to readme====: sound developer
+2021-12-27 10:40:20 - root - INFO - ====Finished Sending data to readme====: sound developer
+2021-12-27 10:40:24 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+coder&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:24 - root - INFO - Page: 0, creative coder
+2021-12-27 10:40:25 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+coder&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:25 - root - INFO - Page: 1, creative coder
+2021-12-27 10:40:25 - root - INFO - ====Finished Processing====: creative coder
+2021-12-27 10:40:25 - root - INFO - ====Send data to CSV file====: creative coder
+2021-12-27 10:40:25 - root - INFO - ====Finished Sending data to CSV file====: creative coder
+2021-12-27 10:40:25 - root - INFO - ====Sending data to readme====: creative coder
+2021-12-27 10:40:25 - root - INFO - ====Finished Sending data to readme====: creative coder
+2021-12-27 10:40:32 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ux+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:32 - root - INFO - Page: 0, ux engineer
+2021-12-27 10:40:32 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ux+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:32 - root - INFO - Page: 1, ux engineer
+2021-12-27 10:40:33 - root - INFO - ====Finished Processing====: ux engineer
+2021-12-27 10:40:33 - root - INFO - ====Send data to CSV file====: ux engineer
+2021-12-27 10:40:33 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
+2021-12-27 10:40:33 - root - INFO - ====Sending data to readme====: ux engineer
+2021-12-27 10:40:33 - root - INFO - ====Finished Sending data to readme====: ux engineer
+2021-12-27 10:40:40 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=technical+sound+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:40 - root - INFO - Page: 0, technical sound designer
+2021-12-27 10:40:41 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=technical+sound+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:41 - root - INFO - Page: 1, technical sound designer
+2021-12-27 10:40:41 - root - INFO - ====Finished Processing====: technical sound designer
+2021-12-27 10:40:41 - root - INFO - ====Send data to CSV file====: technical sound designer
+2021-12-27 10:40:41 - root - INFO - ====Finished Sending data to CSV file====: technical sound designer
+2021-12-27 10:40:41 - root - INFO - ====Sending data to readme====: technical sound designer
+2021-12-27 10:40:41 - root - INFO - ====Finished Sending data to readme====: technical sound designer
+2021-12-27 10:40:50 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=audio+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:50 - root - INFO - Page: 0, audio engineer
+2021-12-27 10:40:50 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=audio+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:40:50 - root - INFO - Page: 1, audio engineer
+2021-12-27 10:40:51 - root - INFO - ====Finished Processing====: audio engineer
+2021-12-27 10:40:51 - root - INFO - ====Send data to CSV file====: audio engineer
+2021-12-27 10:40:51 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
+2021-12-27 10:40:51 - root - INFO - ====Sending data to readme====: audio engineer
+2021-12-27 10:40:51 - root - INFO - ====Finished Sending data to readme====: audio engineer
+2021-12-27 10:40:59 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+platform&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:40:59 - root - INFO - Page: 0, digital platform
+2021-12-27 10:41:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=digital+platform&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:41:00 - root - INFO - Page: 1, digital platform
+2021-12-27 10:41:00 - root - INFO - ====Finished Processing====: digital platform
+2021-12-27 10:41:00 - root - INFO - ====Send data to CSV file====: digital platform
+2021-12-27 10:41:00 - root - INFO - ====Finished Sending data to CSV file====: digital platform
+2021-12-27 10:41:00 - root - INFO - ====Sending data to readme====: digital platform
+2021-12-27 10:41:00 - root - INFO - ====Finished Sending data to readme====: digital platform
+2021-12-27 10:41:04 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:41:04 - root - INFO - Page: 0, graphic designer
+2021-12-27 10:41:04 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:41:04 - root - INFO - Page: 1, graphic designer
+2021-12-27 10:41:05 - root - INFO - ====Finished Processing====: graphic designer
+2021-12-27 10:41:05 - root - INFO - ====Send data to CSV file====: graphic designer
+2021-12-27 10:41:05 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
+2021-12-27 10:41:05 - root - INFO - ====Sending data to readme====: graphic designer
+2021-12-27 10:41:05 - root - INFO - ====Finished Sending data to readme====: graphic designer
+2021-12-27 10:41:11 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ux+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:41:11 - root - INFO - Page: 0, ux designer
+2021-12-27 10:41:12 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ux+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:41:12 - root - INFO - Page: 1, ux designer
+2021-12-27 10:41:12 - root - INFO - ====Finished Processing====: ux designer
+2021-12-27 10:41:12 - root - INFO - ====Send data to CSV file====: ux designer
+2021-12-27 10:41:12 - root - INFO - ====Finished Sending data to CSV file====: ux designer
+2021-12-27 10:41:12 - root - INFO - ====Sending data to readme====: ux designer
+2021-12-27 10:41:12 - root - INFO - ====Finished Sending data to readme====: ux designer
+2021-12-27 10:41:20 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:41:20 - root - INFO - Page: 0, graphic artist
+2021-12-27 10:41:20 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+artist&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:41:20 - root - INFO - Page: 1, graphic artist
+2021-12-27 10:41:21 - root - INFO - ====Finished Processing====: graphic artist
+2021-12-27 10:41:21 - root - INFO - ====Send data to CSV file====: graphic artist
+2021-12-27 10:41:21 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
+2021-12-27 10:41:21 - root - INFO - ====Sending data to readme====: graphic artist
+2021-12-27 10:41:21 - root - INFO - ====Finished Sending data to readme====: graphic artist
+2021-12-27 10:41:25 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+artworker&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:41:25 - root - INFO - Page: 0, creative artworker
+2021-12-27 10:41:25 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+artworker&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:41:25 - root - INFO - Page: 1, creative artworker
+2021-12-27 10:41:25 - root - INFO - ====Finished Processing====: creative artworker
+2021-12-27 10:41:25 - root - INFO - ====Send data to CSV file====: creative artworker
+2021-12-27 10:41:25 - root - INFO - ====Finished Sending data to CSV file====: creative artworker
+2021-12-27 10:41:25 - root - INFO - ====Sending data to readme====: creative artworker
+2021-12-27 10:41:25 - root - INFO - ====Finished Sending data to readme====: creative artworker
+2021-12-27 10:41:31 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:41:31 - root - INFO - Page: 0, graphic developer
+2021-12-27 10:41:31 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:41:31 - root - INFO - Page: 1, graphic developer
+2021-12-27 10:41:32 - root - INFO - ====Finished Processing====: graphic developer
+2021-12-27 10:41:32 - root - INFO - ====Send data to CSV file====: graphic developer
+2021-12-27 10:41:32 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
+2021-12-27 10:41:32 - root - INFO - ====Sending data to readme====: graphic developer
+2021-12-27 10:41:32 - root - INFO - ====Finished Sending data to readme====: graphic developer
+2021-12-27 10:41:37 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ui+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:41:37 - root - INFO - Page: 0, ui designer
+2021-12-27 10:41:38 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ui+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:41:38 - root - INFO - Page: 1, ui designer
+2021-12-27 10:41:38 - root - INFO - ====Finished Processing====: ui designer
+2021-12-27 10:41:38 - root - INFO - ====Send data to CSV file====: ui designer
+2021-12-27 10:41:38 - root - INFO - ====Finished Sending data to CSV file====: ui designer
+2021-12-27 10:41:38 - root - INFO - ====Sending data to readme====: ui designer
+2021-12-27 10:41:38 - root - INFO - ====Finished Sending data to readme====: ui designer
+2021-12-27 10:41:44 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:41:44 - root - INFO - Page: 0, graphic engineer
+2021-12-27 10:41:44 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=graphic+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:41:44 - root - INFO - Page: 1, graphic engineer
+2021-12-27 10:41:45 - root - INFO - ====Finished Processing====: graphic engineer
+2021-12-27 10:41:45 - root - INFO - ====Send data to CSV file====: graphic engineer
+2021-12-27 10:41:45 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2021-12-27 10:41:45 - root - INFO - ====Sending data to readme====: graphic engineer
+2021-12-27 10:41:45 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2021-12-27 10:41:53 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=design+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:41:53 - root - INFO - Page: 0, design developer
+2021-12-27 10:41:54 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=design+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:41:54 - root - INFO - Page: 1, design developer
+2021-12-27 10:41:54 - root - INFO - ====Finished Processing====: design developer
+2021-12-27 10:41:54 - root - INFO - ====Send data to CSV file====: design developer
+2021-12-27 10:41:54 - root - INFO - ====Finished Sending data to CSV file====: design developer
+2021-12-27 10:41:54 - root - INFO - ====Sending data to readme====: design developer
+2021-12-27 10:41:54 - root - INFO - ====Finished Sending data to readme====: design developer
+2021-12-27 10:42:04 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=visual+art&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:42:04 - root - INFO - Page: 0, visual art
+2021-12-27 10:42:04 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=visual+art&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:42:04 - root - INFO - Page: 1, visual art
+2021-12-27 10:42:05 - root - INFO - ====Finished Processing====: visual art
+2021-12-27 10:42:05 - root - INFO - ====Send data to CSV file====: visual art
+2021-12-27 10:42:05 - root - INFO - ====Finished Sending data to CSV file====: visual art
+2021-12-27 10:42:05 - root - INFO - ====Sending data to readme====: visual art
+2021-12-27 10:42:05 - root - INFO - ====Finished Sending data to readme====: visual art
+2021-12-27 10:42:10 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ui+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:42:10 - root - INFO - Page: 0, ui engineer
+2021-12-27 10:42:11 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=ui+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:42:11 - root - INFO - Page: 1, ui engineer
+2021-12-27 10:42:11 - root - INFO - ====Finished Processing====: ui engineer
+2021-12-27 10:42:11 - root - INFO - ====Send data to CSV file====: ui engineer
+2021-12-27 10:42:11 - root - INFO - ====Finished Sending data to CSV file====: ui engineer
+2021-12-27 10:42:11 - root - INFO - ====Sending data to readme====: ui engineer
+2021-12-27 10:42:11 - root - INFO - ====Finished Sending data to readme====: ui engineer
+2021-12-27 10:42:17 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=3d+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:42:17 - root - INFO - Page: 0, 3d designer
+2021-12-27 10:42:17 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=3d+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:42:17 - root - INFO - Page: 1, 3d designer
+2021-12-27 10:42:18 - root - INFO - ====Finished Processing====: 3d designer
+2021-12-27 10:42:18 - root - INFO - ====Send data to CSV file====: 3d designer
+2021-12-27 10:42:18 - root - INFO - ====Finished Sending data to CSV file====: 3d designer
+2021-12-27 10:42:18 - root - INFO - ====Sending data to readme====: 3d designer
+2021-12-27 10:42:18 - root - INFO - ====Finished Sending data to readme====: 3d designer
+2021-12-27 10:42:25 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=visual+effects&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:42:25 - root - INFO - Page: 0, visual effects
+2021-12-27 10:42:26 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=visual+effects&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:42:26 - root - INFO - Page: 1, visual effects
+2021-12-27 10:42:26 - root - INFO - ====Finished Processing====: visual effects
+2021-12-27 10:42:26 - root - INFO - ====Send data to CSV file====: visual effects
+2021-12-27 10:42:26 - root - INFO - ====Finished Sending data to CSV file====: visual effects
+2021-12-27 10:42:26 - root - INFO - ====Sending data to readme====: visual effects
+2021-12-27 10:42:26 - root - INFO - ====Finished Sending data to readme====: visual effects
+2021-12-27 10:42:33 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=acoustic+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:42:33 - root - INFO - Page: 0, acoustic developer
+2021-12-27 10:42:33 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=acoustic+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:42:33 - root - INFO - Page: 1, acoustic developer
+2021-12-27 10:42:34 - root - INFO - ====Finished Processing====: acoustic developer
+2021-12-27 10:42:34 - root - INFO - ====Send data to CSV file====: acoustic developer
+2021-12-27 10:42:34 - root - INFO - ====Finished Sending data to CSV file====: acoustic developer
+2021-12-27 10:42:34 - root - INFO - ====Sending data to readme====: acoustic developer
+2021-12-27 10:42:34 - root - INFO - ====Finished Sending data to readme====: acoustic developer
+2021-12-27 10:42:37 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=music+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:42:37 - root - INFO - Page: 0, music developer
+2021-12-27 10:42:37 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=music+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:42:37 - root - INFO - Page: 1, music developer
+2021-12-27 10:42:38 - root - INFO - ====Finished Processing====: music developer
+2021-12-27 10:42:38 - root - INFO - ====Send data to CSV file====: music developer
+2021-12-27 10:42:38 - root - INFO - ====Finished Sending data to CSV file====: music developer
+2021-12-27 10:42:38 - root - INFO - ====Sending data to readme====: music developer
+2021-12-27 10:42:38 - root - INFO - ====Finished Sending data to readme====: music developer
+2021-12-27 10:42:43 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=visual+architect&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:42:43 - root - INFO - Page: 0, visual architect
+2021-12-27 10:42:43 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=visual+architect&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:42:43 - root - INFO - Page: 1, visual architect
+2021-12-27 10:42:44 - root - INFO - ====Finished Processing====: visual architect
+2021-12-27 10:42:44 - root - INFO - ====Send data to CSV file====: visual architect
+2021-12-27 10:42:44 - root - INFO - ====Finished Sending data to CSV file====: visual architect
+2021-12-27 10:42:44 - root - INFO - ====Sending data to readme====: visual architect
+2021-12-27 10:42:44 - root - INFO - ====Finished Sending data to readme====: visual architect
+2021-12-27 10:42:50 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=artworker&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:42:50 - root - INFO - Page: 0, artworker
+2021-12-27 10:42:50 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=artworker&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:42:50 - root - INFO - Page: 1, artworker
+2021-12-27 10:42:51 - root - INFO - ====Finished Processing====: artworker
+2021-12-27 10:42:51 - root - INFO - ====Send data to CSV file====: artworker
+2021-12-27 10:42:51 - root - INFO - ====Finished Sending data to CSV file====: artworker
+2021-12-27 10:42:51 - root - INFO - ====Sending data to readme====: artworker
+2021-12-27 10:42:51 - root - INFO - ====Finished Sending data to readme====: artworker
+2021-12-27 10:43:00 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=3d+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:00 - root - INFO - Page: 0, 3d developer
+2021-12-27 10:43:01 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=3d+developer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:01 - root - INFO - Page: 1, 3d developer
+2021-12-27 10:43:01 - root - INFO - ====Finished Processing====: 3d developer
+2021-12-27 10:43:01 - root - INFO - ====Send data to CSV file====: 3d developer
+2021-12-27 10:43:01 - root - INFO - ====Finished Sending data to CSV file====: 3d developer
+2021-12-27 10:43:01 - root - INFO - ====Sending data to readme====: 3d developer
+2021-12-27 10:43:01 - root - INFO - ====Finished Sending data to readme====: 3d developer
+2021-12-27 10:43:07 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=music+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:07 - root - INFO - Page: 0, music engineer
+2021-12-27 10:43:08 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=music+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:08 - root - INFO - Page: 1, music engineer
+2021-12-27 10:43:08 - root - INFO - ====Finished Processing====: music engineer
+2021-12-27 10:43:08 - root - INFO - ====Send data to CSV file====: music engineer
+2021-12-27 10:43:08 - root - INFO - ====Finished Sending data to CSV file====: music engineer
+2021-12-27 10:43:08 - root - INFO - ====Sending data to readme====: music engineer
+2021-12-27 10:43:08 - root - INFO - ====Finished Sending data to readme====: music engineer
+2021-12-27 10:43:12 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=acoustic+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:12 - root - INFO - Page: 0, acoustic engineer
+2021-12-27 10:43:13 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=acoustic+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:13 - root - INFO - Page: 1, acoustic engineer
+2021-12-27 10:43:13 - root - INFO - ====Finished Processing====: acoustic engineer
+2021-12-27 10:43:13 - root - INFO - ====Send data to CSV file====: acoustic engineer
+2021-12-27 10:43:13 - root - INFO - ====Finished Sending data to CSV file====: acoustic engineer
+2021-12-27 10:43:13 - root - INFO - ====Sending data to readme====: acoustic engineer
+2021-12-27 10:43:13 - root - INFO - ====Finished Sending data to readme====: acoustic engineer
+2021-12-27 10:43:16 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=visual+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:16 - root - INFO - Page: 0, visual engineer
+2021-12-27 10:43:17 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=visual+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:17 - root - INFO - Page: 1, visual engineer
+2021-12-27 10:43:18 - root - INFO - ====Finished Processing====: visual engineer
+2021-12-27 10:43:18 - root - INFO - ====Send data to CSV file====: visual engineer
+2021-12-27 10:43:18 - root - INFO - ====Finished Sending data to CSV file====: visual engineer
+2021-12-27 10:43:18 - root - INFO - ====Sending data to readme====: visual engineer
+2021-12-27 10:43:18 - root - INFO - ====Finished Sending data to readme====: visual engineer
+2021-12-27 10:43:24 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+design&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:24 - root - INFO - Page: 0, generative design
+2021-12-27 10:43:25 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=generative+design&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:25 - root - INFO - Page: 1, generative design
+2021-12-27 10:43:25 - root - INFO - ====Finished Processing====: generative design
+2021-12-27 10:43:25 - root - INFO - ====Send data to CSV file====: generative design
+2021-12-27 10:43:25 - root - INFO - ====Finished Sending data to CSV file====: generative design
+2021-12-27 10:43:25 - root - INFO - ====Sending data to readme====: generative design
+2021-12-27 10:43:25 - root - INFO - ====Finished Sending data to readme====: generative design
+2021-12-27 10:43:28 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=vfx+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:28 - root - INFO - Page: 0, vfx engineer
+2021-12-27 10:43:29 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=vfx+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:29 - root - INFO - Page: 1, vfx engineer
+2021-12-27 10:43:29 - root - INFO - ====Finished Processing====: vfx engineer
+2021-12-27 10:43:29 - root - INFO - ====Send data to CSV file====: vfx engineer
+2021-12-27 10:43:29 - root - INFO - ====Finished Sending data to CSV file====: vfx engineer
+2021-12-27 10:43:29 - root - INFO - ====Sending data to readme====: vfx engineer
+2021-12-27 10:43:29 - root - INFO - ====Finished Sending data to readme====: vfx engineer
+2021-12-27 10:43:37 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=junior+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:37 - root - INFO - Page: 0, junior designer
+2021-12-27 10:43:37 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=junior+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:37 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 10:43:37 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=junior+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:37 - root - INFO - Page: 1, junior designer
+2021-12-27 10:43:38 - root - ERROR - FAIL, no result when crawling this url: https://www.indeed.com/jobs?q=junior+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:38 - root - INFO - Break here, now go to next loop(next page)
+2021-12-27 10:43:44 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+programming&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:44 - root - INFO - Page: 0, creative programming
+2021-12-27 10:43:45 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+programming&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:45 - root - INFO - Page: 1, creative programming
+2021-12-27 10:43:45 - root - INFO - ====Finished Processing====: creative programming
+2021-12-27 10:43:45 - root - INFO - ====Send data to CSV file====: creative programming
+2021-12-27 10:43:45 - root - INFO - ====Finished Sending data to CSV file====: creative programming
+2021-12-27 10:43:45 - root - INFO - ====Sending data to readme====: creative programming
+2021-12-27 10:43:45 - root - INFO - ====Finished Sending data to readme====: creative programming
+2021-12-27 10:43:49 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=frontend+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:49 - root - INFO - Page: 0, frontend engineer
+2021-12-27 10:43:50 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=frontend+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:50 - root - INFO - Page: 1, frontend engineer
+2021-12-27 10:43:50 - root - INFO - ====Finished Processing====: frontend engineer
+2021-12-27 10:43:50 - root - INFO - ====Send data to CSV file====: frontend engineer
+2021-12-27 10:43:50 - root - INFO - ====Finished Sending data to CSV file====: frontend engineer
+2021-12-27 10:43:50 - root - INFO - ====Sending data to readme====: frontend engineer
+2021-12-27 10:43:50 - root - INFO - ====Finished Sending data to readme====: frontend engineer
+2021-12-27 10:43:53 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+programmer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:43:53 - root - INFO - Page: 0, creative programmer
+2021-12-27 10:43:54 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=creative+programmer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:43:54 - root - INFO - Page: 1, creative programmer
+2021-12-27 10:43:54 - root - INFO - ====Finished Processing====: creative programmer
+2021-12-27 10:43:54 - root - INFO - ====Send data to CSV file====: creative programmer
+2021-12-27 10:43:54 - root - INFO - ====Finished Sending data to CSV file====: creative programmer
+2021-12-27 10:43:54 - root - INFO - ====Sending data to readme====: creative programmer
+2021-12-27 10:43:54 - root - INFO - ====Finished Sending data to readme====: creative programmer
+2021-12-27 10:44:02 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=senior+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:44:02 - root - INFO - Page: 0, senior designer
+2021-12-27 10:44:02 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=senior+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:44:02 - root - INFO - Page: 1, senior designer
+2021-12-27 10:44:03 - root - INFO - ====Finished Processing====: senior designer
+2021-12-27 10:44:03 - root - INFO - ====Send data to CSV file====: senior designer
+2021-12-27 10:44:03 - root - INFO - ====Finished Sending data to CSV file====: senior designer
+2021-12-27 10:44:03 - root - INFO - ====Sending data to readme====: senior designer
+2021-12-27 10:44:03 - root - INFO - ====Finished Sending data to readme====: senior designer
+2021-12-27 10:44:12 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=acoustical+engineering&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:44:12 - root - INFO - Page: 0, acoustical engineering
+2021-12-27 10:44:13 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=acoustical+engineering&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:44:13 - root - INFO - Page: 1, acoustical engineering
+2021-12-27 10:44:13 - root - INFO - ====Finished Processing====: acoustical engineering
+2021-12-27 10:44:13 - root - INFO - ====Send data to CSV file====: acoustical engineering
+2021-12-27 10:44:13 - root - INFO - ====Finished Sending data to CSV file====: acoustical engineering
+2021-12-27 10:44:13 - root - INFO - ====Sending data to readme====: acoustical engineering
+2021-12-27 10:44:13 - root - INFO - ====Finished Sending data to readme====: acoustical engineering
+2021-12-27 10:44:20 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=vfx+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:44:20 - root - INFO - Page: 0, vfx designer
+2021-12-27 10:44:20 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=vfx+designer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:44:20 - root - INFO - Page: 1, vfx designer
+2021-12-27 10:44:21 - root - INFO - ====Finished Processing====: vfx designer
+2021-12-27 10:44:21 - root - INFO - ====Send data to CSV file====: vfx designer
+2021-12-27 10:44:21 - root - INFO - ====Finished Sending data to CSV file====: vfx designer
+2021-12-27 10:44:21 - root - INFO - ====Sending data to readme====: vfx designer
+2021-12-27 10:44:21 - root - INFO - ====Finished Sending data to readme====: vfx designer
+2021-12-27 10:44:25 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=3d+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=0
+2021-12-27 10:44:25 - root - INFO - Page: 0, 3d engineer
+2021-12-27 10:44:25 - root - INFO - Now Processing: https://www.indeed.com/jobs?q=3d+engineer&fromage=14&ts=1630833670404&rq=1&newcount=97580&rsldx=0&start=10
+2021-12-27 10:44:25 - root - INFO - Page: 1, 3d engineer
+2021-12-27 10:44:26 - root - INFO - ====Finished Processing====: 3d engineer
+2021-12-27 10:44:26 - root - INFO - ====Send data to CSV file====: 3d engineer
+2021-12-27 10:44:26 - root - INFO - ====Finished Sending data to CSV file====: 3d engineer
+2021-12-27 10:44:26 - root - INFO - ====Sending data to readme====: 3d engineer
+2021-12-27 10:44:26 - root - INFO - ====Finished Sending data to readme====: 3d engineer
