@@ -41,6 +41,8 @@ class Indeed(BaseCrawler):
 
     def get_job_name(self, job_item: Tag) -> str:
         parent_node = job_item.find('h2', class_='jobTitle')
+        if not parent_node.find('span', recursive=False):
+            return "None"
         return parent_node.find('span', recursive=False).text
 
     def get_job_page_link(self, job_item: Tag) -> str:
