@@ -135,7 +135,7 @@ class Glassdoor(BaseCrawler):
             # print(company_name, company_page_link, update_time, location)
 
             job_dict = {
-                'company': f'[{company_name}](None)',
+                'company': company_name,
                 'company_name': company_name,
                 'company_page_link': 'None',
                 'job': f'[{job_name}]({job_page_link})',
