@@ -52,6 +52,7 @@ class ConvertData():
         #convert python jsonArray to JSON String and write to file
         with open('merge.json', 'w', encoding='utf-8') as jsonf: 
             jsonString = json.dumps(jsonList, indent=4)
+            print(jsonString)
             jsonf.write(jsonString)
     
     def json_transform(self):
@@ -59,17 +60,28 @@ class ConvertData():
             data = json.load(read_file)
             result_list = []
         keyword_filter_list = []
+        print(data)
         for i in data:
+            print("enter data loop")
             if i['keyword'] not in keyword_filter_list:
                 keyword_filter_list.append(i['keyword'])
                 result_list.append({i['keyword']: []})
         print(result_list)
         for x in data:
+            print("enter second data loop")
+            print(f"x: {x}")
             for i in result_list:
+                print(f"i: {i}")
+                print("enter second result_list")
                 for j in i:
                     if x['keyword'] == j:
+                        print("x['keyword'] = " + x['keyword'])
+                        print("j = " + j)
                         i[j].append(x)
-        print(result_list)
+                print("finished 3rd")
+            print("finished 2nd")
+        print("finished 1st")            
+        print("second result_list" + result_list)
         with open('final.json', 'w') as file:
             json.dump(result_list, file)
     

@@ -12,7 +12,6 @@ from helpers.data_convert_helper import ConvertData
 s = Setting()
 df = s.get_csv_from_s3()
 
-
 class CreativeCoderJobSearch():
     def __init__(self, keyword):
         self.keyword = keyword
@@ -21,7 +20,6 @@ class CreativeCoderJobSearch():
         for JobPlatform in JOB_BANK_LIST:
             job_platform = JobPlatform(self.keyword)
             job_platform.fetch_request(JobPlatform)
-
 
 if __name__ == '__main__':
     title_keyword_list = df['title_keyword'].tolist()
