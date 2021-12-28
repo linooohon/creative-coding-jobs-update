@@ -8,7 +8,7 @@ from crawlers import JOB_BANK_LIST
 from helpers.data_convert_helper import ConvertData
 
 
-# Log()
+Log().clean_log()
 s = Setting()
 df = s.get_csv_from_s3()
 
