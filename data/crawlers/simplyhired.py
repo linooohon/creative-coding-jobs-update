@@ -5,7 +5,7 @@ import time
 import random
 import logging
 from urllib.parse import urlencode
-from fake_useragent import UserAgent
+# from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 from bs4.element import ResultSet, Tag
 from typing import List
@@ -20,7 +20,7 @@ class SimplyHired(BaseCrawler):
     def __init__(self, keyword):
         self.result_list = []
         self.keyword = keyword
-        self.ua = UserAgent()
+        # self.ua = UserAgent()
         self.s3_keyword_df = s.get_csv_from_s3()
         self.platform_name = s.simplyhired_setting()['platform_name']
         self.platform_url = s.simplyhired_setting()['platform_url']
@@ -28,7 +28,7 @@ class SimplyHired(BaseCrawler):
         self.referer_list = s.simplyhired_setting()['referer_list']
         self.ip_list = s.simplyhired_setting()['ip_list']
         self.headers = {
-            "User-Agent": self.ua.random,
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44",
         }
 
     def get_job_list(self, soup: BeautifulSoup):
