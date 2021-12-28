@@ -1,7 +1,10 @@
 
 
-#### artworker <a name="artworker" />
-|    | platform   | company   | job                                                                                                | update_time      | location             |
-|---:|:-----------|:----------|:---------------------------------------------------------------------------------------------------|:-----------------|:---------------------|
-|  1 | Indeed     | None      | [Graphic Designer](https://www.indeed.com/rc/clk?jk=30dfe53c56035262&fccid=1e270af83e6e8b21&vjs=3) | Posted5 days ago | Liverpool, NY•Remote |
-|  2 | Indeed     | None      | [Graphic Designer](https://www.indeed.com/rc/clk?jk=30dfe53c56035262&fccid=1e270af83e6e8b21&vjs=3) | Posted5 days ago | Liverpool, NY•Remote |
+|    | platform    | company                           | job                                                                                                                                   | update_time      | location             |
+|---:|:------------|:----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|:-----------------|:---------------------|
+|  1 | Indeed      | None                              | [Graphic Designer](https://www.indeed.com/rc/clk?jk=30dfe53c56035262&fccid=1e270af83e6e8b21&vjs=3)                                    | Posted5 days ago | Liverpool, NY•Remote |
+|  2 | Indeed      | None                              | [Graphic Designer](https://www.indeed.com/rc/clk?jk=30dfe53c56035262&fccid=1e270af83e6e8b21&vjs=3)                                    | Posted5 days ago | Liverpool, NY•Remote |
+|  3 | SimplyHired | [Perigord Premedia Limited](None) | [Pharmaceutical Artworker](https://www.simplyhired.com/job/WRy_NU05gCzr90gkLGAIDvxQhGE6uxak8UWRmF1KZW30OClsukshdA?q=artworker)        | Recently         | Branford, CT         |
+|  4 | SimplyHired | [SEVENSTORE](None)                | [Graphic Designer](https://www.simplyhired.com/job/l2XHj6N6yRlCyn97PGLlTz3h_qUHMQq8ICqhLUIty6EHbMiroxk0kw?q=artworker)                | 5d               | Liverpool, NY        |
+|  5 | SimplyHired | [Sonoco](None)                    | [Senior Artist](https://www.simplyhired.com/job/gyQf-wXViE5DTjh6jQYwtf4n8pryWEZj3FCgwRPHI5i7PJlc-DU_Og?q=artworker)                   | Recently         | Cincinnati, OH       |
+|  6 | SimplyHired | [acrylicize](None)                | [Artworker/ Production Assistant](https://www.simplyhired.com/job/pON_mD4-MIANU80P3jVTDINiHfDVeqZsSwvkzeu3GtZ2MVGtiZ3Gpw?q=artworker) | Recently         | New York, NY         |
