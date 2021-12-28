@@ -3,3 +3,11 @@ module.exports = {
     ? '/creative-coding-jobs-update/'
     : '/'
 }
+
+module.exports = {
+  pwa: {
+    workboxOptions: {
+      exclude: [/_redirects/]
+    }
+  }
+}
