@@ -32,22 +32,26 @@ class SimplyHired(BaseCrawler):
         }
 
     def get_job_list(self, soup: BeautifulSoup):
+        print("enter get_job_list()")
         pre = soup.find('ul', id='job-list')
         if not pre:
             return None 
         return pre.find_all('div', {"class": ["SerpJob-jobCard", "card"]})
     
     def get_job_name(self, job_item: Tag) -> str:
+        print("enter get_job_name()")
         parent_node = job_item.find('h3', class_='jobposting-title')
         return parent_node.find('a', {"class": ["SerpJob-link", "card-link"]}).text
 
     def get_job_page_link(self, job_item: Tag) -> str:
+        print("enter get_job_page_link()")
         parent_node = job_item.find('h3', class_='jobposting-title')
         href = parent_node.find(
             'a', {"class": ["SerpJob-link", "card-link"]}).get('href')
         return 'https://www.simplyhired.com' + href
 
     def get_company_name(self, job_item: Tag) -> str:
+        print("enter get_company_name()")
         node = job_item.find('span', class_="jobposting-company")
         if not node:
             return None 
@@ -57,6 +61,7 @@ class SimplyHired(BaseCrawler):
         return None
 
     def update_time(self, job_item: Tag) -> str:
+        print("enter update_time()")
         parent_node = job_item.find('span', class_='SerpJob-timestamp')
         if parent_node.find('time').text == '':
             return "Recently"
@@ -64,12 +69,14 @@ class SimplyHired(BaseCrawler):
 
 
     def get_location(self, job_item: Tag) -> str:
+        print("enter get_location()")
         node = job_item.find('span', class_="jobposting-location")
         if not node:
             return None
         return node.text.strip()
 
     def _insert_to_readme(self, data_list: List[dict], keyword: str, platform_class):
+        print("enter _insert_to_readme()")
         df = pd.DataFrame(data_list).sort_values(
         ["company"]).reset_index(drop=True)
         df.index += 1
@@ -81,6 +88,7 @@ class SimplyHired(BaseCrawler):
             f.write(markdown_content)
 
     def _insert_to_csv(self, data_list: List[dict], keyword: str, platform_class):
+        print("enter _insert_to_csv()")
         df = pd.DataFrame(data_list).sort_values(
             ["company"]).reset_index(drop=True)
         df.insert(0, 'platform', platform_class.__name__)
@@ -100,6 +108,7 @@ class SimplyHired(BaseCrawler):
     #         f.write(json_data)
     
     def fetch_request(self, platform_class):
+        print("enter fetch_request()")
         self.query['q'] = self.keyword
         url = self.platform_url + urlencode(self.query)
         print(url)
@@ -142,7 +151,8 @@ class SimplyHired(BaseCrawler):
                 'update_time': update_time,
                 'location': location,
             }
-            # print(job_dict)
+            print("finished one job_dict;")
+            print(job_dict)
             self.result_list.append(job_dict)
 
         logging.info(f'====Finished Processing====: {self.keyword}')
