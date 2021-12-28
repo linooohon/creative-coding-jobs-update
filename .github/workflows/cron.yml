@@ -4,7 +4,7 @@
 
 on:
   schedule:
-    - cron: '40 05 * * Tue'
+    - cron: '20 06 * * Tue'
 jobs:
   setup-python-and-update-data:
     name: Setup Python And Update Data
