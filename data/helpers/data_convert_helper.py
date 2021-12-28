@@ -91,7 +91,7 @@ class ConvertData():
         with open(f"../README.md", "a") as f:
             for keyword in title_keyword_list:
                 keyword_filename = '_'.join(keyword.split())
-                f.write(f'\n- <a src="https://github.com/linooohon/creative-coding-jobs-update/blob/main/JOBLIST/{keyword_filename}.md" target="_blank">{keyword}</a>')
+                f.write(f'\n- <a href="https://github.com/linooohon/creative-coding-jobs-update/blob/main/JOBLIST/{keyword_filename}.md" target="_blank">{keyword}</a>')
     
     def final_json_to_readme(self):
         with open("final.json", "r") as read_file:
