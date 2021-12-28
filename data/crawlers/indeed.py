@@ -178,7 +178,7 @@ class Indeed(BaseCrawler):
                 # print(job_dict)
                 self.result_list.append(job_dict)
             self.query['start'] += 10
-        print(self.result_list)
+        # print(self.result_list)
         if len(self.result_list) == 0:
             return None
         else:
