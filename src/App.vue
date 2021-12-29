@@ -17,7 +17,7 @@ export default {
   data () {
     return {
       totalJobData: [], // no vuex
-      keywordChunk: 0
+      keywordChunk: 3
     }
   },
   mounted () {
@@ -26,7 +26,10 @@ export default {
   },
   computed: {
     chunkJobData () {
-      return this.totalJobData.slice(0, this.keywordChunk + 3)
+      if (this.keywordChunk > this.totalJobData.length) {
+        return this.totalJobData
+      }
+      return this.totalJobData.slice(0, this.keywordChunk)
     },
     ...mapState(['updateTime'])
   },
@@ -41,7 +44,7 @@ export default {
       this.$store.dispatch('getUpdateTime')
     },
     loadData () {
-      this.keywordChunk += 1
+      this.keywordChunk += 3
     }
   }
 }
