@@ -47,6 +47,14 @@ class Indeed(BaseCrawler):
 
     def get_job_page_link(self, job_item: Tag) -> str:
         return 'https://www.indeed.com' + job_item.get('href')
+    
+    def get_company_name(self, job_item: Tag) -> str:
+        if not job_item.find('span', class_='companyName'):
+            return "None"
+        elif not job_item.find('span', class_='companyName').find('a'):
+            return "None"
+        else:
+            return job_item.find('span', class_='companyName').find('a').text.strip()
 
     def get_company_page_link(self, job_item: Tag, company_name, job_name, job_page_link) -> str:
         company_name_tag = job_item.find('a', class_='companyOverviewLink')
@@ -161,14 +169,21 @@ class Indeed(BaseCrawler):
                 #     job_item, company_name, job_name, job_page_link)
                 update_time = self.update_time(job_item)
                 location = self.get_location(job_item)
+                company_name = self.get_company_name(job_item)
+                company_page_link = self.get_company_page_link(job_item, company_name, job_name, job_page_link)
+                if company_page_link:
+                    company = f'[{company_name}]({company_page_link})'
+                else:
+                    company = company_name
+                    company_page_link = 'None'
+
+
+
 
                 job_dict = {
-                    # 'company': f'[{company_name}]({company_page_link})',
-                    # 'company_name': company_name,
-                    # 'company_page_link': company_page_link,
-                    'company': 'None',
-                    'company_name': 'None',
-                    'company_page_link': 'None',
+                    'company': company,
+                    'company_name': company_name,
+                    'company_page_link': company_page_link,
                     'job': f'[{job_name}]({job_page_link})',
                     'job_name': job_name,
                     'job_page_link': job_page_link,
