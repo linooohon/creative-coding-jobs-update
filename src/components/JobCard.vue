@@ -1,5 +1,5 @@
 <template>
-  <div v-if="job.platform == platform">
+  <div v-if="job.platform == platform" class="jobCard_item">
     <a v-if="job.company_page_link != 'None'" :href="job.company_page_link">
       {{ job.company_name }}
     </a>
