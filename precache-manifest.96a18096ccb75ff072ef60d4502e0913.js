@@ -1,5 +1,13 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
+    "revision": "b363fef81c86242704c6b4921214c9c8",
+    "url": "/creative-coding-jobs-update/candle.ico"
+  },
+  {
+    "revision": "78d7fb17e455bbc905e7f1da51ce5989",
+    "url": "/creative-coding-jobs-update/candle.png"
+  },
+  {
     "revision": "0a9963f4739564649596",
     "url": "/creative-coding-jobs-update/css/app.1ae51dc5.css"
   },
@@ -8,24 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creative-coding-jobs-update/css/app.1ae51dc5.css.map"
   },
   {
-    "revision": "b363fef81c86242704c6b4921214c9c8",
+    "revision": "1ba2ae710d927f13d483fd5d1e548c9b",
     "url": "/creative-coding-jobs-update/favicon.ico"
-  },
-  {
-    "revision": "78d7fb17e455bbc905e7f1da51ce5989",
-    "url": "/creative-coding-jobs-update/favicon.png"
   },
   {
     "revision": "f130a0b70e386170cf6f011c0ca8c4f4",
     "url": "/creative-coding-jobs-update/img/icons/android-chrome-192x192.png"
   },
   {
-    "revision": "78d7fb17e455bbc905e7f1da51ce5989",
-    "url": "/creative-coding-jobs-update/img/icons/android-chrome-512x512.png"
-  },
-  {
     "revision": "0ff1bc4d14e5c9abcacba7c600d97814",
-    "url": "/creative-coding-jobs-update/img/icons/android-chrome-512x512_2.png"
+    "url": "/creative-coding-jobs-update/img/icons/android-chrome-512x512.png"
   },
   {
     "revision": "845a39478d0e2d4d5d32a092de2de250",
@@ -60,20 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creative-coding-jobs-update/img/icons/apple-touch-icon.png"
   },
   {
-    "revision": "78d7fb17e455bbc905e7f1da51ce5989",
+    "revision": "4bb1a55479d61843b89a2fdafa7849b3",
     "url": "/creative-coding-jobs-update/img/icons/favicon-16x16.png"
   },
   {
-    "revision": "4bb1a55479d61843b89a2fdafa7849b3",
-    "url": "/creative-coding-jobs-update/img/icons/favicon-16x16_2.png"
-  },
-  {
-    "revision": "78d7fb17e455bbc905e7f1da51ce5989",
-    "url": "/creative-coding-jobs-update/img/icons/favicon-32x32.png"
-  },
-  {
     "revision": "98b614336d9a12cb3f7bedb001da6fca",
-    "url": "/creative-coding-jobs-update/img/icons/favicon-32x32_.png"
+    "url": "/creative-coding-jobs-update/img/icons/favicon-32x32.png"
   },
   {
     "revision": "b89032a4a5a1879f30ba05a13947f26f",
@@ -88,7 +80,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creative-coding-jobs-update/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "26630ca97c78b90f64b0e1c237dd3e66",
+    "revision": "a105433d59d7093b47ad188c83c8721a",
     "url": "/creative-coding-jobs-update/index.html"
   },
   {
