@@ -14,3 +14,12 @@ module.exports = {
     }
   }
 }
+
+module.exports = {
+  chainWebpack: config => {
+    config.plugin('html').tap(args => {
+      args[0].title = 'Creative Coding Jobs Daily Update'
+      return args
+    })
+  }
+}
