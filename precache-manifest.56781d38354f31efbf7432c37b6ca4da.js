@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b363fef81c86242704c6b4921214c9c8",
-    "url": "/creative-coding-jobs-update/candle.ico"
-  },
-  {
-    "revision": "78d7fb17e455bbc905e7f1da51ce5989",
-    "url": "/creative-coding-jobs-update/candle.png"
-  },
-  {
     "revision": "0a9963f4739564649596",
     "url": "/creative-coding-jobs-update/css/app.1ae51dc5.css"
   },
   {
     "revision": "0a9963f4739564649596",
     "url": "/creative-coding-jobs-update/css/app.1ae51dc5.css.map"
+  },
+  {
+    "revision": "b363fef81c86242704c6b4921214c9c8",
+    "url": "/creative-coding-jobs-update/favicon.ico"
+  },
+  {
+    "revision": "78d7fb17e455bbc905e7f1da51ce5989",
+    "url": "/creative-coding-jobs-update/favicon.png"
   },
   {
     "revision": "f130a0b70e386170cf6f011c0ca8c4f4",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creative-coding-jobs-update/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "566b197f84131a6e7ad11864ddc66e0c",
+    "revision": "26630ca97c78b90f64b0e1c237dd3e66",
     "url": "/creative-coding-jobs-update/index.html"
   },
   {
