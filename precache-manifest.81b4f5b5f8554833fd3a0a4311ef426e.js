@@ -1,9 +1,5 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b363fef81c86242704c6b4921214c9c8",
-    "url": "/creative-coding-jobs-update/candle.ico"
-  },
-  {
     "revision": "78d7fb17e455bbc905e7f1da51ce5989",
     "url": "/creative-coding-jobs-update/candle.png"
   },
@@ -80,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creative-coding-jobs-update/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "26630ca97c78b90f64b0e1c237dd3e66",
+    "revision": "2315f2fa6515619907734b9d2623514b",
     "url": "/creative-coding-jobs-update/index.html"
   },
   {
