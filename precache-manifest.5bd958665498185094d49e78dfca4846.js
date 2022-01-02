@@ -60,12 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creative-coding-jobs-update/img/icons/apple-touch-icon.png"
   },
   {
-    "revision": "4bb1a55479d61843b89a2fdafa7849b3",
+    "revision": "78d7fb17e455bbc905e7f1da51ce5989",
     "url": "/creative-coding-jobs-update/img/icons/favicon-16x16.png"
   },
   {
-    "revision": "98b614336d9a12cb3f7bedb001da6fca",
+    "revision": "4bb1a55479d61843b89a2fdafa7849b3",
+    "url": "/creative-coding-jobs-update/img/icons/favicon-16x16_2.png"
+  },
+  {
+    "revision": "78d7fb17e455bbc905e7f1da51ce5989",
     "url": "/creative-coding-jobs-update/img/icons/favicon-32x32.png"
+  },
+  {
+    "revision": "98b614336d9a12cb3f7bedb001da6fca",
+    "url": "/creative-coding-jobs-update/img/icons/favicon-32x32_.png"
   },
   {
     "revision": "b89032a4a5a1879f30ba05a13947f26f",
