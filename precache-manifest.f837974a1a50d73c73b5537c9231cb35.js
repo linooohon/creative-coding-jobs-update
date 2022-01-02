@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creative-coding-jobs-update/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "2315f2fa6515619907734b9d2623514b",
+    "revision": "a74e1739b53f42f5a8d139c77bba4364",
     "url": "/creative-coding-jobs-update/index.html"
   },
   {
