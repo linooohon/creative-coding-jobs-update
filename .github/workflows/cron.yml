@@ -9,7 +9,7 @@ jobs:
   setup-python-and-update-data:
     name: Setup Python And Update Data
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+#     timeout-minutes: 60
     steps:
       - name: Checkout
         uses: actions/checkout@v2
