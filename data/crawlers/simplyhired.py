@@ -1,15 +1,10 @@
-import re
+import logging
 import requests
 import pandas as pd
-import time
-import random
-import logging
-from urllib.parse import urlencode
-# from fake_useragent import UserAgent
-from bs4 import BeautifulSoup
-from bs4.element import ResultSet, Tag
 from typing import List
-
+from bs4.element import Tag
+from bs4 import BeautifulSoup
+from urllib.parse import urlencode
 
 from crawlers.setting import Setting
 from .base_crawler import BaseCrawler
@@ -20,7 +15,6 @@ class SimplyHired(BaseCrawler):
     def __init__(self, keyword):
         self.result_list = []
         self.keyword = keyword
-        # self.ua = UserAgent()
         self.s3_keyword_df = s.get_csv_from_s3()
         self.platform_name = s.simplyhired_setting()['platform_name']
         self.platform_url = s.simplyhired_setting()['platform_url']
@@ -98,25 +92,13 @@ class SimplyHired(BaseCrawler):
         with open(f"./csv_{platform_class.__name__}.csv", "a") as f:
             f.write(csv_content)
     
-    # def _insert_to_json(self, data_list: List[dict], keyword: str, platform_class):
-    #     df = pd.DataFrame(data_list).sort_values(
-    #         ["company"]).reset_index(drop=True)
-    #     df.index += 1
-    #     json_data = df.to_json(orient = "records", lines=True)
-    #     json_data.encode('utf8').decode('utf8')
-    #     with open(f"./{platform_class.__name__}.json", "a", encoding="utf8") as f:
-    #         f.write(json_data)
-    
     def fetch_request(self, platform_class):
         print("enter fetch_request()")
         self.query['q'] = self.keyword
         url = self.platform_url + urlencode(self.query)
-        print(url)
 
         logging.info(f'Now Processing: {url}')
-        # logging.info(f'Page: {page}, {self.keyword}')
         print(f'Now Processing: {url}')
-        # print(f'Page: {self.keyword}, {page}')
 
         resp = requests.get(
             url=url, headers=self.headers)
@@ -129,17 +111,12 @@ class SimplyHired(BaseCrawler):
             logging.info(f'Break here, now go to next loop(next page)')
             return None
         for job_item in result:
-            # print(job_item)
             job_name = self.get_job_name(job_item)
             job_page_link = self.get_job_page_link(job_item)
             company_name = self.get_company_name(job_item)
             # company_page_link = self.get_company_page_link(job_item)
             update_time = self.update_time(job_item)
             location = self.get_location(job_item)
-            print('=================')
-            # print(job_name, job_page_link)
-            print('-----------------')
-            # print(company_name, company_page_link, update_time, location)
 
             job_dict = {
                 'company': company_name,
@@ -158,10 +135,8 @@ class SimplyHired(BaseCrawler):
         logging.info(f'====Finished Processing====: {self.keyword}')
         print(f'====Finished Processing====: {self.keyword}')
 
-        df = pd.DataFrame(self.result_list)
         logging.info(f'====Sending data to CSV file====: {self.keyword}')
         print(f'====Sending data to CSV file====: {self.keyword}')
-        # df.to_csv('simplyhired.csv')
         self._insert_to_csv(self.result_list, self.query['q'], platform_class)
         logging.info(
             f'====Finished Sending data to CSV file====: {self.keyword}')
@@ -174,5 +149,4 @@ class SimplyHired(BaseCrawler):
         logging.info(
             f'====Finished Sending data to readme====: {self.keyword}')
         print(f'====Finished Sending data to readme====: {self.keyword}')
-
-        # self._insert_to_json(self.result_list, self.query['q'], platform_class)
+        

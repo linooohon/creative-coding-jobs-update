@@ -1,15 +1,12 @@
-import re
-import requests
-import pandas as pd
 import time
 import random
 import logging
-from urllib.parse import urlencode
-# from fake_useragent import UserAgent
+import requests
+import pandas as pd
+from bs4.element import Tag
 from bs4 import BeautifulSoup
-from bs4.element import ResultSet, Tag
 from typing import List, Type
-
+from urllib.parse import urlencode
 
 from crawlers.setting import Setting
 from .base_crawler import BaseCrawler
@@ -21,7 +18,6 @@ class Indeed(BaseCrawler):
     def __init__(self, keyword):
         self.result_list = []
         self.keyword = keyword
-        # self.ua = UserAgent()
         self.s3_keyword_df = s.get_csv_from_s3()
         self.platform_name = s.indeed_setting()['platform_name']
         self.platform_url = s.indeed_setting()['platform_url']
@@ -158,9 +154,7 @@ class Indeed(BaseCrawler):
                 continue
 
             for job_item in result:
-                # print(job_item)
                 # filter_list = self.filter_skill_get_company_name(job_item)
-
                 # if filter_list[1]:
                 job_name = self.get_job_name(job_item)
                 job_page_link = self.get_job_page_link(job_item)
@@ -177,9 +171,6 @@ class Indeed(BaseCrawler):
                     company = company_name
                     company_page_link = 'None'
 
-
-
-
                 job_dict = {
                     'company': company,
                     'company_name': company_name,
@@ -193,7 +184,7 @@ class Indeed(BaseCrawler):
                 # print(job_dict)
                 self.result_list.append(job_dict)
             self.query['start'] += 10
-        # print(self.result_list)
+        
         if len(self.result_list) == 0:
             return None
         else:

@@ -179,6 +179,7 @@ class Setting():
         return simplyhired_setting_dict
 
     def glassdoor_setting(self):
+        # https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative%20developer
         platform_name = 'glassdoor'
         platform_url = 'https://www.glassdoor.com/Job/jobs.htm?'
         query = {

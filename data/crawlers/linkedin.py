@@ -1,15 +1,11 @@
-import re
-import requests
-import pandas as pd
-import time
 import random
 import logging
-from urllib.parse import urlencode
-# from fake_useragent import UserAgent
-from bs4 import BeautifulSoup
-from bs4.element import ResultSet, Tag
+import requests
+import pandas as pd
 from typing import List
-
+from bs4.element import Tag
+from bs4 import BeautifulSoup
+from urllib.parse import urlencode
 
 from crawlers.setting import Setting
 from .base_crawler import BaseCrawler
@@ -21,20 +17,18 @@ class LinkedIn(BaseCrawler):
     def __init__(self, keyword):
         self.result_list = []
         self.keyword = keyword
-        # self.ua = UserAgent()
         self.s3_keyword_df = s.get_csv_from_s3()
         self.platform_name = s.linkedIn_setting()['platform_name']
         self.platform_url = s.linkedIn_setting()['platform_url']
         self.query = s.linkedIn_setting()['query']
         self.referer_list = s.linkedIn_setting()['referer_list']
         self.ip_list = s.linkedIn_setting()['ip_list']
-        # self.headers = {
-        #     "User-Agent": self.ua.random,
-        # }
+        self.headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44"
+        }
 
     def get_job_list(self, soup: BeautifulSoup):
         pre = soup.find('ul', class_='jobs-search__results-list')
-        # print(pre)
         if not pre:
             return None
         return pre.find_all('div', class_='base-card')
@@ -158,10 +152,6 @@ class LinkedIn(BaseCrawler):
             company_page_link = self.get_company_page_link(job_item)
             update_time = self.update_time(job_item)
             location = self.get_location(job_item)
-            print('=================')
-            # print(job_name, job_page_link)
-            print('-----------------')
-            # print(company_name, company_page_link, update_time, location)
 
             job_dict = {
                 'company': f'[{company_name}]({company_page_link})',
@@ -179,10 +169,8 @@ class LinkedIn(BaseCrawler):
         logging.info(f'====Finished Processing====: {self.keyword}')
         print(f'====Finished Processing====: {self.keyword}')
 
-        df = pd.DataFrame(self.result_list)
         logging.info(f'====Sending data to CSV file====: {self.keyword}')
         print(f'====Sending data to CSV file====: {self.keyword}')
-        # df.to_csv('linkedin.csv')
         self._insert_to_csv(self.result_list, self.query['keywords'], platform_class)
         logging.info(
             f'====Finished Sending data to CSV file====: {self.keyword}')
