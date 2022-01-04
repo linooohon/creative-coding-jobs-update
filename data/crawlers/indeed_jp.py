@@ -7,6 +7,10 @@ from bs4.element import Tag
 from bs4 import BeautifulSoup
 from typing import List, Type
 from urllib.parse import urlencode
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as GoogleService
+from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
 
 from crawlers.setting import Setting
 from .base_crawler import BaseCrawler
@@ -14,18 +18,17 @@ from .base_crawler import BaseCrawler
 s = Setting()
 
 
-class Indeed(BaseCrawler):
-    def __init__(self, keyword):
+class IndeedJP(BaseCrawler):
+    def __init__(self, keyword, indeed_country):
+        self.indeed_country = indeed_country
         self.result_list = []
         self.keyword = keyword
         self.s3_keyword_df = s.get_csv_from_s3()
-        self.platform_name = s.indeed_setting()['platform_name']
-        self.platform_url = s.indeed_setting()['platform_url']
-        self.query = s.indeed_setting()['query']
-        self.referer_list = s.indeed_setting()['referer_list']
+        self.platform_name = s.indeed_jp_setting()['platform_name']
+        self.platform_url = s.indeed_jp_setting()['platform_url']
+        self.query = s.indeed_jp_setting()['query']
         self.headers = {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44",
-            "Referer": self.referer_list[random.randrange(0, 25)],
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44"
         }
 
     def get_job_list(self, soup: BeautifulSoup):
@@ -41,7 +44,7 @@ class Indeed(BaseCrawler):
         return parent_node.find('span', recursive=False).text
 
     def get_job_page_link(self, job_item: Tag) -> str:
-        return 'https://www.indeed.com' + job_item.get('href')
+        return 'https://jp.indeed.com' + job_item.get('href')
     
     def get_company_name(self, job_item: Tag) -> str:
         if not job_item.find('span', class_='companyName'):
@@ -54,7 +57,7 @@ class Indeed(BaseCrawler):
     def get_company_page_link(self, job_item: Tag, company_name, job_name, job_page_link) -> str:
         company_name_tag = job_item.find('a', class_='companyOverviewLink')
         if company_name_tag:
-            return 'https://www.indeed.com' + company_name_tag.get('href')
+            return 'https://jp.indeed.com' + company_name_tag.get('href')
         else:
             logging.warning(
                 f"Can't get company page link when processing this job: {company_name}:{job_name}:{job_page_link}")
@@ -130,7 +133,6 @@ class Indeed(BaseCrawler):
     def fetch_request(self, platform_class):
         self.query['q'] = self.keyword
         while self.query['start'] < 20:
-            # print(self.query['start'])
             page = self.query['start'] // 10
             url = self.platform_url + urlencode(self.query)
 
@@ -139,9 +141,16 @@ class Indeed(BaseCrawler):
             print(f'Now Processing: {url}')
             print(f'Page: {self.keyword}, {page}')
 
-            resp = requests.get(
-                url=url, headers=self.headers)
-            soup = BeautifulSoup(resp.text, 'html.parser')
+            s = GoogleService(ChromeDriverManager().install())
+            opts = webdriver.ChromeOptions()
+            opts.add_argument("--incognito")
+            opts.headless = True
+            browser = webdriver.Chrome(service=s, options=opts)
+            browser.get(url)
+            soup = BeautifulSoup(browser.page_source, "html.parser")
+            # resp = requests.get(
+            #     url=url, headers=self.headers)
+            # soup = BeautifulSoup(resp.text, 'html.parser')
 
             result = self.get_job_list(soup)
 
@@ -205,3 +214,4 @@ class Indeed(BaseCrawler):
             logging.info(
             f'====Finished Sending data to readme====: {self.keyword}')
             print(f'====Finished Sending data to readme====: {self.keyword}')
+

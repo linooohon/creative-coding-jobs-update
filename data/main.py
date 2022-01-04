@@ -5,6 +5,7 @@ import subprocess
 from crawlers.setting import Setting
 from crawlers.log import Log
 from crawlers import JOB_BANK_LIST
+from crawlers.indeed_jp import IndeedJP
 from helpers.data_convert_helper import ConvertData
 
 
@@ -20,6 +21,10 @@ class CreativeCoderJobSearch():
         for JobPlatform in JOB_BANK_LIST:
             job_platform = JobPlatform(self.keyword)
             job_platform.fetch_request(JobPlatform)
+    # def run_selenium(self):
+    #     for JobPlatform in JOB_BANK_LIST:
+    #         job_platform = JobPlatform(self.keyword)
+    #         job_platform.fetch_request(JobPlatform)
 
 if __name__ == '__main__':
     title_keyword_list = df['title_keyword'].tolist()
@@ -46,3 +51,10 @@ if __name__ == '__main__':
     cd.final_json_to_readme()
     print("finished final json to readme")
     subprocess.Popen('date -u "+DATE: %Y-%m-%d, TIME: %H:%M:%S / UTC+0" > update_time.log', shell=True)
+    # with open("indeed_jp_keyword.txt", "r") as f:
+    #     gen = (i.strip('\n') for i in f.readlines())
+    #     for keyword in gen:
+    #         print(f"You search keywords: {keyword}")
+    #         crawler = CreativeCoderJobSearch(keyword)
+    #         time.sleep(random.randrange(10, 30))
+    #         crawler.run_selenium()

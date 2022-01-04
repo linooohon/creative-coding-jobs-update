@@ -1,0 +1,98 @@
+クリエイティブデベロッパー
+ジェネラティブアート
+デジタルデベロッパー
+ジェネラティブアーティスト
+インタラクティブデベロッパー
+ジェネラティブデザイナー
+グラフィックエンジニア
+ジェネラティブエンジニア
+インタラクティブデザイナー
+テクニカルアーティスト
+バーチャルリアリティデベロッパー
+拡張現実
+サウンドデザイナー
+ユニティデベロッパー
+クリエイティブデザイナー
+デジタルデザイナー
+アニメデベロッパー
+拡張現実デザイナー
+サウンドデベロッパー
+クリエイティブコーダー
+uxエンジニア
+テクニカルサウンドデザイナー
+オーディオエンジニア
+デジタルプラットフォーム
+グラフィックデザイナー
+uxデザイナー
+グラフィックアーティスト
+クリエイティブアートワーク
+グラフィックデベロッパー
+uiデザイナー
+グラフィックエンジニア
+デザインデベロッパー
+ビジュアルアート
+uiエンジニア
+3dデザイナー
+視覚効果
+3dエンジニア
+音楽デベロッパー
+ビジュアルアーキテクト
+アートワーク
+3dデベロッパー
+音楽エンジニア
+vfxデザイナー
+ビジュアルエンジニア
+ジェネラティブデザイン
+vfxエンジニア
+ジュニアデザイナー
+シニアデザイナー
+フロントエンジニア
+creative developer
+generative art
+digital developer
+generative artist
+interactive developer
+generative designer
+graphic engineer
+generative engineer
+interactive designer
+technical artist
+virtual reality developer
+arvr developer
+sound designer
+unity developer
+creative designer
+digital designer
+animation developer
+arvr designer
+sound developer
+creative coder
+ux engineer
+technical sound designer
+audio engineer
+digital platform
+graphic designer
+ux designer
+graphic artist
+creative artworker
+graphic developer
+ui designer
+graphic engineer
+design developer
+visual art
+ui engineer
+3d designer
+visual effects
+3d engineer
+music developer
+visual architect
+artworker
+3d developer
+music engineer
+vfx designer
+visual engineer
+generative design
+vfx engineer
+junior designer
+senior designer
+frontend engineer

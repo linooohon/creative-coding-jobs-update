@@ -20,7 +20,6 @@ class SimplyHired(BaseCrawler):
         self.platform_url = s.simplyhired_setting()['platform_url']
         self.query = s.simplyhired_setting()['query']
         self.referer_list = s.simplyhired_setting()['referer_list']
-        self.ip_list = s.simplyhired_setting()['ip_list']
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44",
         }

@@ -29,7 +29,6 @@ class LinkedIn(BaseCrawler):
         self.platform_url = s.linkedIn_setting()['platform_url']
         self.query = s.linkedIn_setting()['query']
         self.referer_list = s.linkedIn_setting()['referer_list']
-        self.ip_list = s.linkedIn_setting()['ip_list']
         # self.headers = {
         #     "User-Agent": self.ua.random,
         # }

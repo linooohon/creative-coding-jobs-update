@@ -14,7 +14,7 @@ from .base_crawler import BaseCrawler
 s = Setting()
 
 
-class Indeed(BaseCrawler):
+class IndeedBase(BaseCrawler):
     def __init__(self, keyword):
         self.result_list = []
         self.keyword = keyword

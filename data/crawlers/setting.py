@@ -66,21 +66,73 @@ class Setting():
             'www.superspringsinternational.com/users/seodakhoaphuongdo/',
             'indeed.zendesk.com/hc/es-419?redirect=false'
         ]
-        ip_list = {
-            "http": "116.251.216.95",
-            "http": "136.228.141.154",
-            "http": "192.168.1.105",
-            "http": "192.168.1.103",
-            "http": "192.168.1.104"
-        }
         indeed_setting_dict = {
             'platform_name': platform_name,
             'platform_url': platform_url,
             'query': query,
             'referer_list': referer_list,
-            'ip_list': ip_list
         }
         return indeed_setting_dict
+    
+    def indeed_jp_setting(self):
+        platform_name = 'indeed_jp'
+        platform_url = 'https://jp.indeed.com/jobs?'
+        query = {
+            'q': 'sound design',
+            # 'fromage': '14',
+            # 'ts': '1630833670404',
+            # 'rq': '1',
+            # 'newcount': '97580',
+            # 'rsldx': '0',
+            'start': 0,
+            'l': ''
+        }
+        # https://jp.indeed.com/%E6%B1%82%E4%BA%BA?
+        # q=frontend+engineer&
+        # fromage=14&
+        # ts=1630833670404&
+        # rq=1&
+        # newcount=97580&
+        # rsldx=0&
+        # start=10
+
+        # https://jp.indeed.com/jobs?q=frontend%20engineer&l=
+        indeed_jp_setting_dict = {
+            'platform_name': platform_name,
+            'platform_url': platform_url,
+            'query': query,
+        }
+        return indeed_jp_setting_dict
+
+    def indeed_uk_setting(self):
+        platform_name = 'indeed_uk'
+        platform_url = 'https://uk.indeed.com/jobs?'
+        query = {
+            'q': 'sound design',
+            # 'fromage': '14',
+            # 'ts': '1630833670404',
+            # 'rq': '1',
+            # 'newcount': '97580',
+            # 'rsldx': '0',
+            'start': 0,
+            'l': ''
+        }
+        # https://jp.indeed.com/%E6%B1%82%E4%BA%BA?
+        # q=frontend+engineer&
+        # fromage=14&
+        # ts=1630833670404&
+        # rq=1&
+        # newcount=97580&
+        # rsldx=0&
+        # start=10
+
+        # https://jp.indeed.com/jobs?q=frontend%20engineer&l=
+        indeed_uk_setting_dict = {
+            'platform_name': platform_name,
+            'platform_url': platform_url,
+            'query': query,
+        }
+        return indeed_uk_setting_dict
 
     def linkedIn_setting(self):
         # https://www.linkedin.com/jobs/search/?keywords=creative%20developer
@@ -136,19 +188,11 @@ class Setting():
             'www.corteva.com/',
             'agentmarketing.com/'
         ]
-        ip_list = {
-            "http": "116.251.216.95",
-            "http": "136.228.141.154",
-            "http": "192.168.1.105",
-            "http": "192.168.1.103",
-            "http": "192.168.1.104"
-        }
         linkedIn_setting_dict = {
             'platform_name': platform_name,
             'platform_url': platform_url,
             'query': query,
             'referer_list': referer_list,
-            'ip_list': ip_list
         }
         return linkedIn_setting_dict
 
@@ -162,19 +206,11 @@ class Setting():
         referer_list = [
             'https://www.simplyhired.com/',
         ]
-        ip_list = {
-            "http": "116.251.216.95",
-            "http": "136.228.141.154",
-            "http": "192.168.1.105",
-            "http": "192.168.1.103",
-            "http": "192.168.1.104"
-        }
         simplyhired_setting_dict = {
             'platform_name': platform_name,
             'platform_url': platform_url,
             'query': query,
             'referer_list': referer_list,
-            'ip_list': ip_list
         }
         return simplyhired_setting_dict
 
@@ -189,18 +225,10 @@ class Setting():
         referer_list = [
             'https://www.glassdoor.com/',
         ]
-        ip_list = {
-            "http": "116.251.216.95",
-            "http": "136.228.141.154",
-            "http": "192.168.1.105",
-            "http": "192.168.1.103",
-            "http": "192.168.1.104"
-        }
         glassdoor_setting_dict = {
             'platform_name': platform_name,
             'platform_url': platform_url,
             'query': query,
             'referer_list': referer_list,
-            'ip_list': ip_list
         }
         return glassdoor_setting_dict
