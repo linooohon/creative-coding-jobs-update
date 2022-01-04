@@ -12,20 +12,20 @@ from selenium.webdriver.chrome.service import Service as GoogleService
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-from crawlers.setting import Setting
 from .base_crawler import BaseCrawler
-
-s = Setting()
+from crawlers.setting_factory import Setting as S
+from crawlers.platform_setting.indeeduk_setting import IndeedUKSetting as IN_UK
 
 
 class IndeedUK(BaseCrawler):
     def __init__(self, keyword):
+        self.s = S(IN_UK)
         self.result_list = []
         self.keyword = keyword
-        self.s3_keyword_df = s.get_csv_from_s3()
-        self.platform_name = s.indeed_uk_setting()['platform_name']
-        self.platform_url = s.indeed_uk_setting()['platform_url']
-        self.query = s.indeed_uk_setting()['query']
+        self.s3_keyword_df = self.s.get_csv_from_s3()
+        self.platform_name = self.s.platform_name
+        self.platform_url = self.s.platform_url
+        self.query = self.s.query
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44"
         }

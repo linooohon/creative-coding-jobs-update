@@ -7,21 +7,21 @@ from bs4.element import Tag
 from bs4 import BeautifulSoup
 from urllib.parse import urlencode
 
-from crawlers.setting import Setting
+
 from .base_crawler import BaseCrawler
-
-s = Setting()
-
+from crawlers.setting_factory import Setting as S
+from crawlers.platform_setting.linkedin_setting import LinkedInSetting as LI
 
 class LinkedIn(BaseCrawler):
     def __init__(self, keyword):
+        self.s = S(LI)
         self.result_list = []
         self.keyword = keyword
-        self.s3_keyword_df = s.get_csv_from_s3()
-        self.platform_name = s.linkedIn_setting()['platform_name']
-        self.platform_url = s.linkedIn_setting()['platform_url']
-        self.query = s.linkedIn_setting()['query']
-        self.referer_list = s.linkedIn_setting()['referer_list']
+        self.s3_keyword_df = self.s.get_csv_from_s3()
+        self.platform_name = self.s.platform_name
+        self.platform_url = self.s.platform_url
+        self.query = self.s.query
+        self.referer_list = self.s.referer_list
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44"
         }

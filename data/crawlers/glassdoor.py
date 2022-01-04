@@ -7,24 +7,20 @@ from bs4.element import Tag
 from bs4 import BeautifulSoup
 from urllib.parse import urlencode
 
-# from fake_useragent import UserAgent
-
-from crawlers.setting import Setting
 from .base_crawler import BaseCrawler
-
-s = Setting()
-
+from crawlers.setting_factory import Setting as S
+from crawlers.platform_setting.glassdoor_setting import GlassDoorSetting as GD
 
 class Glassdoor(BaseCrawler):
     def __init__(self, keyword):
+        self.s = S(GD)
         self.result_list = []
         self.keyword = keyword
-        # self.ua = UserAgent()
-        self.s3_keyword_df = s.get_csv_from_s3()
-        self.platform_name = s.glassdoor_setting()['platform_name']
-        self.platform_url = s.glassdoor_setting()['platform_url']
-        self.query = s.glassdoor_setting()['query']
-        self.referer_list = s.glassdoor_setting()['referer_list']
+        self.s3_keyword_df = self.s.get_csv_from_s3()
+        self.platform_name = self.s.platform_name
+        self.platform_url = self.s.platform_url
+        self.query = self.s.query
+        self.referer_list = self.s.referer_list
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44"
         }
