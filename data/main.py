@@ -68,4 +68,4 @@ if __name__ == '__main__':
     #         print(f"You search keywords: {keyword}")
     #         crawler = CreativeCoderJobSearch(keyword)
     #         time.sleep(random.randrange(10, 30))
-    #         crawler.run_selenium()
+    #         crawler.run()

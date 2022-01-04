@@ -3,7 +3,7 @@ import json
 import subprocess
 import pandas as pd
 from datetime import datetime
-from crawlers.setting import Setting
+from crawlers.setting_factory import Setting
 from crawlers import JOB_BANK_LIST
 
 class ConvertData():

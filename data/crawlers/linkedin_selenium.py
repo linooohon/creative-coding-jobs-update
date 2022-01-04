@@ -14,7 +14,7 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-from crawlers.setting import Setting
+from crawlers.setting_factory import Setting
 from .base_crawler import BaseCrawler
 
 s = Setting()
