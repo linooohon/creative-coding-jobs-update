@@ -30,7 +30,7 @@ class ConvertData():
                 writer = csv.writer(out_file)
                 for row in reader:
                     writer.writerow(row)
-        p = subprocess.Popen("sed 1d *_stripHeader.csv >> merge.csv", shell=True, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE) 
+        p = subprocess.Popen("sed 1d ./static/*_stripHeader.csv >> ./static/merge.csv", shell=True, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE) 
         output, err = p.communicate()
         print(output)
         print('Exit code:', p.returncode)
