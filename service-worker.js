@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.25178e9e8b0968a33f80e226bed91cce.js"
+  "/precache-manifest.ff5496b2af573b6953fdf1509bb4da57.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ccjob"});
