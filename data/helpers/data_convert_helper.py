@@ -9,22 +9,22 @@ from crawlers import JOB_BANK_LIST
 class ConvertData():
     def readme_init(self):
         for JobPlatform in JOB_BANK_LIST:
-            with open(f"./readme_{JobPlatform.__name__}.md", "w+") as f:
+            with open(f"./static/readme_{JobPlatform.__name__}.md", "w+") as f:
                 f.write("\n")
             markdown_content = f'<h1 style="text-align: center;">Jobs on {JobPlatform.__name__}</h1>'
-            with open(f"./readme_{JobPlatform.__name__}.md", "a") as f:
+            with open(f"./static/readme_{JobPlatform.__name__}.md", "a") as f:
                 f.write(markdown_content)
 
     def csv_init(self):
         for JobPlatform in JOB_BANK_LIST:
-            with open(f"./csv_{JobPlatform.__name__}.csv", "w+") as f:
+            with open(f"./static/csv_{JobPlatform.__name__}.csv", "w+") as f:
                 f.write("platform,keyword,company,company_name,company_page_link,job,job_name,job_page_link,update_time,location\n")
 
     def merge_csv(self):
-        with open(f"./merge.csv", "w+") as f:
+        with open(f"./static/merge.csv", "w+") as f:
             f.write("platform,keyword,company,company_name,company_page_link,job,job_name,job_page_link,update_time,location\n")
         for JobPlatform in JOB_BANK_LIST:
-            with open(f"./csv_{JobPlatform.__name__}.csv", "r") as in_file, open(f"./csv_{JobPlatform.__name__}_stripHeader.csv", "w") as out_file:
+            with open(f"./static/csv_{JobPlatform.__name__}.csv", "r") as in_file, open(f"./static/csv_{JobPlatform.__name__}_stripHeader.csv", "w") as out_file:
                 reader = csv.reader(in_file)
                 next(reader, None)  # skip the headers
                 writer = csv.writer(out_file)
@@ -37,7 +37,7 @@ class ConvertData():
 
     def csv_to_json(self):
         jsonList = []
-        with open('merge.csv', encoding='utf-8') as csvf: 
+        with open('./static/merge.csv', encoding='utf-8') as csvf: 
             #load csv file data using csv library's dictionary reader
             fieldnames = ("platform", "keyword", "company", "company_name", "company_page_link", "job", "job_name", "job_page_link", "update_time", "location")
             next(csvf) # 把首 row 的 column name 去掉
@@ -50,13 +50,13 @@ class ConvertData():
                 jsonList.append(row)
     
         #convert python jsonArray to JSON String and write to file
-        with open('merge.json', 'w', encoding='utf-8') as jsonf: 
+        with open('./static/merge.json', 'w', encoding='utf-8') as jsonf: 
             jsonString = json.dumps(jsonList, indent=4)
             # print("jsonString:" + jsonString)
             jsonf.write(jsonString)
     
     def json_transform(self):
-        with open(r"merge.json", "r") as read_file:
+        with open('./static/merge.json', 'r') as read_file:
             data = json.load(read_file)
             result_list = []
         keyword_filter_list = []
@@ -74,7 +74,7 @@ class ConvertData():
                         i[j].append(x)
         # print("finished 1st")            
         # print("second result_list: " + result_list)
-        with open('final.json', 'w') as file:
+        with open('./static/final.json', 'w') as file:
             json.dump(result_list, file)
     
     def final_readme_init(self):
@@ -94,7 +94,7 @@ class ConvertData():
                 f.write(f'\n- <a href="https://github.com/linooohon/creative-coding-jobs-update/blob/main/JOBLIST/{keyword_filename}.md" target="_blank">{keyword}</a>')
     
     def final_json_to_readme(self):
-        with open("final.json", "r") as read_file:
+        with open("./static/final.json", "r") as read_file:
             data = json.load(read_file)
         for i in data:
             for keyword, value in i.items():
