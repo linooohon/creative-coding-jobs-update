@@ -82,7 +82,7 @@ class Glassdoor(BaseCrawler):
         markdown_content += f"\n#### {keyword}"
         markdown_content += "\n" + df.to_markdown()
 
-        with open(f"./readme_{platform_class.__name__}.md", "a") as f:
+        with open(f"./static/readme/readme_{platform_class.__name__}.md", "a") as f:
             f.write(markdown_content)
 
     def _insert_to_csv(self, data_list: List[dict], keyword: str, platform_class):
@@ -92,7 +92,7 @@ class Glassdoor(BaseCrawler):
         df.insert(1, 'keyword', keyword)
         df.index += 1
         csv_content = df.to_csv(index=False, header=None)
-        with open(f"./csv_{platform_class.__name__}.csv", "a") as f:
+        with open(f"./static/csv/csv_{platform_class.__name__}.csv", "a") as f:
             f.write(csv_content)
 
     def fetch_request(self, platform_class):
