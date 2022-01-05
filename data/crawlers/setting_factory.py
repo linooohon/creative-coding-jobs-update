@@ -2,13 +2,14 @@ import io
 import boto3
 import pandas as pd
 from os import environ
-from dotenv import load_dotenv
 from typing import Type
+from dotenv import load_dotenv
+from crawlers.platform_setting.base_setting import BaseSetting
 
 load_dotenv(verbose=True)
 
 class Setting():
-    def __init__(self, platform_setting: Type = None):
+    def __init__(self, platform_setting: Type[BaseSetting] = None):
         self.AWS_ACCESS_KEY_ID = environ.get('AWS_ACCESS_KEY_ID')
         self.AWS_SECRET_ACCESS_KEY = environ.get('AWS_SECRET_ACCESS_KEY')
         self.AWS_S3_BUCKET = environ.get('AWS_S3_BUCKET')

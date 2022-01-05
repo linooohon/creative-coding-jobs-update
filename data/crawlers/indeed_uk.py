@@ -1,16 +1,6 @@
-import time
 import random
 import logging
-import requests
-import pandas as pd
 from bs4.element import Tag
-from bs4 import BeautifulSoup
-from typing import List, Type
-from urllib.parse import urlencode
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service as GoogleService
-from selenium.webdriver.common.by import By
-from webdriver_manager.chrome import ChromeDriverManager
 
 from .indeed_base import IndeedBase
 from crawlers.setting_factory import Setting as S

@@ -1,8 +1,7 @@
 import re
 import logging
 import requests
-import pandas as pd
-from typing import List
+from typing import Type
 from bs4.element import Tag
 from bs4 import BeautifulSoup
 from urllib.parse import urlencode
@@ -74,28 +73,7 @@ class Glassdoor(BaseCrawler):
             return None
         return node.text.strip()
 
-    def _insert_to_readme(self, data_list: List[dict], keyword: str, platform_class):
-        df = pd.DataFrame(data_list).sort_values(
-            ["company"]).reset_index(drop=True)
-        df.index += 1
-        markdown_content = "\n"
-        markdown_content += f"\n#### {keyword}"
-        markdown_content += "\n" + df.to_markdown()
-
-        with open(f"./static/readme/readme_{platform_class.__name__}.md", "a") as f:
-            f.write(markdown_content)
-
-    def _insert_to_csv(self, data_list: List[dict], keyword: str, platform_class):
-        df = pd.DataFrame(data_list).sort_values(
-            ["company"]).reset_index(drop=True)
-        df.insert(0, 'platform', platform_class.__name__)
-        df.insert(1, 'keyword', keyword)
-        df.index += 1
-        csv_content = df.to_csv(index=False, header=None)
-        with open(f"./static/csv/csv_{platform_class.__name__}.csv", "a") as f:
-            f.write(csv_content)
-
-    def fetch_request(self, platform_class):
+    def fetch_request(self, platform_class: Type):
         self.query['sc.keyword'] = self.keyword
         url = self.platform_url + urlencode(self.query)
         print(url)
