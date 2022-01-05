@@ -10,22 +10,28 @@
               <JobCard :job="job" :platform="linkedin" />
             </div>
           </div> -->
-          <div class="jobCard_platform_glassdoor jobCard_platform_item">
+          <div class="jobCard_platform_item">
             <div class="platform_title">{{ glassdoor }}</div>
             <div v-for="(job, index) in item[1]" :key="`${job}_${index}`">
               <JobCard :job="job" :platform="glassdoor" />
             </div>
           </div>
-          <div class="jobCard_platform_simplyhired jobCard_platform_item">
+          <div class="jobCard_platform_item">
             <div class="platform_title">{{ simplyhired }}</div>
             <div v-for="(job, index) in item[1]" :key="`${job}_${index}`">
               <JobCard :job="job" :platform="simplyhired" />
             </div>
           </div>
-          <div class="jobCard_platform_indeed jobCard_platform_item">
+          <div class="jobCard_platform_item">
             <div class="platform_title">{{ indeed }}</div>
             <div v-for="(job, index) in item[1]" :key="`${job}_${index}`">
               <JobCard :job="job" :platform="indeed" />
+            </div>
+          </div>
+          <div class="jobCard_platform_item">
+            <div class="platform_title">{{ indeedUK }}</div>
+            <div v-for="(job, index) in item[1]" :key="`${job}_${index}`">
+              <JobCard :job="job" :platform="indeedUK" />
             </div>
           </div>
         </div>
@@ -45,7 +51,8 @@ export default {
       // linkedin: 'LinkedIn',
       glassdoor: 'Glassdoor',
       simplyhired: 'SimplyHired',
-      indeed: 'Indeed'
+      indeed: 'Indeed',
+      indeedUK: 'IndeedUK'
     }
   },
   props: ['chunkData', 'loadData'],

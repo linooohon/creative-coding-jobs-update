@@ -28,6 +28,12 @@
               <JobCard :job="job" :platform="indeed" />
             </div>
           </div>
+          <div class="jobCard_platform_item">
+            <div class="platform_title">{{ indeedUK }}</div>
+            <div v-for="(job, index) in item[1]" :key="`${job}_${index}`">
+              <JobCard :job="job" :platform="indeedUK" />
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -45,7 +51,8 @@ export default {
       // linkedin: 'LinkedIn',
       glassdoor: 'Glassdoor',
       simplyhired: 'SimplyHired',
-      indeed: 'Indeed'
+      indeed: 'Indeed',
+      indeedUK: 'IndeedUK'
     }
   },
   components: {
