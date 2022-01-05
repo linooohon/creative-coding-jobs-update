@@ -16,7 +16,7 @@ export default createStore({
   },
   actions: {
     async getTotalJobData (context) {
-      const data = await axios.get('https://raw.githubusercontent.com/linooohon/creative-coding-jobs-update/main/data/json/final.json')
+      const data = await axios.get('https://raw.githubusercontent.com/linooohon/creative-coding-jobs-update/main/data/static/json/final.json')
       context.commit('assignToData', data.data)
     },
     async getUpdateTime (context) {
