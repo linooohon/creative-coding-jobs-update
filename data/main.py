@@ -61,7 +61,7 @@ if __name__ == '__main__':
         time.sleep(random.randrange(3, 10))
         crawler.run()
     fh.transform(cd)
-    subprocess.Popen('date -u "+DATE: %Y-%m-%d, TIME: %H:%M:%S / UTC+0" > update_time.log', shell=True)
+    subprocess.Popen('date -u "+DATE: %Y-%m-%d, TIME: %H:%M:%S / UTC+0" > ./log/update_time.log', shell=True)
     # with open("indeed_jp_keyword.txt", "r") as f:
     #     gen = (i.strip('\n') for i in f.readlines())
     #     for keyword in gen:

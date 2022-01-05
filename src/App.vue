@@ -36,7 +36,7 @@ export default {
   methods: {
     // no vuex
     getTotalJobData () {
-      axios.get('https://raw.githubusercontent.com/linooohon/creative-coding-jobs-update/main/data/final.json').then((res) => {
+      axios.get('https://raw.githubusercontent.com/linooohon/creative-coding-jobs-update/main/data/static/final.json').then((res) => {
         this.totalJobData = res.data
       })
     },
