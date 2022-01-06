@@ -58,7 +58,7 @@ if __name__ == '__main__':
     for keyword in title_keyword_list:
         print(f"You search keywords: {keyword}")
         crawler = CreativeCoderJobSearch(keyword)
-        time.sleep(random.randrange(3, 10))
+        time.sleep(random.randrange(7, 15))
         crawler.run()
     fh.transform(cd)
     subprocess.Popen('date -u "+DATE: %Y-%m-%d, TIME: %H:%M:%S / UTC+0" > ./log/update_time.log', shell=True)
