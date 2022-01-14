@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ccjob"
+name = "ccjob_pro"
 version = "0.1.0"
 description = ""
 authors = ["linooohon <linooohon@gmail.com>"]
