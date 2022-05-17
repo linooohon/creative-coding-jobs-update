@@ -2,10 +2,11 @@ import time
 import random
 import subprocess
 from typing import Type
+from datetime import datetime
 
 from crawlers.setting_factory import Setting
 from crawlers.log import Log
-from crawlers import JOB_BANK_LIST
+from crawlers import JOB_BANK_LIST_DAILY, JOB_BANK_LIST_MONDAY
 from crawlers.indeed_jp import IndeedJP
 from helpers.data_convert_helper import ConvertData
 
@@ -17,9 +18,14 @@ df = s.get_csv_from_s3()
 class CreativeCoderJobSearch():
     def __init__(self, keyword):
         self.keyword = keyword
+        if datetime.now().weekday() == 0:
+            # every monday update indeed, indeed uk
+            self.job_bank_list = JOB_BANK_LIST_MONDAY
+        else:
+            self.job_bank_list = JOB_BANK_LIST_DAILY
 
     def run(self):
-        for JobPlatform in JOB_BANK_LIST:
+        for JobPlatform in self.job_bank_list:
             job_platform = JobPlatform(self.keyword)
             job_platform.fetch_request(JobPlatform)
     # def run_selenium(self):

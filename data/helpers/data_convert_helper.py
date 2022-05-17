@@ -4,11 +4,16 @@ import subprocess
 import pandas as pd
 from datetime import datetime
 from crawlers.setting_factory import Setting
-from crawlers import JOB_BANK_LIST
+from crawlers import JOB_BANK_LIST_DAILY, JOB_BANK_LIST_MONDAY
 
 class ConvertData():
+    def __init__(self):
+        if datetime.now().weekday() == 0:
+            self.job_bank_list = JOB_BANK_LIST_MONDAY
+        else:
+            self.job_bank_list = JOB_BANK_LIST_DAILY
     def readme_init(self):
-        for JobPlatform in JOB_BANK_LIST:
+        for JobPlatform in self.job_bank_list:
             with open(f"./static/readme/readme_{JobPlatform.__name__}.md", "w+") as f:
                 f.write("\n")
             markdown_content = f'<h1 style="text-align: center;">Jobs on {JobPlatform.__name__}</h1>'
@@ -16,14 +21,14 @@ class ConvertData():
                 f.write(markdown_content)
 
     def csv_init(self):
-        for JobPlatform in JOB_BANK_LIST:
+        for JobPlatform in self.job_bank_list:
             with open(f"./static/csv/csv_{JobPlatform.__name__}.csv", "w+") as f:
                 f.write("platform,keyword,company,company_name,company_page_link,job,job_name,job_page_link,update_time,location\n")
 
     def merge_csv(self):
         with open(f"./static/csv/merge.csv", "w+") as f:
             f.write("platform,keyword,company,company_name,company_page_link,job,job_name,job_page_link,update_time,location\n")
-        for JobPlatform in JOB_BANK_LIST:
+        for JobPlatform in self.job_bank_list:
             with open(f"./static/csv/csv_{JobPlatform.__name__}.csv", "r") as in_file, open(f"./static/csv/csv_{JobPlatform.__name__}_stripHeader.csv", "w") as out_file:
                 reader = csv.reader(in_file)
                 next(reader, None)  # skip the headers

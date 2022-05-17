@@ -6,6 +6,7 @@ from .glassdoor import Glassdoor
 from .indeed_jp import IndeedJP
 from .indeed_uk import IndeedUK
 
-JOB_BANK_LIST = [Indeed, SimplyHired, IndeedUK, Glassdoor]
+JOB_BANK_LIST_MONDAY = [Indeed, SimplyHired, IndeedUK, Glassdoor]
 # JOB_BANK_LIST = [IndeedJP]
+JOB_BANK_LIST_DAILY = [Glassdoor, SimplyHired]
 
