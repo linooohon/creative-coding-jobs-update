@@ -1,5 +1,5 @@
 <h1 align="center">Creative Coding Jobs Update</h1>
-<p align="center">Last updated on: 2022-09-19</p>
+<p align="center">Last updated on: 2022-09-20</p>
 
 ## TOC
 
