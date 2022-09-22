@@ -1,636 +1,636 @@
-2022-09-21 07:23:14 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
-2022-09-21 07:23:19 - root - INFO - ====Finished Processing====: creative developer
-2022-09-21 07:23:19 - root - INFO - ====Sending data to CSV file====: creative developer
-2022-09-21 07:23:19 - root - INFO - ====Finished Sending data to CSV file====: creative developer
-2022-09-21 07:23:19 - root - INFO - ====Sending data to readme====: creative developer
-2022-09-21 07:23:19 - root - INFO - ====Finished Sending data to readme====: creative developer
-2022-09-21 07:23:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+developer&pn=1
-2022-09-21 07:23:21 - root - INFO - ====Finished Processing====: creative developer
-2022-09-21 07:23:21 - root - INFO - ====Sending data to CSV file====: creative developer
-2022-09-21 07:23:21 - root - INFO - ====Finished Sending data to CSV file====: creative developer
-2022-09-21 07:23:21 - root - INFO - ====Sending data to readme====: creative developer
-2022-09-21 07:23:21 - root - INFO - ====Finished Sending data to readme====: creative developer
-2022-09-21 07:23:33 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
-2022-09-21 07:23:34 - root - INFO - ====Finished Processing====: generative art
-2022-09-21 07:23:34 - root - INFO - ====Sending data to CSV file====: generative art
-2022-09-21 07:23:34 - root - INFO - ====Finished Sending data to CSV file====: generative art
-2022-09-21 07:23:34 - root - INFO - ====Sending data to readme====: generative art
-2022-09-21 07:23:34 - root - INFO - ====Finished Sending data to readme====: generative art
-2022-09-21 07:23:36 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+art&pn=1
-2022-09-21 07:23:36 - root - INFO - ====Finished Processing====: generative art
-2022-09-21 07:23:36 - root - INFO - ====Sending data to CSV file====: generative art
-2022-09-21 07:23:36 - root - INFO - ====Finished Sending data to CSV file====: generative art
-2022-09-21 07:23:36 - root - INFO - ====Sending data to readme====: generative art
-2022-09-21 07:23:36 - root - INFO - ====Finished Sending data to readme====: generative art
-2022-09-21 07:23:50 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
-2022-09-21 07:23:51 - root - INFO - ====Finished Processing====: digital developer
-2022-09-21 07:23:51 - root - INFO - ====Sending data to CSV file====: digital developer
-2022-09-21 07:23:51 - root - INFO - ====Finished Sending data to CSV file====: digital developer
-2022-09-21 07:23:51 - root - INFO - ====Sending data to readme====: digital developer
-2022-09-21 07:23:51 - root - INFO - ====Finished Sending data to readme====: digital developer
-2022-09-21 07:23:53 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+developer&pn=1
-2022-09-21 07:23:53 - root - INFO - ====Finished Processing====: digital developer
-2022-09-21 07:23:53 - root - INFO - ====Sending data to CSV file====: digital developer
-2022-09-21 07:23:53 - root - INFO - ====Finished Sending data to CSV file====: digital developer
-2022-09-21 07:23:53 - root - INFO - ====Sending data to readme====: digital developer
-2022-09-21 07:23:53 - root - INFO - ====Finished Sending data to readme====: digital developer
-2022-09-21 07:24:03 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
-2022-09-21 07:24:03 - root - INFO - ====Finished Processing====: generative artist
-2022-09-21 07:24:03 - root - INFO - ====Sending data to CSV file====: generative artist
-2022-09-21 07:24:03 - root - INFO - ====Finished Sending data to CSV file====: generative artist
-2022-09-21 07:24:03 - root - INFO - ====Sending data to readme====: generative artist
-2022-09-21 07:24:03 - root - INFO - ====Finished Sending data to readme====: generative artist
-2022-09-21 07:24:05 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+artist&pn=1
-2022-09-21 07:24:05 - root - INFO - ====Finished Processing====: generative artist
-2022-09-21 07:24:05 - root - INFO - ====Sending data to CSV file====: generative artist
-2022-09-21 07:24:05 - root - INFO - ====Finished Sending data to CSV file====: generative artist
-2022-09-21 07:24:05 - root - INFO - ====Sending data to readme====: generative artist
-2022-09-21 07:24:05 - root - INFO - ====Finished Sending data to readme====: generative artist
-2022-09-21 07:24:19 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
-2022-09-21 07:24:20 - root - INFO - ====Finished Processing====: interactive developer
-2022-09-21 07:24:20 - root - INFO - ====Sending data to CSV file====: interactive developer
-2022-09-21 07:24:20 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
-2022-09-21 07:24:20 - root - INFO - ====Sending data to readme====: interactive developer
-2022-09-21 07:24:20 - root - INFO - ====Finished Sending data to readme====: interactive developer
-2022-09-21 07:24:22 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+developer&pn=1
-2022-09-21 07:24:22 - root - INFO - ====Finished Processing====: interactive developer
-2022-09-21 07:24:22 - root - INFO - ====Sending data to CSV file====: interactive developer
-2022-09-21 07:24:22 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
-2022-09-21 07:24:22 - root - INFO - ====Sending data to readme====: interactive developer
-2022-09-21 07:24:22 - root - INFO - ====Finished Sending data to readme====: interactive developer
-2022-09-21 07:24:37 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
-2022-09-21 07:24:37 - root - INFO - ====Finished Processing====: generative designer
-2022-09-21 07:24:37 - root - INFO - ====Sending data to CSV file====: generative designer
-2022-09-21 07:24:37 - root - INFO - ====Finished Sending data to CSV file====: generative designer
-2022-09-21 07:24:37 - root - INFO - ====Sending data to readme====: generative designer
-2022-09-21 07:24:37 - root - INFO - ====Finished Sending data to readme====: generative designer
-2022-09-21 07:24:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+designer&pn=1
-2022-09-21 07:24:39 - root - INFO - ====Finished Processing====: generative designer
-2022-09-21 07:24:39 - root - INFO - ====Sending data to CSV file====: generative designer
-2022-09-21 07:24:39 - root - INFO - ====Finished Sending data to CSV file====: generative designer
-2022-09-21 07:24:39 - root - INFO - ====Sending data to readme====: generative designer
-2022-09-21 07:24:39 - root - INFO - ====Finished Sending data to readme====: generative designer
-2022-09-21 07:24:49 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2022-09-21 07:24:50 - root - INFO - ====Finished Processing====: graphic engineer
-2022-09-21 07:24:50 - root - INFO - ====Sending data to CSV file====: graphic engineer
-2022-09-21 07:24:50 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
-2022-09-21 07:24:50 - root - INFO - ====Sending data to readme====: graphic engineer
-2022-09-21 07:24:50 - root - INFO - ====Finished Sending data to readme====: graphic engineer
-2022-09-21 07:24:51 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
-2022-09-21 07:24:52 - root - INFO - ====Finished Processing====: graphic engineer
-2022-09-21 07:24:52 - root - INFO - ====Sending data to CSV file====: graphic engineer
-2022-09-21 07:24:52 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
-2022-09-21 07:24:52 - root - INFO - ====Sending data to readme====: graphic engineer
-2022-09-21 07:24:52 - root - INFO - ====Finished Sending data to readme====: graphic engineer
-2022-09-21 07:25:02 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
-2022-09-21 07:25:03 - root - INFO - ====Finished Processing====: generative engineer
-2022-09-21 07:25:03 - root - INFO - ====Sending data to CSV file====: generative engineer
-2022-09-21 07:25:03 - root - INFO - ====Finished Sending data to CSV file====: generative engineer
-2022-09-21 07:25:03 - root - INFO - ====Sending data to readme====: generative engineer
-2022-09-21 07:25:03 - root - INFO - ====Finished Sending data to readme====: generative engineer
-2022-09-21 07:25:05 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+engineer&pn=1
-2022-09-21 07:25:05 - root - INFO - ====Finished Processing====: generative engineer
-2022-09-21 07:25:05 - root - INFO - ====Sending data to CSV file====: generative engineer
-2022-09-21 07:25:05 - root - INFO - ====Finished Sending data to CSV file====: generative engineer
-2022-09-21 07:25:05 - root - INFO - ====Sending data to readme====: generative engineer
-2022-09-21 07:25:05 - root - INFO - ====Finished Sending data to readme====: generative engineer
-2022-09-21 07:25:15 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
-2022-09-21 07:25:16 - root - INFO - ====Finished Processing====: interactive designer
-2022-09-21 07:25:16 - root - INFO - ====Sending data to CSV file====: interactive designer
-2022-09-21 07:25:16 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
-2022-09-21 07:25:16 - root - INFO - ====Sending data to readme====: interactive designer
-2022-09-21 07:25:16 - root - INFO - ====Finished Sending data to readme====: interactive designer
-2022-09-21 07:25:17 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+designer&pn=1
-2022-09-21 07:25:17 - root - INFO - ====Finished Processing====: interactive designer
-2022-09-21 07:25:17 - root - INFO - ====Sending data to CSV file====: interactive designer
-2022-09-21 07:25:17 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
-2022-09-21 07:25:17 - root - INFO - ====Sending data to readme====: interactive designer
-2022-09-21 07:25:17 - root - INFO - ====Finished Sending data to readme====: interactive designer
-2022-09-21 07:25:28 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
-2022-09-21 07:25:29 - root - INFO - ====Finished Processing====: technical artist
-2022-09-21 07:25:29 - root - INFO - ====Sending data to CSV file====: technical artist
-2022-09-21 07:25:29 - root - INFO - ====Finished Sending data to CSV file====: technical artist
-2022-09-21 07:25:29 - root - INFO - ====Sending data to readme====: technical artist
-2022-09-21 07:25:29 - root - INFO - ====Finished Sending data to readme====: technical artist
-2022-09-21 07:25:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+artist&pn=1
-2022-09-21 07:25:31 - root - INFO - ====Finished Processing====: technical artist
-2022-09-21 07:25:31 - root - INFO - ====Sending data to CSV file====: technical artist
-2022-09-21 07:25:31 - root - INFO - ====Finished Sending data to CSV file====: technical artist
-2022-09-21 07:25:31 - root - INFO - ====Sending data to readme====: technical artist
-2022-09-21 07:25:31 - root - INFO - ====Finished Sending data to readme====: technical artist
-2022-09-21 07:25:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
-2022-09-21 07:25:47 - root - INFO - ====Finished Processing====: virtual reality developer
-2022-09-21 07:25:47 - root - INFO - ====Sending data to CSV file====: virtual reality developer
-2022-09-21 07:25:47 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
-2022-09-21 07:25:47 - root - INFO - ====Sending data to readme====: virtual reality developer
-2022-09-21 07:25:47 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
-2022-09-21 07:25:49 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
-2022-09-21 07:25:49 - root - INFO - ====Finished Processing====: virtual reality developer
-2022-09-21 07:25:49 - root - INFO - ====Sending data to CSV file====: virtual reality developer
-2022-09-21 07:25:49 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
-2022-09-21 07:25:49 - root - INFO - ====Sending data to readme====: virtual reality developer
-2022-09-21 07:25:49 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
-2022-09-21 07:26:05 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
-2022-09-21 07:26:05 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
-2022-09-21 07:26:05 - root - INFO - Break here, now go to next loop(next page)
-2022-09-21 07:26:07 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+developer&pn=1
-2022-09-21 07:26:07 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+developer&pn=1
-2022-09-21 07:26:07 - root - INFO - Break here, now go to next loop(next page)
-2022-09-21 07:26:20 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
-2022-09-21 07:26:21 - root - INFO - ====Finished Processing====: sound designer
-2022-09-21 07:26:21 - root - INFO - ====Sending data to CSV file====: sound designer
-2022-09-21 07:26:21 - root - INFO - ====Finished Sending data to CSV file====: sound designer
-2022-09-21 07:26:21 - root - INFO - ====Sending data to readme====: sound designer
-2022-09-21 07:26:21 - root - INFO - ====Finished Sending data to readme====: sound designer
-2022-09-21 07:26:23 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+designer&pn=1
-2022-09-21 07:26:23 - root - INFO - ====Finished Processing====: sound designer
-2022-09-21 07:26:23 - root - INFO - ====Sending data to CSV file====: sound designer
-2022-09-21 07:26:23 - root - INFO - ====Finished Sending data to CSV file====: sound designer
-2022-09-21 07:26:23 - root - INFO - ====Sending data to readme====: sound designer
-2022-09-21 07:26:23 - root - INFO - ====Finished Sending data to readme====: sound designer
-2022-09-21 07:26:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
-2022-09-21 07:26:33 - root - INFO - ====Finished Processing====: unity developer
-2022-09-21 07:26:33 - root - INFO - ====Sending data to CSV file====: unity developer
-2022-09-21 07:26:33 - root - INFO - ====Finished Sending data to CSV file====: unity developer
-2022-09-21 07:26:33 - root - INFO - ====Sending data to readme====: unity developer
-2022-09-21 07:26:33 - root - INFO - ====Finished Sending data to readme====: unity developer
-2022-09-21 07:26:35 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=unity+developer&pn=1
-2022-09-21 07:26:35 - root - INFO - ====Finished Processing====: unity developer
-2022-09-21 07:26:35 - root - INFO - ====Sending data to CSV file====: unity developer
-2022-09-21 07:26:35 - root - INFO - ====Finished Sending data to CSV file====: unity developer
-2022-09-21 07:26:35 - root - INFO - ====Sending data to readme====: unity developer
-2022-09-21 07:26:35 - root - INFO - ====Finished Sending data to readme====: unity developer
-2022-09-21 07:26:48 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
-2022-09-21 07:26:49 - root - INFO - ====Finished Processing====: creative designer
-2022-09-21 07:26:49 - root - INFO - ====Sending data to CSV file====: creative designer
-2022-09-21 07:26:49 - root - INFO - ====Finished Sending data to CSV file====: creative designer
-2022-09-21 07:26:49 - root - INFO - ====Sending data to readme====: creative designer
-2022-09-21 07:26:49 - root - INFO - ====Finished Sending data to readme====: creative designer
-2022-09-21 07:26:50 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+designer&pn=1
-2022-09-21 07:26:50 - root - INFO - ====Finished Processing====: creative designer
-2022-09-21 07:26:50 - root - INFO - ====Sending data to CSV file====: creative designer
-2022-09-21 07:26:50 - root - INFO - ====Finished Sending data to CSV file====: creative designer
-2022-09-21 07:26:50 - root - INFO - ====Sending data to readme====: creative designer
-2022-09-21 07:26:50 - root - INFO - ====Finished Sending data to readme====: creative designer
-2022-09-21 07:27:00 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
-2022-09-21 07:27:01 - root - INFO - ====Finished Processing====: digital designer
-2022-09-21 07:27:01 - root - INFO - ====Sending data to CSV file====: digital designer
-2022-09-21 07:27:01 - root - INFO - ====Finished Sending data to CSV file====: digital designer
-2022-09-21 07:27:01 - root - INFO - ====Sending data to readme====: digital designer
-2022-09-21 07:27:01 - root - INFO - ====Finished Sending data to readme====: digital designer
-2022-09-21 07:27:02 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+designer&pn=1
-2022-09-21 07:27:03 - root - INFO - ====Finished Processing====: digital designer
-2022-09-21 07:27:03 - root - INFO - ====Sending data to CSV file====: digital designer
-2022-09-21 07:27:03 - root - INFO - ====Finished Sending data to CSV file====: digital designer
-2022-09-21 07:27:03 - root - INFO - ====Sending data to readme====: digital designer
-2022-09-21 07:27:03 - root - INFO - ====Finished Sending data to readme====: digital designer
-2022-09-21 07:27:17 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
-2022-09-21 07:27:18 - root - INFO - ====Finished Processing====: animation developer
-2022-09-21 07:27:18 - root - INFO - ====Sending data to CSV file====: animation developer
-2022-09-21 07:27:18 - root - INFO - ====Finished Sending data to CSV file====: animation developer
-2022-09-21 07:27:18 - root - INFO - ====Sending data to readme====: animation developer
-2022-09-21 07:27:18 - root - INFO - ====Finished Sending data to readme====: animation developer
-2022-09-21 07:27:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=animation+developer&pn=1
-2022-09-21 07:27:20 - root - INFO - ====Finished Processing====: animation developer
-2022-09-21 07:27:20 - root - INFO - ====Sending data to CSV file====: animation developer
-2022-09-21 07:27:20 - root - INFO - ====Finished Sending data to CSV file====: animation developer
-2022-09-21 07:27:20 - root - INFO - ====Sending data to readme====: animation developer
-2022-09-21 07:27:20 - root - INFO - ====Finished Sending data to readme====: animation developer
-2022-09-21 07:27:29 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
-2022-09-21 07:27:30 - root - INFO - ====Finished Processing====: arvr designer
-2022-09-21 07:27:30 - root - INFO - ====Sending data to CSV file====: arvr designer
-2022-09-21 07:27:30 - root - INFO - ====Finished Sending data to CSV file====: arvr designer
-2022-09-21 07:27:30 - root - INFO - ====Sending data to readme====: arvr designer
-2022-09-21 07:27:30 - root - INFO - ====Finished Sending data to readme====: arvr designer
-2022-09-21 07:27:32 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+designer&pn=1
-2022-09-21 07:27:32 - root - INFO - ====Finished Processing====: arvr designer
-2022-09-21 07:27:32 - root - INFO - ====Sending data to CSV file====: arvr designer
-2022-09-21 07:27:32 - root - INFO - ====Finished Sending data to CSV file====: arvr designer
-2022-09-21 07:27:32 - root - INFO - ====Sending data to readme====: arvr designer
-2022-09-21 07:27:32 - root - INFO - ====Finished Sending data to readme====: arvr designer
-2022-09-21 07:27:44 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
-2022-09-21 07:27:44 - root - INFO - ====Finished Processing====: sound developer
-2022-09-21 07:27:44 - root - INFO - ====Sending data to CSV file====: sound developer
-2022-09-21 07:27:44 - root - INFO - ====Finished Sending data to CSV file====: sound developer
-2022-09-21 07:27:44 - root - INFO - ====Sending data to readme====: sound developer
-2022-09-21 07:27:44 - root - INFO - ====Finished Sending data to readme====: sound developer
-2022-09-21 07:27:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+developer&pn=1
-2022-09-21 07:27:46 - root - INFO - ====Finished Processing====: sound developer
-2022-09-21 07:27:46 - root - INFO - ====Sending data to CSV file====: sound developer
-2022-09-21 07:27:46 - root - INFO - ====Finished Sending data to CSV file====: sound developer
-2022-09-21 07:27:46 - root - INFO - ====Sending data to readme====: sound developer
-2022-09-21 07:27:46 - root - INFO - ====Finished Sending data to readme====: sound developer
-2022-09-21 07:28:01 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
-2022-09-21 07:28:02 - root - INFO - ====Finished Processing====: creative coder
-2022-09-21 07:28:02 - root - INFO - ====Sending data to CSV file====: creative coder
-2022-09-21 07:28:02 - root - INFO - ====Finished Sending data to CSV file====: creative coder
-2022-09-21 07:28:02 - root - INFO - ====Sending data to readme====: creative coder
-2022-09-21 07:28:02 - root - INFO - ====Finished Sending data to readme====: creative coder
-2022-09-21 07:28:03 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+coder&pn=1
-2022-09-21 07:28:04 - root - INFO - ====Finished Processing====: creative coder
-2022-09-21 07:28:04 - root - INFO - ====Sending data to CSV file====: creative coder
-2022-09-21 07:28:04 - root - INFO - ====Finished Sending data to CSV file====: creative coder
-2022-09-21 07:28:04 - root - INFO - ====Sending data to readme====: creative coder
-2022-09-21 07:28:04 - root - INFO - ====Finished Sending data to readme====: creative coder
-2022-09-21 07:28:14 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
-2022-09-21 07:28:15 - root - INFO - ====Finished Processing====: ux engineer
-2022-09-21 07:28:15 - root - INFO - ====Sending data to CSV file====: ux engineer
-2022-09-21 07:28:15 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
-2022-09-21 07:28:15 - root - INFO - ====Sending data to readme====: ux engineer
-2022-09-21 07:28:15 - root - INFO - ====Finished Sending data to readme====: ux engineer
-2022-09-21 07:28:17 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+engineer&pn=1
-2022-09-21 07:28:17 - root - INFO - ====Finished Processing====: ux engineer
-2022-09-21 07:28:17 - root - INFO - ====Sending data to CSV file====: ux engineer
-2022-09-21 07:28:17 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
-2022-09-21 07:28:17 - root - INFO - ====Sending data to readme====: ux engineer
-2022-09-21 07:28:17 - root - INFO - ====Finished Sending data to readme====: ux engineer
-2022-09-21 07:28:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
-2022-09-21 07:28:33 - root - INFO - ====Finished Processing====: technical sound designer
-2022-09-21 07:28:33 - root - INFO - ====Sending data to CSV file====: technical sound designer
-2022-09-21 07:28:33 - root - INFO - ====Finished Sending data to CSV file====: technical sound designer
-2022-09-21 07:28:33 - root - INFO - ====Sending data to readme====: technical sound designer
-2022-09-21 07:28:33 - root - INFO - ====Finished Sending data to readme====: technical sound designer
-2022-09-21 07:28:34 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+sound+designer&pn=1
-2022-09-21 07:28:35 - root - INFO - ====Finished Processing====: technical sound designer
-2022-09-21 07:28:35 - root - INFO - ====Sending data to CSV file====: technical sound designer
-2022-09-21 07:28:35 - root - INFO - ====Finished Sending data to CSV file====: technical sound designer
-2022-09-21 07:28:35 - root - INFO - ====Sending data to readme====: technical sound designer
-2022-09-21 07:28:35 - root - INFO - ====Finished Sending data to readme====: technical sound designer
-2022-09-21 07:28:44 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
-2022-09-21 07:28:45 - root - INFO - ====Finished Processing====: audio engineer
-2022-09-21 07:28:45 - root - INFO - ====Sending data to CSV file====: audio engineer
-2022-09-21 07:28:45 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
-2022-09-21 07:28:45 - root - INFO - ====Sending data to readme====: audio engineer
-2022-09-21 07:28:45 - root - INFO - ====Finished Sending data to readme====: audio engineer
-2022-09-21 07:28:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=audio+engineer&pn=1
-2022-09-21 07:28:47 - root - INFO - ====Finished Processing====: audio engineer
-2022-09-21 07:28:47 - root - INFO - ====Sending data to CSV file====: audio engineer
-2022-09-21 07:28:47 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
-2022-09-21 07:28:47 - root - INFO - ====Sending data to readme====: audio engineer
-2022-09-21 07:28:47 - root - INFO - ====Finished Sending data to readme====: audio engineer
-2022-09-21 07:28:59 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
-2022-09-21 07:29:01 - root - INFO - ====Finished Processing====: digital platform
-2022-09-21 07:29:01 - root - INFO - ====Sending data to CSV file====: digital platform
-2022-09-21 07:29:01 - root - INFO - ====Finished Sending data to CSV file====: digital platform
-2022-09-21 07:29:01 - root - INFO - ====Sending data to readme====: digital platform
-2022-09-21 07:29:01 - root - INFO - ====Finished Sending data to readme====: digital platform
-2022-09-21 07:29:02 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+platform&pn=1
-2022-09-21 07:29:03 - root - INFO - ====Finished Processing====: digital platform
-2022-09-21 07:29:03 - root - INFO - ====Sending data to CSV file====: digital platform
-2022-09-21 07:29:03 - root - INFO - ====Finished Sending data to CSV file====: digital platform
-2022-09-21 07:29:03 - root - INFO - ====Sending data to readme====: digital platform
-2022-09-21 07:29:03 - root - INFO - ====Finished Sending data to readme====: digital platform
-2022-09-21 07:29:15 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
-2022-09-21 07:29:16 - root - INFO - ====Finished Processing====: graphic designer
-2022-09-21 07:29:16 - root - INFO - ====Sending data to CSV file====: graphic designer
-2022-09-21 07:29:16 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
-2022-09-21 07:29:16 - root - INFO - ====Sending data to readme====: graphic designer
-2022-09-21 07:29:16 - root - INFO - ====Finished Sending data to readme====: graphic designer
-2022-09-21 07:29:17 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+designer&pn=1
-2022-09-21 07:29:18 - root - INFO - ====Finished Processing====: graphic designer
-2022-09-21 07:29:18 - root - INFO - ====Sending data to CSV file====: graphic designer
-2022-09-21 07:29:18 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
-2022-09-21 07:29:18 - root - INFO - ====Sending data to readme====: graphic designer
-2022-09-21 07:29:18 - root - INFO - ====Finished Sending data to readme====: graphic designer
-2022-09-21 07:29:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
-2022-09-21 07:29:34 - root - INFO - ====Finished Processing====: ux designer
-2022-09-21 07:29:34 - root - INFO - ====Sending data to CSV file====: ux designer
-2022-09-21 07:29:34 - root - INFO - ====Finished Sending data to CSV file====: ux designer
-2022-09-21 07:29:34 - root - INFO - ====Sending data to readme====: ux designer
-2022-09-21 07:29:34 - root - INFO - ====Finished Sending data to readme====: ux designer
-2022-09-21 07:29:35 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+designer&pn=1
-2022-09-21 07:29:36 - root - INFO - ====Finished Processing====: ux designer
-2022-09-21 07:29:36 - root - INFO - ====Sending data to CSV file====: ux designer
-2022-09-21 07:29:36 - root - INFO - ====Finished Sending data to CSV file====: ux designer
-2022-09-21 07:29:36 - root - INFO - ====Sending data to readme====: ux designer
-2022-09-21 07:29:36 - root - INFO - ====Finished Sending data to readme====: ux designer
-2022-09-21 07:29:44 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
-2022-09-21 07:29:45 - root - INFO - ====Finished Processing====: graphic artist
-2022-09-21 07:29:45 - root - INFO - ====Sending data to CSV file====: graphic artist
-2022-09-21 07:29:45 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
-2022-09-21 07:29:45 - root - INFO - ====Sending data to readme====: graphic artist
-2022-09-21 07:29:45 - root - INFO - ====Finished Sending data to readme====: graphic artist
-2022-09-21 07:29:47 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+artist&pn=1
-2022-09-21 07:29:47 - root - INFO - ====Finished Processing====: graphic artist
-2022-09-21 07:29:47 - root - INFO - ====Sending data to CSV file====: graphic artist
-2022-09-21 07:29:47 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
-2022-09-21 07:29:47 - root - INFO - ====Sending data to readme====: graphic artist
-2022-09-21 07:29:47 - root - INFO - ====Finished Sending data to readme====: graphic artist
-2022-09-21 07:29:56 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
-2022-09-21 07:29:57 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
-2022-09-21 07:29:57 - root - INFO - Break here, now go to next loop(next page)
-2022-09-21 07:29:58 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+artworker&pn=1
-2022-09-21 07:29:59 - root - INFO - ====Finished Processing====: creative artworker
-2022-09-21 07:29:59 - root - INFO - ====Sending data to CSV file====: creative artworker
-2022-09-21 07:29:59 - root - INFO - ====Finished Sending data to CSV file====: creative artworker
-2022-09-21 07:29:59 - root - INFO - ====Sending data to readme====: creative artworker
-2022-09-21 07:29:59 - root - INFO - ====Finished Sending data to readme====: creative artworker
-2022-09-21 07:30:12 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
-2022-09-21 07:30:13 - root - INFO - ====Finished Processing====: graphic developer
-2022-09-21 07:30:13 - root - INFO - ====Sending data to CSV file====: graphic developer
-2022-09-21 07:30:13 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
-2022-09-21 07:30:13 - root - INFO - ====Sending data to readme====: graphic developer
-2022-09-21 07:30:13 - root - INFO - ====Finished Sending data to readme====: graphic developer
-2022-09-21 07:30:15 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+developer&pn=1
-2022-09-21 07:30:15 - root - INFO - ====Finished Processing====: graphic developer
-2022-09-21 07:30:15 - root - INFO - ====Sending data to CSV file====: graphic developer
-2022-09-21 07:30:15 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
-2022-09-21 07:30:15 - root - INFO - ====Sending data to readme====: graphic developer
-2022-09-21 07:30:15 - root - INFO - ====Finished Sending data to readme====: graphic developer
-2022-09-21 07:30:29 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
-2022-09-21 07:30:29 - root - INFO - ====Finished Processing====: ui designer
-2022-09-21 07:30:29 - root - INFO - ====Sending data to CSV file====: ui designer
-2022-09-21 07:30:29 - root - INFO - ====Finished Sending data to CSV file====: ui designer
-2022-09-21 07:30:29 - root - INFO - ====Sending data to readme====: ui designer
-2022-09-21 07:30:29 - root - INFO - ====Finished Sending data to readme====: ui designer
-2022-09-21 07:30:31 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+designer&pn=1
-2022-09-21 07:30:31 - root - INFO - ====Finished Processing====: ui designer
-2022-09-21 07:30:31 - root - INFO - ====Sending data to CSV file====: ui designer
-2022-09-21 07:30:31 - root - INFO - ====Finished Sending data to CSV file====: ui designer
-2022-09-21 07:30:31 - root - INFO - ====Sending data to readme====: ui designer
-2022-09-21 07:30:31 - root - INFO - ====Finished Sending data to readme====: ui designer
-2022-09-21 07:30:45 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2022-09-21 07:30:46 - root - INFO - ====Finished Processing====: graphic engineer
-2022-09-21 07:30:46 - root - INFO - ====Sending data to CSV file====: graphic engineer
-2022-09-21 07:30:46 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
-2022-09-21 07:30:46 - root - INFO - ====Sending data to readme====: graphic engineer
-2022-09-21 07:30:46 - root - INFO - ====Finished Sending data to readme====: graphic engineer
-2022-09-21 07:30:47 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
-2022-09-21 07:30:47 - root - INFO - ====Finished Processing====: graphic engineer
-2022-09-21 07:30:47 - root - INFO - ====Sending data to CSV file====: graphic engineer
-2022-09-21 07:30:47 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
-2022-09-21 07:30:47 - root - INFO - ====Sending data to readme====: graphic engineer
-2022-09-21 07:30:47 - root - INFO - ====Finished Sending data to readme====: graphic engineer
-2022-09-21 07:31:02 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
-2022-09-21 07:31:03 - root - INFO - ====Finished Processing====: design developer
-2022-09-21 07:31:03 - root - INFO - ====Sending data to CSV file====: design developer
-2022-09-21 07:31:03 - root - INFO - ====Finished Sending data to CSV file====: design developer
-2022-09-21 07:31:03 - root - INFO - ====Sending data to readme====: design developer
-2022-09-21 07:31:03 - root - INFO - ====Finished Sending data to readme====: design developer
-2022-09-21 07:31:04 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=design+developer&pn=1
-2022-09-21 07:31:05 - root - INFO - ====Finished Processing====: design developer
-2022-09-21 07:31:05 - root - INFO - ====Sending data to CSV file====: design developer
-2022-09-21 07:31:05 - root - INFO - ====Finished Sending data to CSV file====: design developer
-2022-09-21 07:31:05 - root - INFO - ====Sending data to readme====: design developer
-2022-09-21 07:31:05 - root - INFO - ====Finished Sending data to readme====: design developer
-2022-09-21 07:31:15 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
-2022-09-21 07:31:25 - root - INFO - ====Finished Processing====: visual art
-2022-09-21 07:31:25 - root - INFO - ====Sending data to CSV file====: visual art
-2022-09-21 07:31:25 - root - INFO - ====Finished Sending data to CSV file====: visual art
-2022-09-21 07:31:25 - root - INFO - ====Sending data to readme====: visual art
-2022-09-21 07:31:25 - root - INFO - ====Finished Sending data to readme====: visual art
-2022-09-21 07:31:26 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+art&pn=1
-2022-09-21 07:31:26 - root - INFO - ====Finished Processing====: visual art
-2022-09-21 07:31:26 - root - INFO - ====Sending data to CSV file====: visual art
-2022-09-21 07:31:27 - root - INFO - ====Finished Sending data to CSV file====: visual art
-2022-09-21 07:31:27 - root - INFO - ====Sending data to readme====: visual art
-2022-09-21 07:31:27 - root - INFO - ====Finished Sending data to readme====: visual art
-2022-09-21 07:31:41 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
-2022-09-21 07:31:42 - root - INFO - ====Finished Processing====: ui engineer
-2022-09-21 07:31:42 - root - INFO - ====Sending data to CSV file====: ui engineer
-2022-09-21 07:31:42 - root - INFO - ====Finished Sending data to CSV file====: ui engineer
-2022-09-21 07:31:42 - root - INFO - ====Sending data to readme====: ui engineer
-2022-09-21 07:31:42 - root - INFO - ====Finished Sending data to readme====: ui engineer
-2022-09-21 07:31:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+engineer&pn=1
-2022-09-21 07:31:44 - root - INFO - ====Finished Processing====: ui engineer
-2022-09-21 07:31:44 - root - INFO - ====Sending data to CSV file====: ui engineer
-2022-09-21 07:31:44 - root - INFO - ====Finished Sending data to CSV file====: ui engineer
-2022-09-21 07:31:44 - root - INFO - ====Sending data to readme====: ui engineer
-2022-09-21 07:31:44 - root - INFO - ====Finished Sending data to readme====: ui engineer
-2022-09-21 07:31:54 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
-2022-09-21 07:31:55 - root - INFO - ====Finished Processing====: 3d designer
-2022-09-21 07:31:55 - root - INFO - ====Sending data to CSV file====: 3d designer
-2022-09-21 07:31:55 - root - INFO - ====Finished Sending data to CSV file====: 3d designer
-2022-09-21 07:31:55 - root - INFO - ====Sending data to readme====: 3d designer
-2022-09-21 07:31:55 - root - INFO - ====Finished Sending data to readme====: 3d designer
-2022-09-21 07:31:57 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+designer&pn=1
-2022-09-21 07:31:57 - root - INFO - ====Finished Processing====: 3d designer
-2022-09-21 07:31:57 - root - INFO - ====Sending data to CSV file====: 3d designer
-2022-09-21 07:31:57 - root - INFO - ====Finished Sending data to CSV file====: 3d designer
-2022-09-21 07:31:57 - root - INFO - ====Sending data to readme====: 3d designer
-2022-09-21 07:31:57 - root - INFO - ====Finished Sending data to readme====: 3d designer
-2022-09-21 07:32:12 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
-2022-09-21 07:32:12 - root - INFO - ====Finished Processing====: visual effects
-2022-09-21 07:32:12 - root - INFO - ====Sending data to CSV file====: visual effects
-2022-09-21 07:32:12 - root - INFO - ====Finished Sending data to CSV file====: visual effects
-2022-09-21 07:32:12 - root - INFO - ====Sending data to readme====: visual effects
-2022-09-21 07:32:13 - root - INFO - ====Finished Sending data to readme====: visual effects
-2022-09-21 07:32:14 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+effects&pn=1
-2022-09-21 07:32:14 - root - INFO - ====Finished Processing====: visual effects
-2022-09-21 07:32:14 - root - INFO - ====Sending data to CSV file====: visual effects
-2022-09-21 07:32:14 - root - INFO - ====Finished Sending data to CSV file====: visual effects
-2022-09-21 07:32:14 - root - INFO - ====Sending data to readme====: visual effects
-2022-09-21 07:32:14 - root - INFO - ====Finished Sending data to readme====: visual effects
-2022-09-21 07:32:27 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
-2022-09-21 07:32:28 - root - INFO - ====Finished Processing====: acoustic developer
-2022-09-21 07:32:28 - root - INFO - ====Sending data to CSV file====: acoustic developer
-2022-09-21 07:32:28 - root - INFO - ====Finished Sending data to CSV file====: acoustic developer
-2022-09-21 07:32:28 - root - INFO - ====Sending data to readme====: acoustic developer
-2022-09-21 07:32:28 - root - INFO - ====Finished Sending data to readme====: acoustic developer
-2022-09-21 07:32:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+developer&pn=1
-2022-09-21 07:32:30 - root - INFO - ====Finished Processing====: acoustic developer
-2022-09-21 07:32:30 - root - INFO - ====Sending data to CSV file====: acoustic developer
-2022-09-21 07:32:30 - root - INFO - ====Finished Sending data to CSV file====: acoustic developer
-2022-09-21 07:32:30 - root - INFO - ====Sending data to readme====: acoustic developer
-2022-09-21 07:32:30 - root - INFO - ====Finished Sending data to readme====: acoustic developer
-2022-09-21 07:32:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
-2022-09-21 07:32:43 - root - INFO - ====Finished Processing====: music developer
-2022-09-21 07:32:43 - root - INFO - ====Sending data to CSV file====: music developer
-2022-09-21 07:32:43 - root - INFO - ====Finished Sending data to CSV file====: music developer
-2022-09-21 07:32:43 - root - INFO - ====Sending data to readme====: music developer
-2022-09-21 07:32:43 - root - INFO - ====Finished Sending data to readme====: music developer
-2022-09-21 07:32:44 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+developer&pn=1
-2022-09-21 07:32:45 - root - INFO - ====Finished Processing====: music developer
-2022-09-21 07:32:45 - root - INFO - ====Sending data to CSV file====: music developer
-2022-09-21 07:32:45 - root - INFO - ====Finished Sending data to CSV file====: music developer
-2022-09-21 07:32:45 - root - INFO - ====Sending data to readme====: music developer
-2022-09-21 07:32:45 - root - INFO - ====Finished Sending data to readme====: music developer
-2022-09-21 07:33:00 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
-2022-09-21 07:33:01 - root - INFO - ====Finished Processing====: visual architect
-2022-09-21 07:33:01 - root - INFO - ====Sending data to CSV file====: visual architect
-2022-09-21 07:33:01 - root - INFO - ====Finished Sending data to CSV file====: visual architect
-2022-09-21 07:33:01 - root - INFO - ====Sending data to readme====: visual architect
-2022-09-21 07:33:01 - root - INFO - ====Finished Sending data to readme====: visual architect
-2022-09-21 07:33:03 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+architect&pn=1
-2022-09-21 07:33:03 - root - INFO - ====Finished Processing====: visual architect
-2022-09-21 07:33:03 - root - INFO - ====Sending data to CSV file====: visual architect
-2022-09-21 07:33:03 - root - INFO - ====Finished Sending data to CSV file====: visual architect
-2022-09-21 07:33:03 - root - INFO - ====Sending data to readme====: visual architect
-2022-09-21 07:33:03 - root - INFO - ====Finished Sending data to readme====: visual architect
-2022-09-21 07:33:18 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
-2022-09-21 07:33:18 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
-2022-09-21 07:33:18 - root - INFO - Break here, now go to next loop(next page)
-2022-09-21 07:33:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=artworker&pn=1
-2022-09-21 07:33:20 - root - INFO - ====Finished Processing====: artworker
-2022-09-21 07:33:20 - root - INFO - ====Sending data to CSV file====: artworker
-2022-09-21 07:33:20 - root - INFO - ====Finished Sending data to CSV file====: artworker
-2022-09-21 07:33:20 - root - INFO - ====Sending data to readme====: artworker
-2022-09-21 07:33:20 - root - INFO - ====Finished Sending data to readme====: artworker
-2022-09-21 07:33:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
-2022-09-21 07:33:33 - root - INFO - ====Finished Processing====: 3d developer
-2022-09-21 07:33:33 - root - INFO - ====Sending data to CSV file====: 3d developer
-2022-09-21 07:33:33 - root - INFO - ====Finished Sending data to CSV file====: 3d developer
-2022-09-21 07:33:33 - root - INFO - ====Sending data to readme====: 3d developer
-2022-09-21 07:33:33 - root - INFO - ====Finished Sending data to readme====: 3d developer
-2022-09-21 07:33:35 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+developer&pn=1
-2022-09-21 07:33:35 - root - INFO - ====Finished Processing====: 3d developer
-2022-09-21 07:33:35 - root - INFO - ====Sending data to CSV file====: 3d developer
-2022-09-21 07:33:35 - root - INFO - ====Finished Sending data to CSV file====: 3d developer
-2022-09-21 07:33:35 - root - INFO - ====Sending data to readme====: 3d developer
-2022-09-21 07:33:35 - root - INFO - ====Finished Sending data to readme====: 3d developer
-2022-09-21 07:33:49 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
-2022-09-21 07:33:50 - root - INFO - ====Finished Processing====: music engineer
-2022-09-21 07:33:50 - root - INFO - ====Sending data to CSV file====: music engineer
-2022-09-21 07:33:50 - root - INFO - ====Finished Sending data to CSV file====: music engineer
-2022-09-21 07:33:50 - root - INFO - ====Sending data to readme====: music engineer
-2022-09-21 07:33:50 - root - INFO - ====Finished Sending data to readme====: music engineer
-2022-09-21 07:33:51 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+engineer&pn=1
-2022-09-21 07:33:52 - root - INFO - ====Finished Processing====: music engineer
-2022-09-21 07:33:52 - root - INFO - ====Sending data to CSV file====: music engineer
-2022-09-21 07:33:52 - root - INFO - ====Finished Sending data to CSV file====: music engineer
-2022-09-21 07:33:52 - root - INFO - ====Sending data to readme====: music engineer
-2022-09-21 07:33:52 - root - INFO - ====Finished Sending data to readme====: music engineer
-2022-09-21 07:34:00 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
-2022-09-21 07:34:02 - root - INFO - ====Finished Processing====: acoustic engineer
-2022-09-21 07:34:02 - root - INFO - ====Sending data to CSV file====: acoustic engineer
-2022-09-21 07:34:02 - root - INFO - ====Finished Sending data to CSV file====: acoustic engineer
-2022-09-21 07:34:02 - root - INFO - ====Sending data to readme====: acoustic engineer
-2022-09-21 07:34:02 - root - INFO - ====Finished Sending data to readme====: acoustic engineer
-2022-09-21 07:34:03 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+engineer&pn=1
-2022-09-21 07:34:04 - root - INFO - ====Finished Processing====: acoustic engineer
-2022-09-21 07:34:04 - root - INFO - ====Sending data to CSV file====: acoustic engineer
-2022-09-21 07:34:04 - root - INFO - ====Finished Sending data to CSV file====: acoustic engineer
-2022-09-21 07:34:04 - root - INFO - ====Sending data to readme====: acoustic engineer
-2022-09-21 07:34:04 - root - INFO - ====Finished Sending data to readme====: acoustic engineer
-2022-09-21 07:34:17 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
-2022-09-21 07:34:18 - root - INFO - ====Finished Processing====: visual engineer
-2022-09-21 07:34:18 - root - INFO - ====Sending data to CSV file====: visual engineer
-2022-09-21 07:34:18 - root - INFO - ====Finished Sending data to CSV file====: visual engineer
-2022-09-21 07:34:18 - root - INFO - ====Sending data to readme====: visual engineer
-2022-09-21 07:34:18 - root - INFO - ====Finished Sending data to readme====: visual engineer
-2022-09-21 07:34:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+engineer&pn=1
-2022-09-21 07:34:20 - root - INFO - ====Finished Processing====: visual engineer
-2022-09-21 07:34:20 - root - INFO - ====Sending data to CSV file====: visual engineer
-2022-09-21 07:34:20 - root - INFO - ====Finished Sending data to CSV file====: visual engineer
-2022-09-21 07:34:20 - root - INFO - ====Sending data to readme====: visual engineer
-2022-09-21 07:34:20 - root - INFO - ====Finished Sending data to readme====: visual engineer
-2022-09-21 07:34:36 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
-2022-09-21 07:34:37 - root - INFO - ====Finished Processing====: generative design
-2022-09-21 07:34:37 - root - INFO - ====Sending data to CSV file====: generative design
-2022-09-21 07:34:37 - root - INFO - ====Finished Sending data to CSV file====: generative design
-2022-09-21 07:34:37 - root - INFO - ====Sending data to readme====: generative design
-2022-09-21 07:34:37 - root - INFO - ====Finished Sending data to readme====: generative design
-2022-09-21 07:34:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+design&pn=1
-2022-09-21 07:34:39 - root - INFO - ====Finished Processing====: generative design
-2022-09-21 07:34:39 - root - INFO - ====Sending data to CSV file====: generative design
-2022-09-21 07:34:39 - root - INFO - ====Finished Sending data to CSV file====: generative design
-2022-09-21 07:34:39 - root - INFO - ====Sending data to readme====: generative design
-2022-09-21 07:34:39 - root - INFO - ====Finished Sending data to readme====: generative design
-2022-09-21 07:34:51 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
-2022-09-21 07:34:52 - root - INFO - ====Finished Processing====: vfx engineer
-2022-09-21 07:34:52 - root - INFO - ====Sending data to CSV file====: vfx engineer
-2022-09-21 07:34:52 - root - INFO - ====Finished Sending data to CSV file====: vfx engineer
-2022-09-21 07:34:52 - root - INFO - ====Sending data to readme====: vfx engineer
-2022-09-21 07:34:52 - root - INFO - ====Finished Sending data to readme====: vfx engineer
-2022-09-21 07:34:54 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+engineer&pn=1
-2022-09-21 07:34:54 - root - INFO - ====Finished Processing====: vfx engineer
-2022-09-21 07:34:54 - root - INFO - ====Sending data to CSV file====: vfx engineer
-2022-09-21 07:34:54 - root - INFO - ====Finished Sending data to CSV file====: vfx engineer
-2022-09-21 07:34:54 - root - INFO - ====Sending data to readme====: vfx engineer
-2022-09-21 07:34:54 - root - INFO - ====Finished Sending data to readme====: vfx engineer
-2022-09-21 07:35:09 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
-2022-09-21 07:35:10 - root - INFO - ====Finished Processing====: junior designer
-2022-09-21 07:35:10 - root - INFO - ====Sending data to CSV file====: junior designer
-2022-09-21 07:35:10 - root - INFO - ====Finished Sending data to CSV file====: junior designer
-2022-09-21 07:35:10 - root - INFO - ====Sending data to readme====: junior designer
-2022-09-21 07:35:10 - root - INFO - ====Finished Sending data to readme====: junior designer
-2022-09-21 07:35:11 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=junior+designer&pn=1
-2022-09-21 07:35:11 - root - INFO - ====Finished Processing====: junior designer
-2022-09-21 07:35:11 - root - INFO - ====Sending data to CSV file====: junior designer
-2022-09-21 07:35:11 - root - INFO - ====Finished Sending data to CSV file====: junior designer
-2022-09-21 07:35:11 - root - INFO - ====Sending data to readme====: junior designer
-2022-09-21 07:35:11 - root - INFO - ====Finished Sending data to readme====: junior designer
-2022-09-21 07:35:23 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
-2022-09-21 07:35:24 - root - INFO - ====Finished Processing====: creative programming
-2022-09-21 07:35:24 - root - INFO - ====Sending data to CSV file====: creative programming
-2022-09-21 07:35:24 - root - INFO - ====Finished Sending data to CSV file====: creative programming
-2022-09-21 07:35:24 - root - INFO - ====Sending data to readme====: creative programming
-2022-09-21 07:35:24 - root - INFO - ====Finished Sending data to readme====: creative programming
-2022-09-21 07:35:26 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programming&pn=1
-2022-09-21 07:35:26 - root - INFO - ====Finished Processing====: creative programming
-2022-09-21 07:35:26 - root - INFO - ====Sending data to CSV file====: creative programming
-2022-09-21 07:35:26 - root - INFO - ====Finished Sending data to CSV file====: creative programming
-2022-09-21 07:35:26 - root - INFO - ====Sending data to readme====: creative programming
-2022-09-21 07:35:26 - root - INFO - ====Finished Sending data to readme====: creative programming
-2022-09-21 07:35:35 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
-2022-09-21 07:35:36 - root - INFO - ====Finished Processing====: frontend engineer
-2022-09-21 07:35:36 - root - INFO - ====Sending data to CSV file====: frontend engineer
-2022-09-21 07:35:36 - root - INFO - ====Finished Sending data to CSV file====: frontend engineer
-2022-09-21 07:35:36 - root - INFO - ====Sending data to readme====: frontend engineer
-2022-09-21 07:35:36 - root - INFO - ====Finished Sending data to readme====: frontend engineer
-2022-09-21 07:35:37 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=frontend+engineer&pn=1
-2022-09-21 07:35:38 - root - INFO - ====Finished Processing====: frontend engineer
-2022-09-21 07:35:38 - root - INFO - ====Sending data to CSV file====: frontend engineer
-2022-09-21 07:35:38 - root - INFO - ====Finished Sending data to CSV file====: frontend engineer
-2022-09-21 07:35:38 - root - INFO - ====Sending data to readme====: frontend engineer
-2022-09-21 07:35:38 - root - INFO - ====Finished Sending data to readme====: frontend engineer
-2022-09-21 07:35:52 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
-2022-09-21 07:35:53 - root - INFO - ====Finished Processing====: creative programmer
-2022-09-21 07:35:53 - root - INFO - ====Sending data to CSV file====: creative programmer
-2022-09-21 07:35:53 - root - INFO - ====Finished Sending data to CSV file====: creative programmer
-2022-09-21 07:35:53 - root - INFO - ====Sending data to readme====: creative programmer
-2022-09-21 07:35:53 - root - INFO - ====Finished Sending data to readme====: creative programmer
-2022-09-21 07:35:54 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programmer&pn=1
-2022-09-21 07:35:55 - root - INFO - ====Finished Processing====: creative programmer
-2022-09-21 07:35:55 - root - INFO - ====Sending data to CSV file====: creative programmer
-2022-09-21 07:35:55 - root - INFO - ====Finished Sending data to CSV file====: creative programmer
-2022-09-21 07:35:55 - root - INFO - ====Sending data to readme====: creative programmer
-2022-09-21 07:35:55 - root - INFO - ====Finished Sending data to readme====: creative programmer
-2022-09-21 07:36:06 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
-2022-09-21 07:36:07 - root - INFO - ====Finished Processing====: senior designer
-2022-09-21 07:36:07 - root - INFO - ====Sending data to CSV file====: senior designer
-2022-09-21 07:36:07 - root - INFO - ====Finished Sending data to CSV file====: senior designer
-2022-09-21 07:36:07 - root - INFO - ====Sending data to readme====: senior designer
-2022-09-21 07:36:07 - root - INFO - ====Finished Sending data to readme====: senior designer
-2022-09-21 07:36:09 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=senior+designer&pn=1
-2022-09-21 07:36:09 - root - INFO - ====Finished Processing====: senior designer
-2022-09-21 07:36:09 - root - INFO - ====Sending data to CSV file====: senior designer
-2022-09-21 07:36:09 - root - INFO - ====Finished Sending data to CSV file====: senior designer
-2022-09-21 07:36:09 - root - INFO - ====Sending data to readme====: senior designer
-2022-09-21 07:36:09 - root - INFO - ====Finished Sending data to readme====: senior designer
-2022-09-21 07:36:25 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
-2022-09-21 07:36:26 - root - INFO - ====Finished Processing====: acoustical engineering
-2022-09-21 07:36:26 - root - INFO - ====Sending data to CSV file====: acoustical engineering
-2022-09-21 07:36:26 - root - INFO - ====Finished Sending data to CSV file====: acoustical engineering
-2022-09-21 07:36:26 - root - INFO - ====Sending data to readme====: acoustical engineering
-2022-09-21 07:36:26 - root - INFO - ====Finished Sending data to readme====: acoustical engineering
-2022-09-21 07:36:28 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustical+engineering&pn=1
-2022-09-21 07:36:28 - root - INFO - ====Finished Processing====: acoustical engineering
-2022-09-21 07:36:28 - root - INFO - ====Sending data to CSV file====: acoustical engineering
-2022-09-21 07:36:28 - root - INFO - ====Finished Sending data to CSV file====: acoustical engineering
-2022-09-21 07:36:28 - root - INFO - ====Sending data to readme====: acoustical engineering
-2022-09-21 07:36:28 - root - INFO - ====Finished Sending data to readme====: acoustical engineering
-2022-09-21 07:36:39 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
-2022-09-21 07:36:39 - root - INFO - ====Finished Processing====: vfx designer
-2022-09-21 07:36:39 - root - INFO - ====Sending data to CSV file====: vfx designer
-2022-09-21 07:36:39 - root - INFO - ====Finished Sending data to CSV file====: vfx designer
-2022-09-21 07:36:39 - root - INFO - ====Sending data to readme====: vfx designer
-2022-09-21 07:36:39 - root - INFO - ====Finished Sending data to readme====: vfx designer
-2022-09-21 07:36:41 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+designer&pn=1
-2022-09-21 07:36:41 - root - INFO - ====Finished Processing====: vfx designer
-2022-09-21 07:36:41 - root - INFO - ====Sending data to CSV file====: vfx designer
-2022-09-21 07:36:41 - root - INFO - ====Finished Sending data to CSV file====: vfx designer
-2022-09-21 07:36:41 - root - INFO - ====Sending data to readme====: vfx designer
-2022-09-21 07:36:41 - root - INFO - ====Finished Sending data to readme====: vfx designer
-2022-09-21 07:36:52 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
-2022-09-21 07:36:53 - root - INFO - ====Finished Processing====: 3d engineer
-2022-09-21 07:36:53 - root - INFO - ====Sending data to CSV file====: 3d engineer
-2022-09-21 07:36:53 - root - INFO - ====Finished Sending data to CSV file====: 3d engineer
-2022-09-21 07:36:53 - root - INFO - ====Sending data to readme====: 3d engineer
-2022-09-21 07:36:53 - root - INFO - ====Finished Sending data to readme====: 3d engineer
-2022-09-21 07:36:54 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+engineer&pn=1
-2022-09-21 07:36:55 - root - INFO - ====Finished Processing====: 3d engineer
-2022-09-21 07:36:55 - root - INFO - ====Sending data to CSV file====: 3d engineer
-2022-09-21 07:36:55 - root - INFO - ====Finished Sending data to CSV file====: 3d engineer
-2022-09-21 07:36:55 - root - INFO - ====Sending data to readme====: 3d engineer
-2022-09-21 07:36:55 - root - INFO - ====Finished Sending data to readme====: 3d engineer
+2022-09-22 07:09:05 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
+2022-09-22 07:09:06 - root - INFO - ====Finished Processing====: creative developer
+2022-09-22 07:09:06 - root - INFO - ====Sending data to CSV file====: creative developer
+2022-09-22 07:09:06 - root - INFO - ====Finished Sending data to CSV file====: creative developer
+2022-09-22 07:09:06 - root - INFO - ====Sending data to readme====: creative developer
+2022-09-22 07:09:06 - root - INFO - ====Finished Sending data to readme====: creative developer
+2022-09-22 07:09:07 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+developer&pn=1
+2022-09-22 07:09:08 - root - INFO - ====Finished Processing====: creative developer
+2022-09-22 07:09:08 - root - INFO - ====Sending data to CSV file====: creative developer
+2022-09-22 07:09:08 - root - INFO - ====Finished Sending data to CSV file====: creative developer
+2022-09-22 07:09:08 - root - INFO - ====Sending data to readme====: creative developer
+2022-09-22 07:09:08 - root - INFO - ====Finished Sending data to readme====: creative developer
+2022-09-22 07:09:23 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
+2022-09-22 07:09:24 - root - INFO - ====Finished Processing====: generative art
+2022-09-22 07:09:24 - root - INFO - ====Sending data to CSV file====: generative art
+2022-09-22 07:09:24 - root - INFO - ====Finished Sending data to CSV file====: generative art
+2022-09-22 07:09:24 - root - INFO - ====Sending data to readme====: generative art
+2022-09-22 07:09:24 - root - INFO - ====Finished Sending data to readme====: generative art
+2022-09-22 07:09:25 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+art&pn=1
+2022-09-22 07:09:26 - root - INFO - ====Finished Processing====: generative art
+2022-09-22 07:09:26 - root - INFO - ====Sending data to CSV file====: generative art
+2022-09-22 07:09:26 - root - INFO - ====Finished Sending data to CSV file====: generative art
+2022-09-22 07:09:26 - root - INFO - ====Sending data to readme====: generative art
+2022-09-22 07:09:26 - root - INFO - ====Finished Sending data to readme====: generative art
+2022-09-22 07:09:40 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
+2022-09-22 07:09:42 - root - INFO - ====Finished Processing====: digital developer
+2022-09-22 07:09:42 - root - INFO - ====Sending data to CSV file====: digital developer
+2022-09-22 07:09:42 - root - INFO - ====Finished Sending data to CSV file====: digital developer
+2022-09-22 07:09:42 - root - INFO - ====Sending data to readme====: digital developer
+2022-09-22 07:09:42 - root - INFO - ====Finished Sending data to readme====: digital developer
+2022-09-22 07:09:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+developer&pn=1
+2022-09-22 07:09:44 - root - INFO - ====Finished Processing====: digital developer
+2022-09-22 07:09:44 - root - INFO - ====Sending data to CSV file====: digital developer
+2022-09-22 07:09:44 - root - INFO - ====Finished Sending data to CSV file====: digital developer
+2022-09-22 07:09:44 - root - INFO - ====Sending data to readme====: digital developer
+2022-09-22 07:09:44 - root - INFO - ====Finished Sending data to readme====: digital developer
+2022-09-22 07:09:54 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
+2022-09-22 07:09:55 - root - INFO - ====Finished Processing====: generative artist
+2022-09-22 07:09:55 - root - INFO - ====Sending data to CSV file====: generative artist
+2022-09-22 07:09:55 - root - INFO - ====Finished Sending data to CSV file====: generative artist
+2022-09-22 07:09:55 - root - INFO - ====Sending data to readme====: generative artist
+2022-09-22 07:09:55 - root - INFO - ====Finished Sending data to readme====: generative artist
+2022-09-22 07:09:56 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+artist&pn=1
+2022-09-22 07:09:57 - root - INFO - ====Finished Processing====: generative artist
+2022-09-22 07:09:57 - root - INFO - ====Sending data to CSV file====: generative artist
+2022-09-22 07:09:57 - root - INFO - ====Finished Sending data to CSV file====: generative artist
+2022-09-22 07:09:57 - root - INFO - ====Sending data to readme====: generative artist
+2022-09-22 07:09:57 - root - INFO - ====Finished Sending data to readme====: generative artist
+2022-09-22 07:10:11 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
+2022-09-22 07:10:12 - root - INFO - ====Finished Processing====: interactive developer
+2022-09-22 07:10:12 - root - INFO - ====Sending data to CSV file====: interactive developer
+2022-09-22 07:10:12 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
+2022-09-22 07:10:12 - root - INFO - ====Sending data to readme====: interactive developer
+2022-09-22 07:10:12 - root - INFO - ====Finished Sending data to readme====: interactive developer
+2022-09-22 07:10:14 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+developer&pn=1
+2022-09-22 07:10:14 - root - INFO - ====Finished Processing====: interactive developer
+2022-09-22 07:10:14 - root - INFO - ====Sending data to CSV file====: interactive developer
+2022-09-22 07:10:14 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
+2022-09-22 07:10:14 - root - INFO - ====Sending data to readme====: interactive developer
+2022-09-22 07:10:14 - root - INFO - ====Finished Sending data to readme====: interactive developer
+2022-09-22 07:10:22 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
+2022-09-22 07:10:23 - root - INFO - ====Finished Processing====: generative designer
+2022-09-22 07:10:23 - root - INFO - ====Sending data to CSV file====: generative designer
+2022-09-22 07:10:23 - root - INFO - ====Finished Sending data to CSV file====: generative designer
+2022-09-22 07:10:23 - root - INFO - ====Sending data to readme====: generative designer
+2022-09-22 07:10:23 - root - INFO - ====Finished Sending data to readme====: generative designer
+2022-09-22 07:10:25 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+designer&pn=1
+2022-09-22 07:10:25 - root - INFO - ====Finished Processing====: generative designer
+2022-09-22 07:10:25 - root - INFO - ====Sending data to CSV file====: generative designer
+2022-09-22 07:10:25 - root - INFO - ====Finished Sending data to CSV file====: generative designer
+2022-09-22 07:10:25 - root - INFO - ====Sending data to readme====: generative designer
+2022-09-22 07:10:25 - root - INFO - ====Finished Sending data to readme====: generative designer
+2022-09-22 07:10:34 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2022-09-22 07:10:34 - root - INFO - ====Finished Processing====: graphic engineer
+2022-09-22 07:10:34 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2022-09-22 07:10:34 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2022-09-22 07:10:34 - root - INFO - ====Sending data to readme====: graphic engineer
+2022-09-22 07:10:34 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2022-09-22 07:10:36 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2022-09-22 07:10:36 - root - INFO - ====Finished Processing====: graphic engineer
+2022-09-22 07:10:36 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2022-09-22 07:10:36 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2022-09-22 07:10:36 - root - INFO - ====Sending data to readme====: graphic engineer
+2022-09-22 07:10:36 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2022-09-22 07:10:45 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
+2022-09-22 07:10:46 - root - INFO - ====Finished Processing====: generative engineer
+2022-09-22 07:10:46 - root - INFO - ====Sending data to CSV file====: generative engineer
+2022-09-22 07:10:46 - root - INFO - ====Finished Sending data to CSV file====: generative engineer
+2022-09-22 07:10:46 - root - INFO - ====Sending data to readme====: generative engineer
+2022-09-22 07:10:46 - root - INFO - ====Finished Sending data to readme====: generative engineer
+2022-09-22 07:10:47 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+engineer&pn=1
+2022-09-22 07:10:47 - root - INFO - ====Finished Processing====: generative engineer
+2022-09-22 07:10:47 - root - INFO - ====Sending data to CSV file====: generative engineer
+2022-09-22 07:10:47 - root - INFO - ====Finished Sending data to CSV file====: generative engineer
+2022-09-22 07:10:47 - root - INFO - ====Sending data to readme====: generative engineer
+2022-09-22 07:10:47 - root - INFO - ====Finished Sending data to readme====: generative engineer
+2022-09-22 07:10:57 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
+2022-09-22 07:10:58 - root - INFO - ====Finished Processing====: interactive designer
+2022-09-22 07:10:58 - root - INFO - ====Sending data to CSV file====: interactive designer
+2022-09-22 07:10:58 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
+2022-09-22 07:10:58 - root - INFO - ====Sending data to readme====: interactive designer
+2022-09-22 07:10:58 - root - INFO - ====Finished Sending data to readme====: interactive designer
+2022-09-22 07:10:59 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+designer&pn=1
+2022-09-22 07:11:00 - root - INFO - ====Finished Processing====: interactive designer
+2022-09-22 07:11:00 - root - INFO - ====Sending data to CSV file====: interactive designer
+2022-09-22 07:11:00 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
+2022-09-22 07:11:00 - root - INFO - ====Sending data to readme====: interactive designer
+2022-09-22 07:11:00 - root - INFO - ====Finished Sending data to readme====: interactive designer
+2022-09-22 07:11:08 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
+2022-09-22 07:11:09 - root - INFO - ====Finished Processing====: technical artist
+2022-09-22 07:11:09 - root - INFO - ====Sending data to CSV file====: technical artist
+2022-09-22 07:11:09 - root - INFO - ====Finished Sending data to CSV file====: technical artist
+2022-09-22 07:11:09 - root - INFO - ====Sending data to readme====: technical artist
+2022-09-22 07:11:09 - root - INFO - ====Finished Sending data to readme====: technical artist
+2022-09-22 07:11:10 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+artist&pn=1
+2022-09-22 07:11:11 - root - INFO - ====Finished Processing====: technical artist
+2022-09-22 07:11:11 - root - INFO - ====Sending data to CSV file====: technical artist
+2022-09-22 07:11:11 - root - INFO - ====Finished Sending data to CSV file====: technical artist
+2022-09-22 07:11:11 - root - INFO - ====Sending data to readme====: technical artist
+2022-09-22 07:11:11 - root - INFO - ====Finished Sending data to readme====: technical artist
+2022-09-22 07:11:26 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
+2022-09-22 07:11:28 - root - INFO - ====Finished Processing====: virtual reality developer
+2022-09-22 07:11:28 - root - INFO - ====Sending data to CSV file====: virtual reality developer
+2022-09-22 07:11:28 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
+2022-09-22 07:11:28 - root - INFO - ====Sending data to readme====: virtual reality developer
+2022-09-22 07:11:28 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
+2022-09-22 07:11:29 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
+2022-09-22 07:11:29 - root - INFO - ====Finished Processing====: virtual reality developer
+2022-09-22 07:11:29 - root - INFO - ====Sending data to CSV file====: virtual reality developer
+2022-09-22 07:11:29 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
+2022-09-22 07:11:29 - root - INFO - ====Sending data to readme====: virtual reality developer
+2022-09-22 07:11:29 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
+2022-09-22 07:11:43 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
+2022-09-22 07:11:43 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
+2022-09-22 07:11:43 - root - INFO - Break here, now go to next loop(next page)
+2022-09-22 07:11:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+developer&pn=1
+2022-09-22 07:11:45 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+developer&pn=1
+2022-09-22 07:11:45 - root - INFO - Break here, now go to next loop(next page)
+2022-09-22 07:12:00 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
+2022-09-22 07:12:01 - root - INFO - ====Finished Processing====: sound designer
+2022-09-22 07:12:01 - root - INFO - ====Sending data to CSV file====: sound designer
+2022-09-22 07:12:01 - root - INFO - ====Finished Sending data to CSV file====: sound designer
+2022-09-22 07:12:01 - root - INFO - ====Sending data to readme====: sound designer
+2022-09-22 07:12:01 - root - INFO - ====Finished Sending data to readme====: sound designer
+2022-09-22 07:12:03 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+designer&pn=1
+2022-09-22 07:12:03 - root - INFO - ====Finished Processing====: sound designer
+2022-09-22 07:12:03 - root - INFO - ====Sending data to CSV file====: sound designer
+2022-09-22 07:12:03 - root - INFO - ====Finished Sending data to CSV file====: sound designer
+2022-09-22 07:12:03 - root - INFO - ====Sending data to readme====: sound designer
+2022-09-22 07:12:03 - root - INFO - ====Finished Sending data to readme====: sound designer
+2022-09-22 07:12:15 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
+2022-09-22 07:12:16 - root - INFO - ====Finished Processing====: unity developer
+2022-09-22 07:12:16 - root - INFO - ====Sending data to CSV file====: unity developer
+2022-09-22 07:12:16 - root - INFO - ====Finished Sending data to CSV file====: unity developer
+2022-09-22 07:12:16 - root - INFO - ====Sending data to readme====: unity developer
+2022-09-22 07:12:16 - root - INFO - ====Finished Sending data to readme====: unity developer
+2022-09-22 07:12:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=unity+developer&pn=1
+2022-09-22 07:12:18 - root - INFO - ====Finished Processing====: unity developer
+2022-09-22 07:12:18 - root - INFO - ====Sending data to CSV file====: unity developer
+2022-09-22 07:12:18 - root - INFO - ====Finished Sending data to CSV file====: unity developer
+2022-09-22 07:12:18 - root - INFO - ====Sending data to readme====: unity developer
+2022-09-22 07:12:18 - root - INFO - ====Finished Sending data to readme====: unity developer
+2022-09-22 07:12:29 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
+2022-09-22 07:12:30 - root - INFO - ====Finished Processing====: creative designer
+2022-09-22 07:12:30 - root - INFO - ====Sending data to CSV file====: creative designer
+2022-09-22 07:12:30 - root - INFO - ====Finished Sending data to CSV file====: creative designer
+2022-09-22 07:12:30 - root - INFO - ====Sending data to readme====: creative designer
+2022-09-22 07:12:30 - root - INFO - ====Finished Sending data to readme====: creative designer
+2022-09-22 07:12:31 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+designer&pn=1
+2022-09-22 07:12:31 - root - INFO - ====Finished Processing====: creative designer
+2022-09-22 07:12:31 - root - INFO - ====Sending data to CSV file====: creative designer
+2022-09-22 07:12:31 - root - INFO - ====Finished Sending data to CSV file====: creative designer
+2022-09-22 07:12:31 - root - INFO - ====Sending data to readme====: creative designer
+2022-09-22 07:12:31 - root - INFO - ====Finished Sending data to readme====: creative designer
+2022-09-22 07:12:43 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
+2022-09-22 07:12:44 - root - INFO - ====Finished Processing====: digital designer
+2022-09-22 07:12:44 - root - INFO - ====Sending data to CSV file====: digital designer
+2022-09-22 07:12:44 - root - INFO - ====Finished Sending data to CSV file====: digital designer
+2022-09-22 07:12:44 - root - INFO - ====Sending data to readme====: digital designer
+2022-09-22 07:12:44 - root - INFO - ====Finished Sending data to readme====: digital designer
+2022-09-22 07:12:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+designer&pn=1
+2022-09-22 07:12:46 - root - INFO - ====Finished Processing====: digital designer
+2022-09-22 07:12:46 - root - INFO - ====Sending data to CSV file====: digital designer
+2022-09-22 07:12:46 - root - INFO - ====Finished Sending data to CSV file====: digital designer
+2022-09-22 07:12:46 - root - INFO - ====Sending data to readme====: digital designer
+2022-09-22 07:12:46 - root - INFO - ====Finished Sending data to readme====: digital designer
+2022-09-22 07:13:01 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
+2022-09-22 07:13:02 - root - INFO - ====Finished Processing====: animation developer
+2022-09-22 07:13:02 - root - INFO - ====Sending data to CSV file====: animation developer
+2022-09-22 07:13:02 - root - INFO - ====Finished Sending data to CSV file====: animation developer
+2022-09-22 07:13:02 - root - INFO - ====Sending data to readme====: animation developer
+2022-09-22 07:13:02 - root - INFO - ====Finished Sending data to readme====: animation developer
+2022-09-22 07:13:04 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=animation+developer&pn=1
+2022-09-22 07:13:04 - root - INFO - ====Finished Processing====: animation developer
+2022-09-22 07:13:04 - root - INFO - ====Sending data to CSV file====: animation developer
+2022-09-22 07:13:04 - root - INFO - ====Finished Sending data to CSV file====: animation developer
+2022-09-22 07:13:04 - root - INFO - ====Sending data to readme====: animation developer
+2022-09-22 07:13:04 - root - INFO - ====Finished Sending data to readme====: animation developer
+2022-09-22 07:13:18 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
+2022-09-22 07:13:19 - root - INFO - ====Finished Processing====: arvr designer
+2022-09-22 07:13:19 - root - INFO - ====Sending data to CSV file====: arvr designer
+2022-09-22 07:13:19 - root - INFO - ====Finished Sending data to CSV file====: arvr designer
+2022-09-22 07:13:19 - root - INFO - ====Sending data to readme====: arvr designer
+2022-09-22 07:13:19 - root - INFO - ====Finished Sending data to readme====: arvr designer
+2022-09-22 07:13:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+designer&pn=1
+2022-09-22 07:13:20 - root - INFO - ====Finished Processing====: arvr designer
+2022-09-22 07:13:20 - root - INFO - ====Sending data to CSV file====: arvr designer
+2022-09-22 07:13:20 - root - INFO - ====Finished Sending data to CSV file====: arvr designer
+2022-09-22 07:13:20 - root - INFO - ====Sending data to readme====: arvr designer
+2022-09-22 07:13:20 - root - INFO - ====Finished Sending data to readme====: arvr designer
+2022-09-22 07:13:33 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
+2022-09-22 07:13:34 - root - INFO - ====Finished Processing====: sound developer
+2022-09-22 07:13:34 - root - INFO - ====Sending data to CSV file====: sound developer
+2022-09-22 07:13:34 - root - INFO - ====Finished Sending data to CSV file====: sound developer
+2022-09-22 07:13:34 - root - INFO - ====Sending data to readme====: sound developer
+2022-09-22 07:13:34 - root - INFO - ====Finished Sending data to readme====: sound developer
+2022-09-22 07:13:35 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+developer&pn=1
+2022-09-22 07:13:36 - root - INFO - ====Finished Processing====: sound developer
+2022-09-22 07:13:36 - root - INFO - ====Sending data to CSV file====: sound developer
+2022-09-22 07:13:36 - root - INFO - ====Finished Sending data to CSV file====: sound developer
+2022-09-22 07:13:36 - root - INFO - ====Sending data to readme====: sound developer
+2022-09-22 07:13:36 - root - INFO - ====Finished Sending data to readme====: sound developer
+2022-09-22 07:13:44 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
+2022-09-22 07:13:45 - root - INFO - ====Finished Processing====: creative coder
+2022-09-22 07:13:45 - root - INFO - ====Sending data to CSV file====: creative coder
+2022-09-22 07:13:45 - root - INFO - ====Finished Sending data to CSV file====: creative coder
+2022-09-22 07:13:45 - root - INFO - ====Sending data to readme====: creative coder
+2022-09-22 07:13:45 - root - INFO - ====Finished Sending data to readme====: creative coder
+2022-09-22 07:13:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+coder&pn=1
+2022-09-22 07:13:46 - root - INFO - ====Finished Processing====: creative coder
+2022-09-22 07:13:46 - root - INFO - ====Sending data to CSV file====: creative coder
+2022-09-22 07:13:46 - root - INFO - ====Finished Sending data to CSV file====: creative coder
+2022-09-22 07:13:46 - root - INFO - ====Sending data to readme====: creative coder
+2022-09-22 07:13:46 - root - INFO - ====Finished Sending data to readme====: creative coder
+2022-09-22 07:13:59 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
+2022-09-22 07:14:00 - root - INFO - ====Finished Processing====: ux engineer
+2022-09-22 07:14:00 - root - INFO - ====Sending data to CSV file====: ux engineer
+2022-09-22 07:14:00 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
+2022-09-22 07:14:00 - root - INFO - ====Sending data to readme====: ux engineer
+2022-09-22 07:14:00 - root - INFO - ====Finished Sending data to readme====: ux engineer
+2022-09-22 07:14:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+engineer&pn=1
+2022-09-22 07:14:02 - root - INFO - ====Finished Processing====: ux engineer
+2022-09-22 07:14:02 - root - INFO - ====Sending data to CSV file====: ux engineer
+2022-09-22 07:14:02 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
+2022-09-22 07:14:02 - root - INFO - ====Sending data to readme====: ux engineer
+2022-09-22 07:14:02 - root - INFO - ====Finished Sending data to readme====: ux engineer
+2022-09-22 07:14:12 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
+2022-09-22 07:14:13 - root - INFO - ====Finished Processing====: technical sound designer
+2022-09-22 07:14:13 - root - INFO - ====Sending data to CSV file====: technical sound designer
+2022-09-22 07:14:13 - root - INFO - ====Finished Sending data to CSV file====: technical sound designer
+2022-09-22 07:14:13 - root - INFO - ====Sending data to readme====: technical sound designer
+2022-09-22 07:14:13 - root - INFO - ====Finished Sending data to readme====: technical sound designer
+2022-09-22 07:14:14 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+sound+designer&pn=1
+2022-09-22 07:14:15 - root - INFO - ====Finished Processing====: technical sound designer
+2022-09-22 07:14:15 - root - INFO - ====Sending data to CSV file====: technical sound designer
+2022-09-22 07:14:15 - root - INFO - ====Finished Sending data to CSV file====: technical sound designer
+2022-09-22 07:14:15 - root - INFO - ====Sending data to readme====: technical sound designer
+2022-09-22 07:14:15 - root - INFO - ====Finished Sending data to readme====: technical sound designer
+2022-09-22 07:14:28 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
+2022-09-22 07:14:29 - root - INFO - ====Finished Processing====: audio engineer
+2022-09-22 07:14:29 - root - INFO - ====Sending data to CSV file====: audio engineer
+2022-09-22 07:14:29 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
+2022-09-22 07:14:29 - root - INFO - ====Sending data to readme====: audio engineer
+2022-09-22 07:14:29 - root - INFO - ====Finished Sending data to readme====: audio engineer
+2022-09-22 07:14:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=audio+engineer&pn=1
+2022-09-22 07:14:31 - root - INFO - ====Finished Processing====: audio engineer
+2022-09-22 07:14:31 - root - INFO - ====Sending data to CSV file====: audio engineer
+2022-09-22 07:14:31 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
+2022-09-22 07:14:31 - root - INFO - ====Sending data to readme====: audio engineer
+2022-09-22 07:14:31 - root - INFO - ====Finished Sending data to readme====: audio engineer
+2022-09-22 07:14:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
+2022-09-22 07:14:43 - root - INFO - ====Finished Processing====: digital platform
+2022-09-22 07:14:43 - root - INFO - ====Sending data to CSV file====: digital platform
+2022-09-22 07:14:43 - root - INFO - ====Finished Sending data to CSV file====: digital platform
+2022-09-22 07:14:43 - root - INFO - ====Sending data to readme====: digital platform
+2022-09-22 07:14:43 - root - INFO - ====Finished Sending data to readme====: digital platform
+2022-09-22 07:14:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+platform&pn=1
+2022-09-22 07:14:46 - root - INFO - ====Finished Processing====: digital platform
+2022-09-22 07:14:46 - root - INFO - ====Sending data to CSV file====: digital platform
+2022-09-22 07:14:46 - root - INFO - ====Finished Sending data to CSV file====: digital platform
+2022-09-22 07:14:46 - root - INFO - ====Sending data to readme====: digital platform
+2022-09-22 07:14:46 - root - INFO - ====Finished Sending data to readme====: digital platform
+2022-09-22 07:14:59 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
+2022-09-22 07:15:00 - root - INFO - ====Finished Processing====: graphic designer
+2022-09-22 07:15:00 - root - INFO - ====Sending data to CSV file====: graphic designer
+2022-09-22 07:15:00 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
+2022-09-22 07:15:00 - root - INFO - ====Sending data to readme====: graphic designer
+2022-09-22 07:15:00 - root - INFO - ====Finished Sending data to readme====: graphic designer
+2022-09-22 07:15:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+designer&pn=1
+2022-09-22 07:15:02 - root - INFO - ====Finished Processing====: graphic designer
+2022-09-22 07:15:02 - root - INFO - ====Sending data to CSV file====: graphic designer
+2022-09-22 07:15:02 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
+2022-09-22 07:15:02 - root - INFO - ====Sending data to readme====: graphic designer
+2022-09-22 07:15:02 - root - INFO - ====Finished Sending data to readme====: graphic designer
+2022-09-22 07:15:12 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
+2022-09-22 07:15:13 - root - INFO - ====Finished Processing====: ux designer
+2022-09-22 07:15:13 - root - INFO - ====Sending data to CSV file====: ux designer
+2022-09-22 07:15:13 - root - INFO - ====Finished Sending data to CSV file====: ux designer
+2022-09-22 07:15:13 - root - INFO - ====Sending data to readme====: ux designer
+2022-09-22 07:15:13 - root - INFO - ====Finished Sending data to readme====: ux designer
+2022-09-22 07:15:15 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+designer&pn=1
+2022-09-22 07:15:15 - root - INFO - ====Finished Processing====: ux designer
+2022-09-22 07:15:15 - root - INFO - ====Sending data to CSV file====: ux designer
+2022-09-22 07:15:15 - root - INFO - ====Finished Sending data to CSV file====: ux designer
+2022-09-22 07:15:15 - root - INFO - ====Sending data to readme====: ux designer
+2022-09-22 07:15:15 - root - INFO - ====Finished Sending data to readme====: ux designer
+2022-09-22 07:15:31 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
+2022-09-22 07:15:31 - root - INFO - ====Finished Processing====: graphic artist
+2022-09-22 07:15:31 - root - INFO - ====Sending data to CSV file====: graphic artist
+2022-09-22 07:15:31 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
+2022-09-22 07:15:31 - root - INFO - ====Sending data to readme====: graphic artist
+2022-09-22 07:15:31 - root - INFO - ====Finished Sending data to readme====: graphic artist
+2022-09-22 07:15:33 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+artist&pn=1
+2022-09-22 07:15:33 - root - INFO - ====Finished Processing====: graphic artist
+2022-09-22 07:15:33 - root - INFO - ====Sending data to CSV file====: graphic artist
+2022-09-22 07:15:33 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
+2022-09-22 07:15:33 - root - INFO - ====Sending data to readme====: graphic artist
+2022-09-22 07:15:33 - root - INFO - ====Finished Sending data to readme====: graphic artist
+2022-09-22 07:15:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
+2022-09-22 07:15:46 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
+2022-09-22 07:15:46 - root - INFO - Break here, now go to next loop(next page)
+2022-09-22 07:15:48 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+artworker&pn=1
+2022-09-22 07:15:48 - root - INFO - ====Finished Processing====: creative artworker
+2022-09-22 07:15:48 - root - INFO - ====Sending data to CSV file====: creative artworker
+2022-09-22 07:15:48 - root - INFO - ====Finished Sending data to CSV file====: creative artworker
+2022-09-22 07:15:48 - root - INFO - ====Sending data to readme====: creative artworker
+2022-09-22 07:15:48 - root - INFO - ====Finished Sending data to readme====: creative artworker
+2022-09-22 07:16:03 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
+2022-09-22 07:16:04 - root - INFO - ====Finished Processing====: graphic developer
+2022-09-22 07:16:04 - root - INFO - ====Sending data to CSV file====: graphic developer
+2022-09-22 07:16:04 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
+2022-09-22 07:16:04 - root - INFO - ====Sending data to readme====: graphic developer
+2022-09-22 07:16:04 - root - INFO - ====Finished Sending data to readme====: graphic developer
+2022-09-22 07:16:06 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+developer&pn=1
+2022-09-22 07:16:06 - root - INFO - ====Finished Processing====: graphic developer
+2022-09-22 07:16:06 - root - INFO - ====Sending data to CSV file====: graphic developer
+2022-09-22 07:16:06 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
+2022-09-22 07:16:06 - root - INFO - ====Sending data to readme====: graphic developer
+2022-09-22 07:16:06 - root - INFO - ====Finished Sending data to readme====: graphic developer
+2022-09-22 07:16:15 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
+2022-09-22 07:16:16 - root - INFO - ====Finished Processing====: ui designer
+2022-09-22 07:16:16 - root - INFO - ====Sending data to CSV file====: ui designer
+2022-09-22 07:16:16 - root - INFO - ====Finished Sending data to CSV file====: ui designer
+2022-09-22 07:16:16 - root - INFO - ====Sending data to readme====: ui designer
+2022-09-22 07:16:16 - root - INFO - ====Finished Sending data to readme====: ui designer
+2022-09-22 07:16:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+designer&pn=1
+2022-09-22 07:16:18 - root - INFO - ====Finished Processing====: ui designer
+2022-09-22 07:16:18 - root - INFO - ====Sending data to CSV file====: ui designer
+2022-09-22 07:16:18 - root - INFO - ====Finished Sending data to CSV file====: ui designer
+2022-09-22 07:16:18 - root - INFO - ====Sending data to readme====: ui designer
+2022-09-22 07:16:18 - root - INFO - ====Finished Sending data to readme====: ui designer
+2022-09-22 07:16:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2022-09-22 07:16:33 - root - INFO - ====Finished Processing====: graphic engineer
+2022-09-22 07:16:33 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2022-09-22 07:16:33 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2022-09-22 07:16:33 - root - INFO - ====Sending data to readme====: graphic engineer
+2022-09-22 07:16:33 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2022-09-22 07:16:34 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2022-09-22 07:16:34 - root - INFO - ====Finished Processing====: graphic engineer
+2022-09-22 07:16:34 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2022-09-22 07:16:34 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2022-09-22 07:16:34 - root - INFO - ====Sending data to readme====: graphic engineer
+2022-09-22 07:16:34 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2022-09-22 07:16:43 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
+2022-09-22 07:16:44 - root - INFO - ====Finished Processing====: design developer
+2022-09-22 07:16:44 - root - INFO - ====Sending data to CSV file====: design developer
+2022-09-22 07:16:44 - root - INFO - ====Finished Sending data to CSV file====: design developer
+2022-09-22 07:16:44 - root - INFO - ====Sending data to readme====: design developer
+2022-09-22 07:16:44 - root - INFO - ====Finished Sending data to readme====: design developer
+2022-09-22 07:16:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=design+developer&pn=1
+2022-09-22 07:16:45 - root - INFO - ====Finished Processing====: design developer
+2022-09-22 07:16:45 - root - INFO - ====Sending data to CSV file====: design developer
+2022-09-22 07:16:45 - root - INFO - ====Finished Sending data to CSV file====: design developer
+2022-09-22 07:16:45 - root - INFO - ====Sending data to readme====: design developer
+2022-09-22 07:16:45 - root - INFO - ====Finished Sending data to readme====: design developer
+2022-09-22 07:16:58 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
+2022-09-22 07:16:59 - root - INFO - ====Finished Processing====: visual art
+2022-09-22 07:16:59 - root - INFO - ====Sending data to CSV file====: visual art
+2022-09-22 07:16:59 - root - INFO - ====Finished Sending data to CSV file====: visual art
+2022-09-22 07:16:59 - root - INFO - ====Sending data to readme====: visual art
+2022-09-22 07:16:59 - root - INFO - ====Finished Sending data to readme====: visual art
+2022-09-22 07:17:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+art&pn=1
+2022-09-22 07:17:01 - root - INFO - ====Finished Processing====: visual art
+2022-09-22 07:17:01 - root - INFO - ====Sending data to CSV file====: visual art
+2022-09-22 07:17:01 - root - INFO - ====Finished Sending data to CSV file====: visual art
+2022-09-22 07:17:01 - root - INFO - ====Sending data to readme====: visual art
+2022-09-22 07:17:01 - root - INFO - ====Finished Sending data to readme====: visual art
+2022-09-22 07:17:10 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
+2022-09-22 07:17:12 - root - INFO - ====Finished Processing====: ui engineer
+2022-09-22 07:17:12 - root - INFO - ====Sending data to CSV file====: ui engineer
+2022-09-22 07:17:12 - root - INFO - ====Finished Sending data to CSV file====: ui engineer
+2022-09-22 07:17:12 - root - INFO - ====Sending data to readme====: ui engineer
+2022-09-22 07:17:12 - root - INFO - ====Finished Sending data to readme====: ui engineer
+2022-09-22 07:17:13 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+engineer&pn=1
+2022-09-22 07:17:14 - root - INFO - ====Finished Processing====: ui engineer
+2022-09-22 07:17:14 - root - INFO - ====Sending data to CSV file====: ui engineer
+2022-09-22 07:17:14 - root - INFO - ====Finished Sending data to CSV file====: ui engineer
+2022-09-22 07:17:14 - root - INFO - ====Sending data to readme====: ui engineer
+2022-09-22 07:17:14 - root - INFO - ====Finished Sending data to readme====: ui engineer
+2022-09-22 07:17:27 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
+2022-09-22 07:17:29 - root - INFO - ====Finished Processing====: 3d designer
+2022-09-22 07:17:29 - root - INFO - ====Sending data to CSV file====: 3d designer
+2022-09-22 07:17:29 - root - INFO - ====Finished Sending data to CSV file====: 3d designer
+2022-09-22 07:17:29 - root - INFO - ====Sending data to readme====: 3d designer
+2022-09-22 07:17:29 - root - INFO - ====Finished Sending data to readme====: 3d designer
+2022-09-22 07:17:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+designer&pn=1
+2022-09-22 07:17:31 - root - INFO - ====Finished Processing====: 3d designer
+2022-09-22 07:17:31 - root - INFO - ====Sending data to CSV file====: 3d designer
+2022-09-22 07:17:31 - root - INFO - ====Finished Sending data to CSV file====: 3d designer
+2022-09-22 07:17:31 - root - INFO - ====Sending data to readme====: 3d designer
+2022-09-22 07:17:31 - root - INFO - ====Finished Sending data to readme====: 3d designer
+2022-09-22 07:17:43 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
+2022-09-22 07:17:44 - root - INFO - ====Finished Processing====: visual effects
+2022-09-22 07:17:44 - root - INFO - ====Sending data to CSV file====: visual effects
+2022-09-22 07:17:44 - root - INFO - ====Finished Sending data to CSV file====: visual effects
+2022-09-22 07:17:44 - root - INFO - ====Sending data to readme====: visual effects
+2022-09-22 07:17:44 - root - INFO - ====Finished Sending data to readme====: visual effects
+2022-09-22 07:17:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+effects&pn=1
+2022-09-22 07:17:46 - root - INFO - ====Finished Processing====: visual effects
+2022-09-22 07:17:46 - root - INFO - ====Sending data to CSV file====: visual effects
+2022-09-22 07:17:46 - root - INFO - ====Finished Sending data to CSV file====: visual effects
+2022-09-22 07:17:46 - root - INFO - ====Sending data to readme====: visual effects
+2022-09-22 07:17:46 - root - INFO - ====Finished Sending data to readme====: visual effects
+2022-09-22 07:17:56 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
+2022-09-22 07:17:57 - root - INFO - ====Finished Processing====: acoustic developer
+2022-09-22 07:17:57 - root - INFO - ====Sending data to CSV file====: acoustic developer
+2022-09-22 07:17:57 - root - INFO - ====Finished Sending data to CSV file====: acoustic developer
+2022-09-22 07:17:57 - root - INFO - ====Sending data to readme====: acoustic developer
+2022-09-22 07:17:57 - root - INFO - ====Finished Sending data to readme====: acoustic developer
+2022-09-22 07:17:58 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+developer&pn=1
+2022-09-22 07:17:59 - root - INFO - ====Finished Processing====: acoustic developer
+2022-09-22 07:17:59 - root - INFO - ====Sending data to CSV file====: acoustic developer
+2022-09-22 07:17:59 - root - INFO - ====Finished Sending data to CSV file====: acoustic developer
+2022-09-22 07:17:59 - root - INFO - ====Sending data to readme====: acoustic developer
+2022-09-22 07:17:59 - root - INFO - ====Finished Sending data to readme====: acoustic developer
+2022-09-22 07:18:09 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
+2022-09-22 07:18:11 - root - INFO - ====Finished Processing====: music developer
+2022-09-22 07:18:11 - root - INFO - ====Sending data to CSV file====: music developer
+2022-09-22 07:18:11 - root - INFO - ====Finished Sending data to CSV file====: music developer
+2022-09-22 07:18:11 - root - INFO - ====Sending data to readme====: music developer
+2022-09-22 07:18:11 - root - INFO - ====Finished Sending data to readme====: music developer
+2022-09-22 07:18:12 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+developer&pn=1
+2022-09-22 07:18:12 - root - INFO - ====Finished Processing====: music developer
+2022-09-22 07:18:12 - root - INFO - ====Sending data to CSV file====: music developer
+2022-09-22 07:18:12 - root - INFO - ====Finished Sending data to CSV file====: music developer
+2022-09-22 07:18:12 - root - INFO - ====Sending data to readme====: music developer
+2022-09-22 07:18:12 - root - INFO - ====Finished Sending data to readme====: music developer
+2022-09-22 07:18:23 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
+2022-09-22 07:18:24 - root - INFO - ====Finished Processing====: visual architect
+2022-09-22 07:18:24 - root - INFO - ====Sending data to CSV file====: visual architect
+2022-09-22 07:18:24 - root - INFO - ====Finished Sending data to CSV file====: visual architect
+2022-09-22 07:18:24 - root - INFO - ====Sending data to readme====: visual architect
+2022-09-22 07:18:24 - root - INFO - ====Finished Sending data to readme====: visual architect
+2022-09-22 07:18:25 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+architect&pn=1
+2022-09-22 07:18:26 - root - INFO - ====Finished Processing====: visual architect
+2022-09-22 07:18:26 - root - INFO - ====Sending data to CSV file====: visual architect
+2022-09-22 07:18:26 - root - INFO - ====Finished Sending data to CSV file====: visual architect
+2022-09-22 07:18:26 - root - INFO - ====Sending data to readme====: visual architect
+2022-09-22 07:18:26 - root - INFO - ====Finished Sending data to readme====: visual architect
+2022-09-22 07:18:40 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
+2022-09-22 07:18:40 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
+2022-09-22 07:18:40 - root - INFO - Break here, now go to next loop(next page)
+2022-09-22 07:18:42 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=artworker&pn=1
+2022-09-22 07:18:42 - root - INFO - ====Finished Processing====: artworker
+2022-09-22 07:18:42 - root - INFO - ====Sending data to CSV file====: artworker
+2022-09-22 07:18:42 - root - INFO - ====Finished Sending data to CSV file====: artworker
+2022-09-22 07:18:42 - root - INFO - ====Sending data to readme====: artworker
+2022-09-22 07:18:42 - root - INFO - ====Finished Sending data to readme====: artworker
+2022-09-22 07:18:53 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
+2022-09-22 07:18:54 - root - INFO - ====Finished Processing====: 3d developer
+2022-09-22 07:18:54 - root - INFO - ====Sending data to CSV file====: 3d developer
+2022-09-22 07:18:54 - root - INFO - ====Finished Sending data to CSV file====: 3d developer
+2022-09-22 07:18:54 - root - INFO - ====Sending data to readme====: 3d developer
+2022-09-22 07:18:54 - root - INFO - ====Finished Sending data to readme====: 3d developer
+2022-09-22 07:18:55 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+developer&pn=1
+2022-09-22 07:18:55 - root - INFO - ====Finished Processing====: 3d developer
+2022-09-22 07:18:55 - root - INFO - ====Sending data to CSV file====: 3d developer
+2022-09-22 07:18:55 - root - INFO - ====Finished Sending data to CSV file====: 3d developer
+2022-09-22 07:18:55 - root - INFO - ====Sending data to readme====: 3d developer
+2022-09-22 07:18:55 - root - INFO - ====Finished Sending data to readme====: 3d developer
+2022-09-22 07:19:11 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
+2022-09-22 07:19:12 - root - INFO - ====Finished Processing====: music engineer
+2022-09-22 07:19:12 - root - INFO - ====Sending data to CSV file====: music engineer
+2022-09-22 07:19:12 - root - INFO - ====Finished Sending data to CSV file====: music engineer
+2022-09-22 07:19:12 - root - INFO - ====Sending data to readme====: music engineer
+2022-09-22 07:19:12 - root - INFO - ====Finished Sending data to readme====: music engineer
+2022-09-22 07:19:13 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+engineer&pn=1
+2022-09-22 07:19:13 - root - INFO - ====Finished Processing====: music engineer
+2022-09-22 07:19:13 - root - INFO - ====Sending data to CSV file====: music engineer
+2022-09-22 07:19:13 - root - INFO - ====Finished Sending data to CSV file====: music engineer
+2022-09-22 07:19:13 - root - INFO - ====Sending data to readme====: music engineer
+2022-09-22 07:19:13 - root - INFO - ====Finished Sending data to readme====: music engineer
+2022-09-22 07:19:29 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
+2022-09-22 07:19:30 - root - INFO - ====Finished Processing====: acoustic engineer
+2022-09-22 07:19:30 - root - INFO - ====Sending data to CSV file====: acoustic engineer
+2022-09-22 07:19:30 - root - INFO - ====Finished Sending data to CSV file====: acoustic engineer
+2022-09-22 07:19:30 - root - INFO - ====Sending data to readme====: acoustic engineer
+2022-09-22 07:19:30 - root - INFO - ====Finished Sending data to readme====: acoustic engineer
+2022-09-22 07:19:32 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+engineer&pn=1
+2022-09-22 07:19:32 - root - INFO - ====Finished Processing====: acoustic engineer
+2022-09-22 07:19:32 - root - INFO - ====Sending data to CSV file====: acoustic engineer
+2022-09-22 07:19:32 - root - INFO - ====Finished Sending data to CSV file====: acoustic engineer
+2022-09-22 07:19:32 - root - INFO - ====Sending data to readme====: acoustic engineer
+2022-09-22 07:19:32 - root - INFO - ====Finished Sending data to readme====: acoustic engineer
+2022-09-22 07:19:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
+2022-09-22 07:19:47 - root - INFO - ====Finished Processing====: visual engineer
+2022-09-22 07:19:47 - root - INFO - ====Sending data to CSV file====: visual engineer
+2022-09-22 07:19:47 - root - INFO - ====Finished Sending data to CSV file====: visual engineer
+2022-09-22 07:19:47 - root - INFO - ====Sending data to readme====: visual engineer
+2022-09-22 07:19:47 - root - INFO - ====Finished Sending data to readme====: visual engineer
+2022-09-22 07:19:49 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+engineer&pn=1
+2022-09-22 07:19:49 - root - INFO - ====Finished Processing====: visual engineer
+2022-09-22 07:19:49 - root - INFO - ====Sending data to CSV file====: visual engineer
+2022-09-22 07:19:49 - root - INFO - ====Finished Sending data to CSV file====: visual engineer
+2022-09-22 07:19:49 - root - INFO - ====Sending data to readme====: visual engineer
+2022-09-22 07:19:49 - root - INFO - ====Finished Sending data to readme====: visual engineer
+2022-09-22 07:20:05 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
+2022-09-22 07:20:06 - root - INFO - ====Finished Processing====: generative design
+2022-09-22 07:20:06 - root - INFO - ====Sending data to CSV file====: generative design
+2022-09-22 07:20:06 - root - INFO - ====Finished Sending data to CSV file====: generative design
+2022-09-22 07:20:06 - root - INFO - ====Sending data to readme====: generative design
+2022-09-22 07:20:06 - root - INFO - ====Finished Sending data to readme====: generative design
+2022-09-22 07:20:07 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+design&pn=1
+2022-09-22 07:20:07 - root - INFO - ====Finished Processing====: generative design
+2022-09-22 07:20:07 - root - INFO - ====Sending data to CSV file====: generative design
+2022-09-22 07:20:07 - root - INFO - ====Finished Sending data to CSV file====: generative design
+2022-09-22 07:20:07 - root - INFO - ====Sending data to readme====: generative design
+2022-09-22 07:20:07 - root - INFO - ====Finished Sending data to readme====: generative design
+2022-09-22 07:20:22 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
+2022-09-22 07:20:23 - root - INFO - ====Finished Processing====: vfx engineer
+2022-09-22 07:20:23 - root - INFO - ====Sending data to CSV file====: vfx engineer
+2022-09-22 07:20:23 - root - INFO - ====Finished Sending data to CSV file====: vfx engineer
+2022-09-22 07:20:23 - root - INFO - ====Sending data to readme====: vfx engineer
+2022-09-22 07:20:23 - root - INFO - ====Finished Sending data to readme====: vfx engineer
+2022-09-22 07:20:24 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+engineer&pn=1
+2022-09-22 07:20:25 - root - INFO - ====Finished Processing====: vfx engineer
+2022-09-22 07:20:25 - root - INFO - ====Sending data to CSV file====: vfx engineer
+2022-09-22 07:20:25 - root - INFO - ====Finished Sending data to CSV file====: vfx engineer
+2022-09-22 07:20:25 - root - INFO - ====Sending data to readme====: vfx engineer
+2022-09-22 07:20:25 - root - INFO - ====Finished Sending data to readme====: vfx engineer
+2022-09-22 07:20:39 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
+2022-09-22 07:20:40 - root - INFO - ====Finished Processing====: junior designer
+2022-09-22 07:20:40 - root - INFO - ====Sending data to CSV file====: junior designer
+2022-09-22 07:20:40 - root - INFO - ====Finished Sending data to CSV file====: junior designer
+2022-09-22 07:20:40 - root - INFO - ====Sending data to readme====: junior designer
+2022-09-22 07:20:40 - root - INFO - ====Finished Sending data to readme====: junior designer
+2022-09-22 07:20:41 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=junior+designer&pn=1
+2022-09-22 07:20:42 - root - INFO - ====Finished Processing====: junior designer
+2022-09-22 07:20:42 - root - INFO - ====Sending data to CSV file====: junior designer
+2022-09-22 07:20:42 - root - INFO - ====Finished Sending data to CSV file====: junior designer
+2022-09-22 07:20:42 - root - INFO - ====Sending data to readme====: junior designer
+2022-09-22 07:20:42 - root - INFO - ====Finished Sending data to readme====: junior designer
+2022-09-22 07:20:50 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
+2022-09-22 07:20:52 - root - INFO - ====Finished Processing====: creative programming
+2022-09-22 07:20:52 - root - INFO - ====Sending data to CSV file====: creative programming
+2022-09-22 07:20:52 - root - INFO - ====Finished Sending data to CSV file====: creative programming
+2022-09-22 07:20:52 - root - INFO - ====Sending data to readme====: creative programming
+2022-09-22 07:20:52 - root - INFO - ====Finished Sending data to readme====: creative programming
+2022-09-22 07:20:53 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programming&pn=1
+2022-09-22 07:20:54 - root - INFO - ====Finished Processing====: creative programming
+2022-09-22 07:20:54 - root - INFO - ====Sending data to CSV file====: creative programming
+2022-09-22 07:20:54 - root - INFO - ====Finished Sending data to CSV file====: creative programming
+2022-09-22 07:20:54 - root - INFO - ====Sending data to readme====: creative programming
+2022-09-22 07:20:54 - root - INFO - ====Finished Sending data to readme====: creative programming
+2022-09-22 07:21:09 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
+2022-09-22 07:21:10 - root - INFO - ====Finished Processing====: frontend engineer
+2022-09-22 07:21:10 - root - INFO - ====Sending data to CSV file====: frontend engineer
+2022-09-22 07:21:10 - root - INFO - ====Finished Sending data to CSV file====: frontend engineer
+2022-09-22 07:21:10 - root - INFO - ====Sending data to readme====: frontend engineer
+2022-09-22 07:21:10 - root - INFO - ====Finished Sending data to readme====: frontend engineer
+2022-09-22 07:21:11 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=frontend+engineer&pn=1
+2022-09-22 07:21:12 - root - INFO - ====Finished Processing====: frontend engineer
+2022-09-22 07:21:12 - root - INFO - ====Sending data to CSV file====: frontend engineer
+2022-09-22 07:21:12 - root - INFO - ====Finished Sending data to CSV file====: frontend engineer
+2022-09-22 07:21:12 - root - INFO - ====Sending data to readme====: frontend engineer
+2022-09-22 07:21:12 - root - INFO - ====Finished Sending data to readme====: frontend engineer
+2022-09-22 07:21:23 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
+2022-09-22 07:21:24 - root - INFO - ====Finished Processing====: creative programmer
+2022-09-22 07:21:24 - root - INFO - ====Sending data to CSV file====: creative programmer
+2022-09-22 07:21:24 - root - INFO - ====Finished Sending data to CSV file====: creative programmer
+2022-09-22 07:21:24 - root - INFO - ====Sending data to readme====: creative programmer
+2022-09-22 07:21:24 - root - INFO - ====Finished Sending data to readme====: creative programmer
+2022-09-22 07:21:26 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programmer&pn=1
+2022-09-22 07:21:26 - root - INFO - ====Finished Processing====: creative programmer
+2022-09-22 07:21:26 - root - INFO - ====Sending data to CSV file====: creative programmer
+2022-09-22 07:21:26 - root - INFO - ====Finished Sending data to CSV file====: creative programmer
+2022-09-22 07:21:26 - root - INFO - ====Sending data to readme====: creative programmer
+2022-09-22 07:21:26 - root - INFO - ====Finished Sending data to readme====: creative programmer
+2022-09-22 07:21:39 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
+2022-09-22 07:21:39 - root - INFO - ====Finished Processing====: senior designer
+2022-09-22 07:21:39 - root - INFO - ====Sending data to CSV file====: senior designer
+2022-09-22 07:21:39 - root - INFO - ====Finished Sending data to CSV file====: senior designer
+2022-09-22 07:21:39 - root - INFO - ====Sending data to readme====: senior designer
+2022-09-22 07:21:40 - root - INFO - ====Finished Sending data to readme====: senior designer
+2022-09-22 07:21:41 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=senior+designer&pn=1
+2022-09-22 07:21:41 - root - INFO - ====Finished Processing====: senior designer
+2022-09-22 07:21:41 - root - INFO - ====Sending data to CSV file====: senior designer
+2022-09-22 07:21:41 - root - INFO - ====Finished Sending data to CSV file====: senior designer
+2022-09-22 07:21:41 - root - INFO - ====Sending data to readme====: senior designer
+2022-09-22 07:21:41 - root - INFO - ====Finished Sending data to readme====: senior designer
+2022-09-22 07:21:50 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
+2022-09-22 07:21:51 - root - INFO - ====Finished Processing====: acoustical engineering
+2022-09-22 07:21:51 - root - INFO - ====Sending data to CSV file====: acoustical engineering
+2022-09-22 07:21:51 - root - INFO - ====Finished Sending data to CSV file====: acoustical engineering
+2022-09-22 07:21:51 - root - INFO - ====Sending data to readme====: acoustical engineering
+2022-09-22 07:21:51 - root - INFO - ====Finished Sending data to readme====: acoustical engineering
+2022-09-22 07:21:52 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustical+engineering&pn=1
+2022-09-22 07:21:53 - root - INFO - ====Finished Processing====: acoustical engineering
+2022-09-22 07:21:53 - root - INFO - ====Sending data to CSV file====: acoustical engineering
+2022-09-22 07:21:53 - root - INFO - ====Finished Sending data to CSV file====: acoustical engineering
+2022-09-22 07:21:53 - root - INFO - ====Sending data to readme====: acoustical engineering
+2022-09-22 07:21:53 - root - INFO - ====Finished Sending data to readme====: acoustical engineering
+2022-09-22 07:22:03 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
+2022-09-22 07:22:04 - root - INFO - ====Finished Processing====: vfx designer
+2022-09-22 07:22:04 - root - INFO - ====Sending data to CSV file====: vfx designer
+2022-09-22 07:22:04 - root - INFO - ====Finished Sending data to CSV file====: vfx designer
+2022-09-22 07:22:04 - root - INFO - ====Sending data to readme====: vfx designer
+2022-09-22 07:22:04 - root - INFO - ====Finished Sending data to readme====: vfx designer
+2022-09-22 07:22:05 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+designer&pn=1
+2022-09-22 07:22:06 - root - INFO - ====Finished Processing====: vfx designer
+2022-09-22 07:22:06 - root - INFO - ====Sending data to CSV file====: vfx designer
+2022-09-22 07:22:06 - root - INFO - ====Finished Sending data to CSV file====: vfx designer
+2022-09-22 07:22:06 - root - INFO - ====Sending data to readme====: vfx designer
+2022-09-22 07:22:06 - root - INFO - ====Finished Sending data to readme====: vfx designer
+2022-09-22 07:22:15 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
+2022-09-22 07:22:16 - root - INFO - ====Finished Processing====: 3d engineer
+2022-09-22 07:22:16 - root - INFO - ====Sending data to CSV file====: 3d engineer
+2022-09-22 07:22:16 - root - INFO - ====Finished Sending data to CSV file====: 3d engineer
+2022-09-22 07:22:16 - root - INFO - ====Sending data to readme====: 3d engineer
+2022-09-22 07:22:16 - root - INFO - ====Finished Sending data to readme====: 3d engineer
+2022-09-22 07:22:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+engineer&pn=1
+2022-09-22 07:22:18 - root - INFO - ====Finished Processing====: 3d engineer
+2022-09-22 07:22:18 - root - INFO - ====Sending data to CSV file====: 3d engineer
+2022-09-22 07:22:18 - root - INFO - ====Finished Sending data to CSV file====: 3d engineer
+2022-09-22 07:22:18 - root - INFO - ====Sending data to readme====: 3d engineer
+2022-09-22 07:22:18 - root - INFO - ====Finished Sending data to readme====: 3d engineer
