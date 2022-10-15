@@ -1,9 +1,8 @@
 
 
-|    | platform    | company              | job                                                                                                                                                                | update_time   | location         |
-|---:|:------------|:---------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:-----------------|
-|  1 | SimplyHired | Sexton Ventures, LLC | [National Correct Coding Initiative Editor/Medical Coder](https://www.simplyhired.com/job/7QPsb4PK9gv6qY1v25vHX6dEQtKg6znAEfiHxnzf1enSXur5hOFUjQ?q=creative+coder) | Recently      | Remote           |
-|  2 | SimplyHired | Techskills           | [Technical Writer (Medical Coding)](https://www.simplyhired.com/job/6T-UyFI0ALdYgoDBf2j2F7h9_shal30KRKqcvF9e8GRtHgU5qE9QFw?q=creative+coder)                       | Recently      | Rochester, NY    |
-|  3 | SimplyHired | Techspace Solutions  | [Technical Writer (Medical Coding)](https://www.simplyhired.com/job/NJ_LWiGOxJBlEwmcRAcsI3Pt3twjKSvNSkpLMwAPdJX68uv_Ti9O-g?q=creative+coder)                       | Recently      | Rochester, NY    |
-|  4 | SimplyHired | Tekskills Inc        | [Technical Writer (Medical Coding)](https://www.simplyhired.com/job/PiR_FXZN54SkvpaBFj5QXniPwNtckAhkrlE5V3jFERZbzKyrFBr_5Q?q=creative+coder)                       | Recently      | Rochester, NY    |
-|  5 | SimplyHired | Tower Radiology      | [Medical Proofreader/Editor/Coder](https://www.simplyhired.com/job/DVHm9CexVfoqEsEjqdgwCvorgo8aB9asoJShWMbNn78pZZReapKbbQ?q=creative+coder)                        | Recently      | White Plains, MD |
+|    | platform    | company              | job                                                                                                                                                                | update_time   | location      |
+|---:|:------------|:---------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:--------------|
+|  1 | SimplyHired | Sexton Ventures, LLC | [National Correct Coding Initiative Editor/Medical Coder](https://www.simplyhired.com/job/7QPsb4PK9gv6qY1v25vHX6dEQtKg6znAEfiHxnzf1enSXur5hOFUjQ?q=creative+coder) | Recently      | Remote        |
+|  2 | SimplyHired | Techskills           | [Technical Writer (Medical Coding)](https://www.simplyhired.com/job/6T-UyFI0ALdYgoDBf2j2F7h9_shal30KRKqcvF9e8GRtHgU5qE9QFw?q=creative+coder)                       | Recently      | Rochester, NY |
+|  3 | SimplyHired | Techspace Solutions  | [Technical Writer (Medical Coding)](https://www.simplyhired.com/job/NJ_LWiGOxJBlEwmcRAcsI3Pt3twjKSvNSkpLMwAPdJX68uv_Ti9O-g?q=creative+coder)                       | Recently      | Rochester, NY |
+|  4 | SimplyHired | Tekskills Inc        | [Technical Writer (Medical Coding)](https://www.simplyhired.com/job/PiR_FXZN54SkvpaBFj5QXniPwNtckAhkrlE5V3jFERZbzKyrFBr_5Q?q=creative+coder)                       | Recently      | Rochester, NY |
