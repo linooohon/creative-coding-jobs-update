@@ -11,7 +11,7 @@ class ConvertData():
         # if datetime.now().weekday() == 0:
             # self.job_bank_list = JOB_BANK_LIST_MONDAY
         # else:
-            self.job_bank_list = JOB_BANK_LIST_DAILY
+        self.job_bank_list = JOB_BANK_LIST_DAILY
     def readme_init(self):
         for JobPlatform in self.job_bank_list:
             with open(f"./static/readme/readme_{JobPlatform.__name__}.md", "w+") as f:
