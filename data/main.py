@@ -13,16 +13,16 @@ from helpers.data_convert_helper import ConvertData
 
 Log().clean_log()
 s = Setting()
-df = s.get_csv_from_s3()
+# df = s.get_csv_from_s3() # Cancel AWS S3 at 2022/11/04
 
 class CreativeCoderJobSearch():
     def __init__(self, keyword):
         self.keyword = keyword
-        if datetime.now().weekday() == 0:
+        # if datetime.now().weekday() == 0:
             # every monday update indeed, indeed uk
-            self.job_bank_list = JOB_BANK_LIST_MONDAY
-        else:
-            self.job_bank_list = JOB_BANK_LIST_DAILY
+            # self.job_bank_list = JOB_BANK_LIST_MONDAY
+        # else:
+        self.job_bank_list = JOB_BANK_LIST_DAILY
 
     def run(self):
         for JobPlatform in self.job_bank_list:
@@ -36,8 +36,9 @@ class CreativeCoderJobSearch():
 
 class FileHandler():
     def get_keyword(self):
-        title_keyword_list = df['title_keyword'].tolist()
-        title_keyword_list = [x for x in title_keyword_list if x]
+        # title_keyword_list = df['title_keyword'].tolist()
+        # title_keyword_list = [x for x in title_keyword_list if x]
+        title_keyword_list = s.TITLE_KEYWORD.split(',')
         print(title_keyword_list)
         return title_keyword_list
 

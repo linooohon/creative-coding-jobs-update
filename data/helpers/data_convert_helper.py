@@ -8,9 +8,9 @@ from crawlers import JOB_BANK_LIST_DAILY, JOB_BANK_LIST_MONDAY
 
 class ConvertData():
     def __init__(self):
-        if datetime.now().weekday() == 0:
-            self.job_bank_list = JOB_BANK_LIST_MONDAY
-        else:
+        # if datetime.now().weekday() == 0:
+            # self.job_bank_list = JOB_BANK_LIST_MONDAY
+        # else:
             self.job_bank_list = JOB_BANK_LIST_DAILY
     def readme_init(self):
         for JobPlatform in self.job_bank_list:
@@ -86,9 +86,10 @@ class ConvertData():
         with open(f"../README.md", "a") as f:
             f.write(f'\n<p align="center">Last updated on: {update_date}</p>\n\n## TOC\n\n')
         s = Setting()
-        df = s.get_csv_from_s3()
-        title_keyword_list = df['title_keyword'].tolist()
-        title_keyword_list = [x for x in title_keyword_list if x]
+        title_keyword_list = s.TITLE_KEYWORD.split(',')
+        # df = s.get_csv_from_s3()
+        # title_keyword_list = df['title_keyword'].tolist()
+        # title_keyword_list = [x for x in title_keyword_list if x]
         with open(f"../README.md", "a") as f:
             for keyword in title_keyword_list:
                 keyword_filename = '_'.join(keyword.split())

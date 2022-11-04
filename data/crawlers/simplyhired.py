@@ -15,7 +15,7 @@ class SimplyHired(BaseCrawler):
         self.s = S(SH)
         self.result_list = []
         self.keyword = keyword
-        self.s3_keyword_df = self.s.get_csv_from_s3()
+        # self.s3_keyword_df = self.s.get_csv_from_s3()
         self.platform_name = self.s.platform_name
         self.platform_url = self.s.platform_url
         self.query = self.s.query

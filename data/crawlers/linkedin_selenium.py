@@ -24,7 +24,7 @@ class LinkedIn(BaseCrawler):
         self.result_list = []
         self.keyword = keyword
         # self.ua = UserAgent()
-        self.s3_keyword_df = s.get_csv_from_s3()
+        # self.s3_keyword_df = s.get_csv_from_s3()
         self.platform_name = s.linkedIn_setting()['platform_name']
         self.platform_url = s.linkedIn_setting()['platform_url']
         self.query = s.linkedIn_setting()['query']
