@@ -15,6 +15,7 @@ class Setting():
         self.AWS_S3_BUCKET = environ.get('AWS_S3_BUCKET')
         self.AWS_S3_FILE_NAME = environ.get('AWS_S3_FILE_NAME')
         self.TITLE_KEYWORD = environ.get('TITLE_KEYWORD')
+        print(self.TITLE_KEYWORD)
 
         # self.BOTO3_SESSION = boto3.Session(
         #     aws_access_key_id=self.AWS_ACCESS_KEY_ID,
