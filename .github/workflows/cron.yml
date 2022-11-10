@@ -28,6 +28,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_S3_BUCKET=${{ secrets.AWS_S3_BUCKET }}
           AWS_S3_FILE_NAME=${{ secrets.AWS_S3_FILE_NAME }}
+          TITLE_KEYWORD=${{ secrets.TITLE_KEYWORD }}
           EOF
       - name: Install Dependencies
         run: |

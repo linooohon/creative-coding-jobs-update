@@ -36,8 +36,6 @@ class CreativeCoderJobSearch():
 
 class FileHandler():
     def get_keyword(self):
-        print('aws bucket', s.AWS_S3_BUCKET)
-        print('aws file', s.AWS_S3_FILE_NAME)
         print('keyword', s.TITLE_KEYWORD)
         # title_keyword_list = df['title_keyword'].tolist()
         # title_keyword_list = [x for x in title_keyword_list if x]
