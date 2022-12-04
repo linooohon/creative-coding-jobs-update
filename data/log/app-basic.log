@@ -1,477 +1,477 @@
-2022-12-03 06:39:38 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
-2022-12-03 06:39:39 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
-2022-12-03 06:39:39 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:39:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+developer&pn=1
-2022-12-03 06:39:40 - root - INFO - ====Finished Processing====: creative developer
-2022-12-03 06:39:40 - root - INFO - ====Sending data to CSV file====: creative developer
-2022-12-03 06:39:40 - root - INFO - ====Finished Sending data to CSV file====: creative developer
-2022-12-03 06:39:40 - root - INFO - ====Sending data to readme====: creative developer
-2022-12-03 06:39:40 - root - INFO - ====Finished Sending data to readme====: creative developer
-2022-12-03 06:39:51 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
-2022-12-03 06:39:52 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
-2022-12-03 06:39:52 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:39:52 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+art&pn=1
-2022-12-03 06:39:52 - root - INFO - ====Finished Processing====: generative art
-2022-12-03 06:39:52 - root - INFO - ====Sending data to CSV file====: generative art
-2022-12-03 06:39:52 - root - INFO - ====Finished Sending data to CSV file====: generative art
-2022-12-03 06:39:52 - root - INFO - ====Sending data to readme====: generative art
-2022-12-03 06:39:52 - root - INFO - ====Finished Sending data to readme====: generative art
-2022-12-03 06:40:05 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
-2022-12-03 06:40:06 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
-2022-12-03 06:40:06 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:40:06 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+developer&pn=1
-2022-12-03 06:40:07 - root - INFO - ====Finished Processing====: digital developer
-2022-12-03 06:40:07 - root - INFO - ====Sending data to CSV file====: digital developer
-2022-12-03 06:40:07 - root - INFO - ====Finished Sending data to CSV file====: digital developer
-2022-12-03 06:40:07 - root - INFO - ====Sending data to readme====: digital developer
-2022-12-03 06:40:07 - root - INFO - ====Finished Sending data to readme====: digital developer
-2022-12-03 06:40:20 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
-2022-12-03 06:40:21 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
-2022-12-03 06:40:21 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:40:21 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+artist&pn=1
-2022-12-03 06:40:22 - root - INFO - ====Finished Processing====: generative artist
-2022-12-03 06:40:22 - root - INFO - ====Sending data to CSV file====: generative artist
-2022-12-03 06:40:22 - root - INFO - ====Finished Sending data to CSV file====: generative artist
-2022-12-03 06:40:22 - root - INFO - ====Sending data to readme====: generative artist
-2022-12-03 06:40:22 - root - INFO - ====Finished Sending data to readme====: generative artist
-2022-12-03 06:40:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
-2022-12-03 06:40:33 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
-2022-12-03 06:40:33 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:40:33 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+developer&pn=1
-2022-12-03 06:40:33 - root - INFO - ====Finished Processing====: interactive developer
-2022-12-03 06:40:33 - root - INFO - ====Sending data to CSV file====: interactive developer
-2022-12-03 06:40:33 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
-2022-12-03 06:40:33 - root - INFO - ====Sending data to readme====: interactive developer
-2022-12-03 06:40:33 - root - INFO - ====Finished Sending data to readme====: interactive developer
-2022-12-03 06:40:44 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
-2022-12-03 06:40:46 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
-2022-12-03 06:40:46 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:40:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+designer&pn=1
-2022-12-03 06:40:47 - root - INFO - ====Finished Processing====: generative designer
-2022-12-03 06:40:47 - root - INFO - ====Sending data to CSV file====: generative designer
-2022-12-03 06:40:47 - root - INFO - ====Finished Sending data to CSV file====: generative designer
-2022-12-03 06:40:47 - root - INFO - ====Sending data to readme====: generative designer
-2022-12-03 06:40:47 - root - INFO - ====Finished Sending data to readme====: generative designer
-2022-12-03 06:40:57 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2022-12-03 06:40:58 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2022-12-03 06:40:58 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:40:58 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
-2022-12-03 06:40:58 - root - INFO - ====Finished Processing====: graphic engineer
-2022-12-03 06:40:58 - root - INFO - ====Sending data to CSV file====: graphic engineer
-2022-12-03 06:40:58 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
-2022-12-03 06:40:58 - root - INFO - ====Sending data to readme====: graphic engineer
-2022-12-03 06:40:58 - root - INFO - ====Finished Sending data to readme====: graphic engineer
-2022-12-03 06:41:10 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
-2022-12-03 06:41:13 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
-2022-12-03 06:41:13 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:41:13 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+engineer&pn=1
-2022-12-03 06:41:14 - root - INFO - ====Finished Processing====: generative engineer
-2022-12-03 06:41:14 - root - INFO - ====Sending data to CSV file====: generative engineer
-2022-12-03 06:41:14 - root - INFO - ====Finished Sending data to CSV file====: generative engineer
-2022-12-03 06:41:14 - root - INFO - ====Sending data to readme====: generative engineer
-2022-12-03 06:41:14 - root - INFO - ====Finished Sending data to readme====: generative engineer
-2022-12-03 06:41:27 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
-2022-12-03 06:41:30 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
-2022-12-03 06:41:30 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:41:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+designer&pn=1
-2022-12-03 06:41:31 - root - INFO - ====Finished Processing====: interactive designer
-2022-12-03 06:41:31 - root - INFO - ====Sending data to CSV file====: interactive designer
-2022-12-03 06:41:31 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
-2022-12-03 06:41:31 - root - INFO - ====Sending data to readme====: interactive designer
-2022-12-03 06:41:31 - root - INFO - ====Finished Sending data to readme====: interactive designer
-2022-12-03 06:41:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
-2022-12-03 06:41:43 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
-2022-12-03 06:41:43 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:41:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+artist&pn=1
-2022-12-03 06:41:43 - root - INFO - ====Finished Processing====: technical artist
-2022-12-03 06:41:43 - root - INFO - ====Sending data to CSV file====: technical artist
-2022-12-03 06:41:43 - root - INFO - ====Finished Sending data to CSV file====: technical artist
-2022-12-03 06:41:43 - root - INFO - ====Sending data to readme====: technical artist
-2022-12-03 06:41:43 - root - INFO - ====Finished Sending data to readme====: technical artist
-2022-12-03 06:41:57 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
-2022-12-03 06:42:00 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
-2022-12-03 06:42:00 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:42:00 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
-2022-12-03 06:42:00 - root - INFO - ====Finished Processing====: virtual reality developer
-2022-12-03 06:42:00 - root - INFO - ====Sending data to CSV file====: virtual reality developer
-2022-12-03 06:42:00 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
-2022-12-03 06:42:00 - root - INFO - ====Sending data to readme====: virtual reality developer
-2022-12-03 06:42:00 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
-2022-12-03 06:42:10 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
-2022-12-03 06:42:11 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
-2022-12-03 06:42:11 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:42:11 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+developer&pn=1
-2022-12-03 06:42:12 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+developer&pn=1
-2022-12-03 06:42:12 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:42:25 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
-2022-12-03 06:42:27 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
-2022-12-03 06:42:27 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:42:27 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+designer&pn=1
-2022-12-03 06:42:27 - root - INFO - ====Finished Processing====: sound designer
-2022-12-03 06:42:27 - root - INFO - ====Sending data to CSV file====: sound designer
-2022-12-03 06:42:27 - root - INFO - ====Finished Sending data to CSV file====: sound designer
-2022-12-03 06:42:27 - root - INFO - ====Sending data to readme====: sound designer
-2022-12-03 06:42:27 - root - INFO - ====Finished Sending data to readme====: sound designer
-2022-12-03 06:42:37 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
-2022-12-03 06:42:53 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
-2022-12-03 06:42:53 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:42:53 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=unity+developer&pn=1
-2022-12-03 06:42:53 - root - INFO - ====Finished Processing====: unity developer
-2022-12-03 06:42:53 - root - INFO - ====Sending data to CSV file====: unity developer
-2022-12-03 06:42:53 - root - INFO - ====Finished Sending data to CSV file====: unity developer
-2022-12-03 06:42:53 - root - INFO - ====Sending data to readme====: unity developer
-2022-12-03 06:42:53 - root - INFO - ====Finished Sending data to readme====: unity developer
-2022-12-03 06:43:03 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
-2022-12-03 06:43:05 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
-2022-12-03 06:43:05 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:43:05 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+designer&pn=1
-2022-12-03 06:43:05 - root - INFO - ====Finished Processing====: creative designer
-2022-12-03 06:43:05 - root - INFO - ====Sending data to CSV file====: creative designer
-2022-12-03 06:43:05 - root - INFO - ====Finished Sending data to CSV file====: creative designer
-2022-12-03 06:43:05 - root - INFO - ====Sending data to readme====: creative designer
-2022-12-03 06:43:05 - root - INFO - ====Finished Sending data to readme====: creative designer
-2022-12-03 06:43:18 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
-2022-12-03 06:43:20 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
-2022-12-03 06:43:20 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:43:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+designer&pn=1
-2022-12-03 06:43:20 - root - INFO - ====Finished Processing====: digital designer
-2022-12-03 06:43:20 - root - INFO - ====Sending data to CSV file====: digital designer
-2022-12-03 06:43:20 - root - INFO - ====Finished Sending data to CSV file====: digital designer
-2022-12-03 06:43:20 - root - INFO - ====Sending data to readme====: digital designer
-2022-12-03 06:43:20 - root - INFO - ====Finished Sending data to readme====: digital designer
-2022-12-03 06:43:27 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
-2022-12-03 06:43:29 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
-2022-12-03 06:43:29 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:43:29 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=animation+developer&pn=1
-2022-12-03 06:43:30 - root - INFO - ====Finished Processing====: animation developer
-2022-12-03 06:43:30 - root - INFO - ====Sending data to CSV file====: animation developer
-2022-12-03 06:43:30 - root - INFO - ====Finished Sending data to CSV file====: animation developer
-2022-12-03 06:43:30 - root - INFO - ====Sending data to readme====: animation developer
-2022-12-03 06:43:30 - root - INFO - ====Finished Sending data to readme====: animation developer
-2022-12-03 06:43:41 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
-2022-12-03 06:43:43 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
-2022-12-03 06:43:43 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:43:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+designer&pn=1
-2022-12-03 06:43:44 - root - INFO - ====Finished Processing====: arvr designer
-2022-12-03 06:43:44 - root - INFO - ====Sending data to CSV file====: arvr designer
-2022-12-03 06:43:44 - root - INFO - ====Finished Sending data to CSV file====: arvr designer
-2022-12-03 06:43:44 - root - INFO - ====Sending data to readme====: arvr designer
-2022-12-03 06:43:44 - root - INFO - ====Finished Sending data to readme====: arvr designer
-2022-12-03 06:43:53 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
-2022-12-03 06:43:55 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
-2022-12-03 06:43:55 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:43:55 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+developer&pn=1
-2022-12-03 06:43:55 - root - INFO - ====Finished Processing====: sound developer
-2022-12-03 06:43:55 - root - INFO - ====Sending data to CSV file====: sound developer
-2022-12-03 06:43:55 - root - INFO - ====Finished Sending data to CSV file====: sound developer
-2022-12-03 06:43:55 - root - INFO - ====Sending data to readme====: sound developer
-2022-12-03 06:43:55 - root - INFO - ====Finished Sending data to readme====: sound developer
-2022-12-03 06:44:03 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
-2022-12-03 06:44:06 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
-2022-12-03 06:44:06 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:44:06 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+coder&pn=1
-2022-12-03 06:44:06 - root - INFO - ====Finished Processing====: creative coder
-2022-12-03 06:44:06 - root - INFO - ====Sending data to CSV file====: creative coder
-2022-12-03 06:44:06 - root - INFO - ====Finished Sending data to CSV file====: creative coder
-2022-12-03 06:44:06 - root - INFO - ====Sending data to readme====: creative coder
-2022-12-03 06:44:06 - root - INFO - ====Finished Sending data to readme====: creative coder
-2022-12-03 06:44:17 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
-2022-12-03 06:44:18 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
-2022-12-03 06:44:18 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:44:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+engineer&pn=1
-2022-12-03 06:44:18 - root - INFO - ====Finished Processing====: ux engineer
-2022-12-03 06:44:18 - root - INFO - ====Sending data to CSV file====: ux engineer
-2022-12-03 06:44:18 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
-2022-12-03 06:44:18 - root - INFO - ====Sending data to readme====: ux engineer
-2022-12-03 06:44:18 - root - INFO - ====Finished Sending data to readme====: ux engineer
-2022-12-03 06:44:28 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
-2022-12-03 06:44:30 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
-2022-12-03 06:44:30 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:44:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+sound+designer&pn=1
-2022-12-03 06:44:31 - root - INFO - ====Finished Processing====: technical sound designer
-2022-12-03 06:44:31 - root - INFO - ====Sending data to CSV file====: technical sound designer
-2022-12-03 06:44:31 - root - INFO - ====Finished Sending data to CSV file====: technical sound designer
-2022-12-03 06:44:31 - root - INFO - ====Sending data to readme====: technical sound designer
-2022-12-03 06:44:31 - root - INFO - ====Finished Sending data to readme====: technical sound designer
-2022-12-03 06:44:38 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
-2022-12-03 06:44:39 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
-2022-12-03 06:44:39 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:44:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=audio+engineer&pn=1
-2022-12-03 06:44:39 - root - INFO - ====Finished Processing====: audio engineer
-2022-12-03 06:44:39 - root - INFO - ====Sending data to CSV file====: audio engineer
-2022-12-03 06:44:39 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
-2022-12-03 06:44:39 - root - INFO - ====Sending data to readme====: audio engineer
-2022-12-03 06:44:39 - root - INFO - ====Finished Sending data to readme====: audio engineer
-2022-12-03 06:44:49 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
-2022-12-03 06:44:59 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
-2022-12-03 06:44:59 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:44:59 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+platform&pn=1
-2022-12-03 06:45:00 - root - INFO - ====Finished Processing====: digital platform
-2022-12-03 06:45:00 - root - INFO - ====Sending data to CSV file====: digital platform
-2022-12-03 06:45:00 - root - INFO - ====Finished Sending data to CSV file====: digital platform
-2022-12-03 06:45:00 - root - INFO - ====Sending data to readme====: digital platform
-2022-12-03 06:45:00 - root - INFO - ====Finished Sending data to readme====: digital platform
-2022-12-03 06:45:07 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
-2022-12-03 06:45:08 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
-2022-12-03 06:45:08 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:45:08 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+designer&pn=1
-2022-12-03 06:45:09 - root - INFO - ====Finished Processing====: graphic designer
-2022-12-03 06:45:09 - root - INFO - ====Sending data to CSV file====: graphic designer
-2022-12-03 06:45:09 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
-2022-12-03 06:45:09 - root - INFO - ====Sending data to readme====: graphic designer
-2022-12-03 06:45:09 - root - INFO - ====Finished Sending data to readme====: graphic designer
-2022-12-03 06:45:16 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
-2022-12-03 06:45:24 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
-2022-12-03 06:45:24 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:45:24 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+designer&pn=1
-2022-12-03 06:45:24 - root - INFO - ====Finished Processing====: ux designer
-2022-12-03 06:45:24 - root - INFO - ====Sending data to CSV file====: ux designer
-2022-12-03 06:45:24 - root - INFO - ====Finished Sending data to CSV file====: ux designer
-2022-12-03 06:45:24 - root - INFO - ====Sending data to readme====: ux designer
-2022-12-03 06:45:24 - root - INFO - ====Finished Sending data to readme====: ux designer
-2022-12-03 06:45:31 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
-2022-12-03 06:45:33 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
-2022-12-03 06:45:33 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:45:33 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+artist&pn=1
-2022-12-03 06:45:33 - root - INFO - ====Finished Processing====: graphic artist
-2022-12-03 06:45:33 - root - INFO - ====Sending data to CSV file====: graphic artist
-2022-12-03 06:45:33 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
-2022-12-03 06:45:33 - root - INFO - ====Sending data to readme====: graphic artist
-2022-12-03 06:45:33 - root - INFO - ====Finished Sending data to readme====: graphic artist
-2022-12-03 06:45:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
-2022-12-03 06:45:43 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
-2022-12-03 06:45:43 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:45:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+artworker&pn=1
-2022-12-03 06:45:44 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+artworker&pn=1
-2022-12-03 06:45:44 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:45:54 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
-2022-12-03 06:45:57 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
-2022-12-03 06:45:57 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:45:57 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+developer&pn=1
-2022-12-03 06:45:58 - root - INFO - ====Finished Processing====: graphic developer
-2022-12-03 06:45:58 - root - INFO - ====Sending data to CSV file====: graphic developer
-2022-12-03 06:45:58 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
-2022-12-03 06:45:58 - root - INFO - ====Sending data to readme====: graphic developer
-2022-12-03 06:45:58 - root - INFO - ====Finished Sending data to readme====: graphic developer
-2022-12-03 06:46:10 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
-2022-12-03 06:46:10 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
-2022-12-03 06:46:10 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:46:10 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+designer&pn=1
-2022-12-03 06:46:11 - root - INFO - ====Finished Processing====: ui designer
-2022-12-03 06:46:11 - root - INFO - ====Sending data to CSV file====: ui designer
-2022-12-03 06:46:11 - root - INFO - ====Finished Sending data to CSV file====: ui designer
-2022-12-03 06:46:11 - root - INFO - ====Sending data to readme====: ui designer
-2022-12-03 06:46:11 - root - INFO - ====Finished Sending data to readme====: ui designer
-2022-12-03 06:46:21 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2022-12-03 06:46:32 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2022-12-03 06:46:32 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:46:32 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
-2022-12-03 06:46:33 - root - INFO - ====Finished Processing====: graphic engineer
-2022-12-03 06:46:33 - root - INFO - ====Sending data to CSV file====: graphic engineer
-2022-12-03 06:46:33 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
-2022-12-03 06:46:33 - root - INFO - ====Sending data to readme====: graphic engineer
-2022-12-03 06:46:33 - root - INFO - ====Finished Sending data to readme====: graphic engineer
-2022-12-03 06:46:47 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
-2022-12-03 06:46:48 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
-2022-12-03 06:46:48 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:46:48 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=design+developer&pn=1
-2022-12-03 06:46:48 - root - INFO - ====Finished Processing====: design developer
-2022-12-03 06:46:48 - root - INFO - ====Sending data to CSV file====: design developer
-2022-12-03 06:46:48 - root - INFO - ====Finished Sending data to CSV file====: design developer
-2022-12-03 06:46:48 - root - INFO - ====Sending data to readme====: design developer
-2022-12-03 06:46:48 - root - INFO - ====Finished Sending data to readme====: design developer
-2022-12-03 06:46:59 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
-2022-12-03 06:47:01 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
-2022-12-03 06:47:01 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:47:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+art&pn=1
-2022-12-03 06:47:01 - root - INFO - ====Finished Processing====: visual art
-2022-12-03 06:47:01 - root - INFO - ====Sending data to CSV file====: visual art
-2022-12-03 06:47:01 - root - INFO - ====Finished Sending data to CSV file====: visual art
-2022-12-03 06:47:01 - root - INFO - ====Sending data to readme====: visual art
-2022-12-03 06:47:01 - root - INFO - ====Finished Sending data to readme====: visual art
-2022-12-03 06:47:10 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
-2022-12-03 06:47:13 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
-2022-12-03 06:47:13 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:47:13 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+engineer&pn=1
-2022-12-03 06:47:13 - root - INFO - ====Finished Processing====: ui engineer
-2022-12-03 06:47:13 - root - INFO - ====Sending data to CSV file====: ui engineer
-2022-12-03 06:47:13 - root - INFO - ====Finished Sending data to CSV file====: ui engineer
-2022-12-03 06:47:13 - root - INFO - ====Sending data to readme====: ui engineer
-2022-12-03 06:47:13 - root - INFO - ====Finished Sending data to readme====: ui engineer
-2022-12-03 06:47:22 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
-2022-12-03 06:47:23 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
-2022-12-03 06:47:23 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:47:23 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+designer&pn=1
-2022-12-03 06:47:24 - root - INFO - ====Finished Processing====: 3d designer
-2022-12-03 06:47:24 - root - INFO - ====Sending data to CSV file====: 3d designer
-2022-12-03 06:47:24 - root - INFO - ====Finished Sending data to CSV file====: 3d designer
-2022-12-03 06:47:24 - root - INFO - ====Sending data to readme====: 3d designer
-2022-12-03 06:47:24 - root - INFO - ====Finished Sending data to readme====: 3d designer
-2022-12-03 06:47:34 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
-2022-12-03 06:47:39 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
-2022-12-03 06:47:39 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:47:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+effects&pn=1
-2022-12-03 06:47:39 - root - INFO - ====Finished Processing====: visual effects
-2022-12-03 06:47:39 - root - INFO - ====Sending data to CSV file====: visual effects
-2022-12-03 06:47:39 - root - INFO - ====Finished Sending data to CSV file====: visual effects
-2022-12-03 06:47:39 - root - INFO - ====Sending data to readme====: visual effects
-2022-12-03 06:47:39 - root - INFO - ====Finished Sending data to readme====: visual effects
-2022-12-03 06:47:50 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
-2022-12-03 06:47:52 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
-2022-12-03 06:47:52 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:47:52 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+developer&pn=1
-2022-12-03 06:47:53 - root - INFO - ====Finished Processing====: acoustic developer
-2022-12-03 06:47:53 - root - INFO - ====Sending data to CSV file====: acoustic developer
-2022-12-03 06:47:53 - root - INFO - ====Finished Sending data to CSV file====: acoustic developer
-2022-12-03 06:47:53 - root - INFO - ====Sending data to readme====: acoustic developer
-2022-12-03 06:47:53 - root - INFO - ====Finished Sending data to readme====: acoustic developer
-2022-12-03 06:48:06 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
-2022-12-03 06:48:12 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
-2022-12-03 06:48:12 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:48:12 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+developer&pn=1
-2022-12-03 06:48:13 - root - INFO - ====Finished Processing====: music developer
-2022-12-03 06:48:13 - root - INFO - ====Sending data to CSV file====: music developer
-2022-12-03 06:48:13 - root - INFO - ====Finished Sending data to CSV file====: music developer
-2022-12-03 06:48:13 - root - INFO - ====Sending data to readme====: music developer
-2022-12-03 06:48:13 - root - INFO - ====Finished Sending data to readme====: music developer
-2022-12-03 06:48:20 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
-2022-12-03 06:48:21 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
-2022-12-03 06:48:21 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:48:21 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+architect&pn=1
-2022-12-03 06:48:22 - root - INFO - ====Finished Processing====: visual architect
-2022-12-03 06:48:22 - root - INFO - ====Sending data to CSV file====: visual architect
-2022-12-03 06:48:22 - root - INFO - ====Finished Sending data to CSV file====: visual architect
-2022-12-03 06:48:22 - root - INFO - ====Sending data to readme====: visual architect
-2022-12-03 06:48:22 - root - INFO - ====Finished Sending data to readme====: visual architect
-2022-12-03 06:48:30 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
-2022-12-03 06:48:33 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
-2022-12-03 06:48:33 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:48:33 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=artworker&pn=1
-2022-12-03 06:48:33 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=artworker&pn=1
-2022-12-03 06:48:33 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:48:45 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
-2022-12-03 06:48:46 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
-2022-12-03 06:48:46 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:48:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+developer&pn=1
-2022-12-03 06:48:47 - root - INFO - ====Finished Processing====: 3d developer
-2022-12-03 06:48:47 - root - INFO - ====Sending data to CSV file====: 3d developer
-2022-12-03 06:48:47 - root - INFO - ====Finished Sending data to CSV file====: 3d developer
-2022-12-03 06:48:47 - root - INFO - ====Sending data to readme====: 3d developer
-2022-12-03 06:48:47 - root - INFO - ====Finished Sending data to readme====: 3d developer
-2022-12-03 06:49:01 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
-2022-12-03 06:49:03 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
-2022-12-03 06:49:03 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:49:03 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+engineer&pn=1
-2022-12-03 06:49:04 - root - INFO - ====Finished Processing====: music engineer
-2022-12-03 06:49:04 - root - INFO - ====Sending data to CSV file====: music engineer
-2022-12-03 06:49:04 - root - INFO - ====Finished Sending data to CSV file====: music engineer
-2022-12-03 06:49:04 - root - INFO - ====Sending data to readme====: music engineer
-2022-12-03 06:49:04 - root - INFO - ====Finished Sending data to readme====: music engineer
-2022-12-03 06:49:17 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
-2022-12-03 06:49:18 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
-2022-12-03 06:49:18 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:49:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+engineer&pn=1
-2022-12-03 06:49:18 - root - INFO - ====Finished Processing====: acoustic engineer
-2022-12-03 06:49:18 - root - INFO - ====Sending data to CSV file====: acoustic engineer
-2022-12-03 06:49:18 - root - INFO - ====Finished Sending data to CSV file====: acoustic engineer
-2022-12-03 06:49:18 - root - INFO - ====Sending data to readme====: acoustic engineer
-2022-12-03 06:49:18 - root - INFO - ====Finished Sending data to readme====: acoustic engineer
-2022-12-03 06:49:29 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
-2022-12-03 06:49:30 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
-2022-12-03 06:49:30 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:49:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+engineer&pn=1
-2022-12-03 06:49:31 - root - INFO - ====Finished Processing====: visual engineer
-2022-12-03 06:49:31 - root - INFO - ====Sending data to CSV file====: visual engineer
-2022-12-03 06:49:31 - root - INFO - ====Finished Sending data to CSV file====: visual engineer
-2022-12-03 06:49:31 - root - INFO - ====Sending data to readme====: visual engineer
-2022-12-03 06:49:31 - root - INFO - ====Finished Sending data to readme====: visual engineer
-2022-12-03 06:49:38 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
-2022-12-03 06:49:44 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
-2022-12-03 06:49:44 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:49:44 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+design&pn=1
-2022-12-03 06:49:44 - root - INFO - ====Finished Processing====: generative design
-2022-12-03 06:49:44 - root - INFO - ====Sending data to CSV file====: generative design
-2022-12-03 06:49:44 - root - INFO - ====Finished Sending data to CSV file====: generative design
-2022-12-03 06:49:44 - root - INFO - ====Sending data to readme====: generative design
-2022-12-03 06:49:44 - root - INFO - ====Finished Sending data to readme====: generative design
-2022-12-03 06:49:58 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
-2022-12-03 06:50:04 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
-2022-12-03 06:50:04 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:50:04 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+engineer&pn=1
-2022-12-03 06:50:05 - root - INFO - ====Finished Processing====: vfx engineer
-2022-12-03 06:50:05 - root - INFO - ====Sending data to CSV file====: vfx engineer
-2022-12-03 06:50:05 - root - INFO - ====Finished Sending data to CSV file====: vfx engineer
-2022-12-03 06:50:05 - root - INFO - ====Sending data to readme====: vfx engineer
-2022-12-03 06:50:05 - root - INFO - ====Finished Sending data to readme====: vfx engineer
-2022-12-03 06:50:18 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
-2022-12-03 06:50:22 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
-2022-12-03 06:50:22 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:50:22 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=junior+designer&pn=1
-2022-12-03 06:50:23 - root - INFO - ====Finished Processing====: junior designer
-2022-12-03 06:50:23 - root - INFO - ====Sending data to CSV file====: junior designer
-2022-12-03 06:50:23 - root - INFO - ====Finished Sending data to CSV file====: junior designer
-2022-12-03 06:50:23 - root - INFO - ====Sending data to readme====: junior designer
-2022-12-03 06:50:23 - root - INFO - ====Finished Sending data to readme====: junior designer
-2022-12-03 06:50:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
-2022-12-03 06:50:33 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
-2022-12-03 06:50:33 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:50:33 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programming&pn=1
-2022-12-03 06:50:34 - root - INFO - ====Finished Processing====: creative programming
-2022-12-03 06:50:34 - root - INFO - ====Sending data to CSV file====: creative programming
-2022-12-03 06:50:34 - root - INFO - ====Finished Sending data to CSV file====: creative programming
-2022-12-03 06:50:34 - root - INFO - ====Sending data to readme====: creative programming
-2022-12-03 06:50:34 - root - INFO - ====Finished Sending data to readme====: creative programming
-2022-12-03 06:50:45 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
-2022-12-03 06:50:48 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
-2022-12-03 06:50:48 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:50:48 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=frontend+engineer&pn=1
-2022-12-03 06:50:49 - root - INFO - ====Finished Processing====: frontend engineer
-2022-12-03 06:50:49 - root - INFO - ====Sending data to CSV file====: frontend engineer
-2022-12-03 06:50:49 - root - INFO - ====Finished Sending data to CSV file====: frontend engineer
-2022-12-03 06:50:49 - root - INFO - ====Sending data to readme====: frontend engineer
-2022-12-03 06:50:49 - root - INFO - ====Finished Sending data to readme====: frontend engineer
-2022-12-03 06:50:57 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
-2022-12-03 06:51:00 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
-2022-12-03 06:51:00 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:51:00 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programmer&pn=1
-2022-12-03 06:51:00 - root - INFO - ====Finished Processing====: creative programmer
-2022-12-03 06:51:00 - root - INFO - ====Sending data to CSV file====: creative programmer
-2022-12-03 06:51:00 - root - INFO - ====Finished Sending data to CSV file====: creative programmer
-2022-12-03 06:51:00 - root - INFO - ====Sending data to readme====: creative programmer
-2022-12-03 06:51:00 - root - INFO - ====Finished Sending data to readme====: creative programmer
-2022-12-03 06:51:07 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
-2022-12-03 06:51:07 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
-2022-12-03 06:51:07 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:51:07 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=senior+designer&pn=1
-2022-12-03 06:51:08 - root - INFO - ====Finished Processing====: senior designer
-2022-12-03 06:51:08 - root - INFO - ====Sending data to CSV file====: senior designer
-2022-12-03 06:51:08 - root - INFO - ====Finished Sending data to CSV file====: senior designer
-2022-12-03 06:51:08 - root - INFO - ====Sending data to readme====: senior designer
-2022-12-03 06:51:08 - root - INFO - ====Finished Sending data to readme====: senior designer
-2022-12-03 06:51:22 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
-2022-12-03 06:51:28 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
-2022-12-03 06:51:28 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:51:28 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustical+engineering&pn=1
-2022-12-03 06:51:28 - root - INFO - ====Finished Processing====: acoustical engineering
-2022-12-03 06:51:28 - root - INFO - ====Sending data to CSV file====: acoustical engineering
-2022-12-03 06:51:28 - root - INFO - ====Finished Sending data to CSV file====: acoustical engineering
-2022-12-03 06:51:28 - root - INFO - ====Sending data to readme====: acoustical engineering
-2022-12-03 06:51:28 - root - INFO - ====Finished Sending data to readme====: acoustical engineering
-2022-12-03 06:51:39 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
-2022-12-03 06:51:43 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
-2022-12-03 06:51:43 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:51:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+designer&pn=1
-2022-12-03 06:51:43 - root - INFO - ====Finished Processing====: vfx designer
-2022-12-03 06:51:43 - root - INFO - ====Sending data to CSV file====: vfx designer
-2022-12-03 06:51:43 - root - INFO - ====Finished Sending data to CSV file====: vfx designer
-2022-12-03 06:51:43 - root - INFO - ====Sending data to readme====: vfx designer
-2022-12-03 06:51:43 - root - INFO - ====Finished Sending data to readme====: vfx designer
-2022-12-03 06:51:54 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
-2022-12-03 06:51:56 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
-2022-12-03 06:51:56 - root - INFO - Break here, now go to next loop(next page)
-2022-12-03 06:51:56 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+engineer&pn=1
-2022-12-03 06:51:57 - root - INFO - ====Finished Processing====: 3d engineer
-2022-12-03 06:51:57 - root - INFO - ====Sending data to CSV file====: 3d engineer
-2022-12-03 06:51:57 - root - INFO - ====Finished Sending data to CSV file====: 3d engineer
-2022-12-03 06:51:57 - root - INFO - ====Sending data to readme====: 3d engineer
-2022-12-03 06:51:57 - root - INFO - ====Finished Sending data to readme====: 3d engineer
+2022-12-04 06:39:26 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
+2022-12-04 06:39:27 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
+2022-12-04 06:39:27 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:39:27 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+developer&pn=1
+2022-12-04 06:39:28 - root - INFO - ====Finished Processing====: creative developer
+2022-12-04 06:39:28 - root - INFO - ====Sending data to CSV file====: creative developer
+2022-12-04 06:39:28 - root - INFO - ====Finished Sending data to CSV file====: creative developer
+2022-12-04 06:39:28 - root - INFO - ====Sending data to readme====: creative developer
+2022-12-04 06:39:28 - root - INFO - ====Finished Sending data to readme====: creative developer
+2022-12-04 06:39:38 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
+2022-12-04 06:39:39 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
+2022-12-04 06:39:39 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:39:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+art&pn=1
+2022-12-04 06:39:39 - root - INFO - ====Finished Processing====: generative art
+2022-12-04 06:39:39 - root - INFO - ====Sending data to CSV file====: generative art
+2022-12-04 06:39:39 - root - INFO - ====Finished Sending data to CSV file====: generative art
+2022-12-04 06:39:39 - root - INFO - ====Sending data to readme====: generative art
+2022-12-04 06:39:39 - root - INFO - ====Finished Sending data to readme====: generative art
+2022-12-04 06:39:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
+2022-12-04 06:39:48 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
+2022-12-04 06:39:48 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:39:48 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+developer&pn=1
+2022-12-04 06:39:48 - root - INFO - ====Finished Processing====: digital developer
+2022-12-04 06:39:48 - root - INFO - ====Sending data to CSV file====: digital developer
+2022-12-04 06:39:48 - root - INFO - ====Finished Sending data to CSV file====: digital developer
+2022-12-04 06:39:48 - root - INFO - ====Sending data to readme====: digital developer
+2022-12-04 06:39:48 - root - INFO - ====Finished Sending data to readme====: digital developer
+2022-12-04 06:39:56 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
+2022-12-04 06:39:57 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
+2022-12-04 06:39:57 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:39:57 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+artist&pn=1
+2022-12-04 06:39:58 - root - INFO - ====Finished Processing====: generative artist
+2022-12-04 06:39:58 - root - INFO - ====Sending data to CSV file====: generative artist
+2022-12-04 06:39:58 - root - INFO - ====Finished Sending data to CSV file====: generative artist
+2022-12-04 06:39:58 - root - INFO - ====Sending data to readme====: generative artist
+2022-12-04 06:39:58 - root - INFO - ====Finished Sending data to readme====: generative artist
+2022-12-04 06:40:06 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
+2022-12-04 06:40:07 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
+2022-12-04 06:40:07 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:40:07 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+developer&pn=1
+2022-12-04 06:40:07 - root - INFO - ====Finished Processing====: interactive developer
+2022-12-04 06:40:07 - root - INFO - ====Sending data to CSV file====: interactive developer
+2022-12-04 06:40:07 - root - INFO - ====Finished Sending data to CSV file====: interactive developer
+2022-12-04 06:40:07 - root - INFO - ====Sending data to readme====: interactive developer
+2022-12-04 06:40:07 - root - INFO - ====Finished Sending data to readme====: interactive developer
+2022-12-04 06:40:21 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
+2022-12-04 06:40:21 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
+2022-12-04 06:40:21 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:40:21 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+designer&pn=1
+2022-12-04 06:40:22 - root - INFO - ====Finished Processing====: generative designer
+2022-12-04 06:40:22 - root - INFO - ====Sending data to CSV file====: generative designer
+2022-12-04 06:40:22 - root - INFO - ====Finished Sending data to CSV file====: generative designer
+2022-12-04 06:40:22 - root - INFO - ====Sending data to readme====: generative designer
+2022-12-04 06:40:22 - root - INFO - ====Finished Sending data to readme====: generative designer
+2022-12-04 06:40:35 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2022-12-04 06:40:36 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2022-12-04 06:40:36 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:40:36 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2022-12-04 06:40:37 - root - INFO - ====Finished Processing====: graphic engineer
+2022-12-04 06:40:37 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2022-12-04 06:40:37 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2022-12-04 06:40:37 - root - INFO - ====Sending data to readme====: graphic engineer
+2022-12-04 06:40:37 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2022-12-04 06:40:49 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
+2022-12-04 06:40:50 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
+2022-12-04 06:40:50 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:40:50 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+engineer&pn=1
+2022-12-04 06:40:51 - root - INFO - ====Finished Processing====: generative engineer
+2022-12-04 06:40:51 - root - INFO - ====Sending data to CSV file====: generative engineer
+2022-12-04 06:40:51 - root - INFO - ====Finished Sending data to CSV file====: generative engineer
+2022-12-04 06:40:51 - root - INFO - ====Sending data to readme====: generative engineer
+2022-12-04 06:40:51 - root - INFO - ====Finished Sending data to readme====: generative engineer
+2022-12-04 06:41:03 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
+2022-12-04 06:41:04 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
+2022-12-04 06:41:04 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:41:04 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+designer&pn=1
+2022-12-04 06:41:05 - root - INFO - ====Finished Processing====: interactive designer
+2022-12-04 06:41:05 - root - INFO - ====Sending data to CSV file====: interactive designer
+2022-12-04 06:41:05 - root - INFO - ====Finished Sending data to CSV file====: interactive designer
+2022-12-04 06:41:05 - root - INFO - ====Sending data to readme====: interactive designer
+2022-12-04 06:41:05 - root - INFO - ====Finished Sending data to readme====: interactive designer
+2022-12-04 06:41:16 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
+2022-12-04 06:41:17 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
+2022-12-04 06:41:17 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:41:17 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+artist&pn=1
+2022-12-04 06:41:17 - root - INFO - ====Finished Processing====: technical artist
+2022-12-04 06:41:17 - root - INFO - ====Sending data to CSV file====: technical artist
+2022-12-04 06:41:17 - root - INFO - ====Finished Sending data to CSV file====: technical artist
+2022-12-04 06:41:17 - root - INFO - ====Sending data to readme====: technical artist
+2022-12-04 06:41:17 - root - INFO - ====Finished Sending data to readme====: technical artist
+2022-12-04 06:41:28 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
+2022-12-04 06:41:30 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
+2022-12-04 06:41:30 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:41:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
+2022-12-04 06:41:30 - root - INFO - ====Finished Processing====: virtual reality developer
+2022-12-04 06:41:30 - root - INFO - ====Sending data to CSV file====: virtual reality developer
+2022-12-04 06:41:30 - root - INFO - ====Finished Sending data to CSV file====: virtual reality developer
+2022-12-04 06:41:30 - root - INFO - ====Sending data to readme====: virtual reality developer
+2022-12-04 06:41:30 - root - INFO - ====Finished Sending data to readme====: virtual reality developer
+2022-12-04 06:41:44 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
+2022-12-04 06:41:45 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
+2022-12-04 06:41:45 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:41:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+developer&pn=1
+2022-12-04 06:41:46 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+developer&pn=1
+2022-12-04 06:41:46 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:41:56 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
+2022-12-04 06:41:57 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
+2022-12-04 06:41:57 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:41:57 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+designer&pn=1
+2022-12-04 06:41:57 - root - INFO - ====Finished Processing====: sound designer
+2022-12-04 06:41:57 - root - INFO - ====Sending data to CSV file====: sound designer
+2022-12-04 06:41:57 - root - INFO - ====Finished Sending data to CSV file====: sound designer
+2022-12-04 06:41:57 - root - INFO - ====Sending data to readme====: sound designer
+2022-12-04 06:41:57 - root - INFO - ====Finished Sending data to readme====: sound designer
+2022-12-04 06:42:11 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
+2022-12-04 06:42:12 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
+2022-12-04 06:42:12 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:42:12 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=unity+developer&pn=1
+2022-12-04 06:42:13 - root - INFO - ====Finished Processing====: unity developer
+2022-12-04 06:42:13 - root - INFO - ====Sending data to CSV file====: unity developer
+2022-12-04 06:42:13 - root - INFO - ====Finished Sending data to CSV file====: unity developer
+2022-12-04 06:42:13 - root - INFO - ====Sending data to readme====: unity developer
+2022-12-04 06:42:13 - root - INFO - ====Finished Sending data to readme====: unity developer
+2022-12-04 06:42:21 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
+2022-12-04 06:42:22 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
+2022-12-04 06:42:22 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:42:22 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+designer&pn=1
+2022-12-04 06:42:23 - root - INFO - ====Finished Processing====: creative designer
+2022-12-04 06:42:23 - root - INFO - ====Sending data to CSV file====: creative designer
+2022-12-04 06:42:23 - root - INFO - ====Finished Sending data to CSV file====: creative designer
+2022-12-04 06:42:23 - root - INFO - ====Sending data to readme====: creative designer
+2022-12-04 06:42:23 - root - INFO - ====Finished Sending data to readme====: creative designer
+2022-12-04 06:42:30 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
+2022-12-04 06:42:31 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
+2022-12-04 06:42:31 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:42:31 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+designer&pn=1
+2022-12-04 06:42:32 - root - INFO - ====Finished Processing====: digital designer
+2022-12-04 06:42:32 - root - INFO - ====Sending data to CSV file====: digital designer
+2022-12-04 06:42:32 - root - INFO - ====Finished Sending data to CSV file====: digital designer
+2022-12-04 06:42:32 - root - INFO - ====Sending data to readme====: digital designer
+2022-12-04 06:42:32 - root - INFO - ====Finished Sending data to readme====: digital designer
+2022-12-04 06:42:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
+2022-12-04 06:42:43 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
+2022-12-04 06:42:43 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:42:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=animation+developer&pn=1
+2022-12-04 06:42:44 - root - INFO - ====Finished Processing====: animation developer
+2022-12-04 06:42:44 - root - INFO - ====Sending data to CSV file====: animation developer
+2022-12-04 06:42:44 - root - INFO - ====Finished Sending data to CSV file====: animation developer
+2022-12-04 06:42:44 - root - INFO - ====Sending data to readme====: animation developer
+2022-12-04 06:42:44 - root - INFO - ====Finished Sending data to readme====: animation developer
+2022-12-04 06:42:54 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
+2022-12-04 06:42:55 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
+2022-12-04 06:42:55 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:42:55 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+designer&pn=1
+2022-12-04 06:42:55 - root - INFO - ====Finished Processing====: arvr designer
+2022-12-04 06:42:55 - root - INFO - ====Sending data to CSV file====: arvr designer
+2022-12-04 06:42:55 - root - INFO - ====Finished Sending data to CSV file====: arvr designer
+2022-12-04 06:42:55 - root - INFO - ====Sending data to readme====: arvr designer
+2022-12-04 06:42:55 - root - INFO - ====Finished Sending data to readme====: arvr designer
+2022-12-04 06:43:08 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
+2022-12-04 06:43:09 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
+2022-12-04 06:43:09 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:43:09 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+developer&pn=1
+2022-12-04 06:43:09 - root - INFO - ====Finished Processing====: sound developer
+2022-12-04 06:43:09 - root - INFO - ====Sending data to CSV file====: sound developer
+2022-12-04 06:43:09 - root - INFO - ====Finished Sending data to CSV file====: sound developer
+2022-12-04 06:43:09 - root - INFO - ====Sending data to readme====: sound developer
+2022-12-04 06:43:09 - root - INFO - ====Finished Sending data to readme====: sound developer
+2022-12-04 06:43:20 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
+2022-12-04 06:43:21 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
+2022-12-04 06:43:21 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:43:21 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+coder&pn=1
+2022-12-04 06:43:22 - root - INFO - ====Finished Processing====: creative coder
+2022-12-04 06:43:22 - root - INFO - ====Sending data to CSV file====: creative coder
+2022-12-04 06:43:22 - root - INFO - ====Finished Sending data to CSV file====: creative coder
+2022-12-04 06:43:22 - root - INFO - ====Sending data to readme====: creative coder
+2022-12-04 06:43:22 - root - INFO - ====Finished Sending data to readme====: creative coder
+2022-12-04 06:43:35 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
+2022-12-04 06:43:37 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
+2022-12-04 06:43:37 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:43:37 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+engineer&pn=1
+2022-12-04 06:43:37 - root - INFO - ====Finished Processing====: ux engineer
+2022-12-04 06:43:37 - root - INFO - ====Sending data to CSV file====: ux engineer
+2022-12-04 06:43:37 - root - INFO - ====Finished Sending data to CSV file====: ux engineer
+2022-12-04 06:43:37 - root - INFO - ====Sending data to readme====: ux engineer
+2022-12-04 06:43:37 - root - INFO - ====Finished Sending data to readme====: ux engineer
+2022-12-04 06:43:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
+2022-12-04 06:43:47 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
+2022-12-04 06:43:47 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:43:47 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+sound+designer&pn=1
+2022-12-04 06:43:49 - root - INFO - ====Finished Processing====: technical sound designer
+2022-12-04 06:43:49 - root - INFO - ====Sending data to CSV file====: technical sound designer
+2022-12-04 06:43:49 - root - INFO - ====Finished Sending data to CSV file====: technical sound designer
+2022-12-04 06:43:49 - root - INFO - ====Sending data to readme====: technical sound designer
+2022-12-04 06:43:49 - root - INFO - ====Finished Sending data to readme====: technical sound designer
+2022-12-04 06:44:01 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
+2022-12-04 06:44:26 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
+2022-12-04 06:44:26 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:44:26 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=audio+engineer&pn=1
+2022-12-04 06:44:27 - root - INFO - ====Finished Processing====: audio engineer
+2022-12-04 06:44:27 - root - INFO - ====Sending data to CSV file====: audio engineer
+2022-12-04 06:44:27 - root - INFO - ====Finished Sending data to CSV file====: audio engineer
+2022-12-04 06:44:27 - root - INFO - ====Sending data to readme====: audio engineer
+2022-12-04 06:44:27 - root - INFO - ====Finished Sending data to readme====: audio engineer
+2022-12-04 06:44:36 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
+2022-12-04 06:44:39 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
+2022-12-04 06:44:39 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:44:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+platform&pn=1
+2022-12-04 06:44:40 - root - INFO - ====Finished Processing====: digital platform
+2022-12-04 06:44:40 - root - INFO - ====Sending data to CSV file====: digital platform
+2022-12-04 06:44:40 - root - INFO - ====Finished Sending data to CSV file====: digital platform
+2022-12-04 06:44:40 - root - INFO - ====Sending data to readme====: digital platform
+2022-12-04 06:44:40 - root - INFO - ====Finished Sending data to readme====: digital platform
+2022-12-04 06:44:51 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
+2022-12-04 06:44:54 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
+2022-12-04 06:44:54 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:44:54 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+designer&pn=1
+2022-12-04 06:44:55 - root - INFO - ====Finished Processing====: graphic designer
+2022-12-04 06:44:55 - root - INFO - ====Sending data to CSV file====: graphic designer
+2022-12-04 06:44:55 - root - INFO - ====Finished Sending data to CSV file====: graphic designer
+2022-12-04 06:44:55 - root - INFO - ====Sending data to readme====: graphic designer
+2022-12-04 06:44:55 - root - INFO - ====Finished Sending data to readme====: graphic designer
+2022-12-04 06:45:09 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
+2022-12-04 06:45:25 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
+2022-12-04 06:45:25 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:45:25 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+designer&pn=1
+2022-12-04 06:45:26 - root - INFO - ====Finished Processing====: ux designer
+2022-12-04 06:45:26 - root - INFO - ====Sending data to CSV file====: ux designer
+2022-12-04 06:45:26 - root - INFO - ====Finished Sending data to CSV file====: ux designer
+2022-12-04 06:45:26 - root - INFO - ====Sending data to readme====: ux designer
+2022-12-04 06:45:26 - root - INFO - ====Finished Sending data to readme====: ux designer
+2022-12-04 06:45:38 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
+2022-12-04 06:45:42 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
+2022-12-04 06:45:42 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:45:42 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+artist&pn=1
+2022-12-04 06:45:43 - root - INFO - ====Finished Processing====: graphic artist
+2022-12-04 06:45:43 - root - INFO - ====Sending data to CSV file====: graphic artist
+2022-12-04 06:45:43 - root - INFO - ====Finished Sending data to CSV file====: graphic artist
+2022-12-04 06:45:43 - root - INFO - ====Sending data to readme====: graphic artist
+2022-12-04 06:45:43 - root - INFO - ====Finished Sending data to readme====: graphic artist
+2022-12-04 06:45:56 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
+2022-12-04 06:46:04 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
+2022-12-04 06:46:04 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:46:04 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+artworker&pn=1
+2022-12-04 06:46:05 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+artworker&pn=1
+2022-12-04 06:46:05 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:46:16 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
+2022-12-04 06:46:17 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
+2022-12-04 06:46:17 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:46:17 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+developer&pn=1
+2022-12-04 06:46:18 - root - INFO - ====Finished Processing====: graphic developer
+2022-12-04 06:46:18 - root - INFO - ====Sending data to CSV file====: graphic developer
+2022-12-04 06:46:18 - root - INFO - ====Finished Sending data to CSV file====: graphic developer
+2022-12-04 06:46:18 - root - INFO - ====Sending data to readme====: graphic developer
+2022-12-04 06:46:18 - root - INFO - ====Finished Sending data to readme====: graphic developer
+2022-12-04 06:46:27 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
+2022-12-04 06:46:28 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
+2022-12-04 06:46:28 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:46:28 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+designer&pn=1
+2022-12-04 06:46:29 - root - INFO - ====Finished Processing====: ui designer
+2022-12-04 06:46:29 - root - INFO - ====Sending data to CSV file====: ui designer
+2022-12-04 06:46:29 - root - INFO - ====Finished Sending data to CSV file====: ui designer
+2022-12-04 06:46:29 - root - INFO - ====Sending data to readme====: ui designer
+2022-12-04 06:46:29 - root - INFO - ====Finished Sending data to readme====: ui designer
+2022-12-04 06:46:36 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2022-12-04 06:46:37 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2022-12-04 06:46:37 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:46:37 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2022-12-04 06:46:38 - root - INFO - ====Finished Processing====: graphic engineer
+2022-12-04 06:46:38 - root - INFO - ====Sending data to CSV file====: graphic engineer
+2022-12-04 06:46:38 - root - INFO - ====Finished Sending data to CSV file====: graphic engineer
+2022-12-04 06:46:38 - root - INFO - ====Sending data to readme====: graphic engineer
+2022-12-04 06:46:38 - root - INFO - ====Finished Sending data to readme====: graphic engineer
+2022-12-04 06:46:45 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
+2022-12-04 06:46:51 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
+2022-12-04 06:46:51 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:46:51 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=design+developer&pn=1
+2022-12-04 06:46:51 - root - INFO - ====Finished Processing====: design developer
+2022-12-04 06:46:51 - root - INFO - ====Sending data to CSV file====: design developer
+2022-12-04 06:46:51 - root - INFO - ====Finished Sending data to CSV file====: design developer
+2022-12-04 06:46:51 - root - INFO - ====Sending data to readme====: design developer
+2022-12-04 06:46:51 - root - INFO - ====Finished Sending data to readme====: design developer
+2022-12-04 06:47:01 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
+2022-12-04 06:47:03 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
+2022-12-04 06:47:03 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:47:03 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+art&pn=1
+2022-12-04 06:47:03 - root - INFO - ====Finished Processing====: visual art
+2022-12-04 06:47:03 - root - INFO - ====Sending data to CSV file====: visual art
+2022-12-04 06:47:03 - root - INFO - ====Finished Sending data to CSV file====: visual art
+2022-12-04 06:47:03 - root - INFO - ====Sending data to readme====: visual art
+2022-12-04 06:47:03 - root - INFO - ====Finished Sending data to readme====: visual art
+2022-12-04 06:47:13 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
+2022-12-04 06:47:16 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
+2022-12-04 06:47:16 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:47:16 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+engineer&pn=1
+2022-12-04 06:47:16 - root - INFO - ====Finished Processing====: ui engineer
+2022-12-04 06:47:16 - root - INFO - ====Sending data to CSV file====: ui engineer
+2022-12-04 06:47:16 - root - INFO - ====Finished Sending data to CSV file====: ui engineer
+2022-12-04 06:47:16 - root - INFO - ====Sending data to readme====: ui engineer
+2022-12-04 06:47:16 - root - INFO - ====Finished Sending data to readme====: ui engineer
+2022-12-04 06:47:27 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
+2022-12-04 06:47:29 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
+2022-12-04 06:47:29 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:47:29 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+designer&pn=1
+2022-12-04 06:47:30 - root - INFO - ====Finished Processing====: 3d designer
+2022-12-04 06:47:30 - root - INFO - ====Sending data to CSV file====: 3d designer
+2022-12-04 06:47:30 - root - INFO - ====Finished Sending data to CSV file====: 3d designer
+2022-12-04 06:47:30 - root - INFO - ====Sending data to readme====: 3d designer
+2022-12-04 06:47:30 - root - INFO - ====Finished Sending data to readme====: 3d designer
+2022-12-04 06:47:44 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
+2022-12-04 06:47:46 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
+2022-12-04 06:47:46 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:47:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+effects&pn=1
+2022-12-04 06:47:47 - root - INFO - ====Finished Processing====: visual effects
+2022-12-04 06:47:47 - root - INFO - ====Sending data to CSV file====: visual effects
+2022-12-04 06:47:47 - root - INFO - ====Finished Sending data to CSV file====: visual effects
+2022-12-04 06:47:47 - root - INFO - ====Sending data to readme====: visual effects
+2022-12-04 06:47:47 - root - INFO - ====Finished Sending data to readme====: visual effects
+2022-12-04 06:47:58 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
+2022-12-04 06:48:00 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
+2022-12-04 06:48:00 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:48:00 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+developer&pn=1
+2022-12-04 06:48:01 - root - INFO - ====Finished Processing====: acoustic developer
+2022-12-04 06:48:01 - root - INFO - ====Sending data to CSV file====: acoustic developer
+2022-12-04 06:48:01 - root - INFO - ====Finished Sending data to CSV file====: acoustic developer
+2022-12-04 06:48:01 - root - INFO - ====Sending data to readme====: acoustic developer
+2022-12-04 06:48:01 - root - INFO - ====Finished Sending data to readme====: acoustic developer
+2022-12-04 06:48:13 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
+2022-12-04 06:48:30 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
+2022-12-04 06:48:30 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:48:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+developer&pn=1
+2022-12-04 06:48:31 - root - INFO - ====Finished Processing====: music developer
+2022-12-04 06:48:31 - root - INFO - ====Sending data to CSV file====: music developer
+2022-12-04 06:48:31 - root - INFO - ====Finished Sending data to CSV file====: music developer
+2022-12-04 06:48:31 - root - INFO - ====Sending data to readme====: music developer
+2022-12-04 06:48:31 - root - INFO - ====Finished Sending data to readme====: music developer
+2022-12-04 06:48:39 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
+2022-12-04 06:48:47 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
+2022-12-04 06:48:47 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:48:47 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+architect&pn=1
+2022-12-04 06:48:47 - root - INFO - ====Finished Processing====: visual architect
+2022-12-04 06:48:47 - root - INFO - ====Sending data to CSV file====: visual architect
+2022-12-04 06:48:47 - root - INFO - ====Finished Sending data to CSV file====: visual architect
+2022-12-04 06:48:47 - root - INFO - ====Sending data to readme====: visual architect
+2022-12-04 06:48:47 - root - INFO - ====Finished Sending data to readme====: visual architect
+2022-12-04 06:48:55 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
+2022-12-04 06:48:56 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
+2022-12-04 06:48:56 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:48:56 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=artworker&pn=1
+2022-12-04 06:48:56 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=artworker&pn=1
+2022-12-04 06:48:56 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:49:04 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
+2022-12-04 06:49:05 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
+2022-12-04 06:49:05 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:49:05 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+developer&pn=1
+2022-12-04 06:49:06 - root - INFO - ====Finished Processing====: 3d developer
+2022-12-04 06:49:06 - root - INFO - ====Sending data to CSV file====: 3d developer
+2022-12-04 06:49:06 - root - INFO - ====Finished Sending data to CSV file====: 3d developer
+2022-12-04 06:49:06 - root - INFO - ====Sending data to readme====: 3d developer
+2022-12-04 06:49:06 - root - INFO - ====Finished Sending data to readme====: 3d developer
+2022-12-04 06:49:14 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
+2022-12-04 06:49:16 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
+2022-12-04 06:49:16 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:49:16 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+engineer&pn=1
+2022-12-04 06:49:16 - root - INFO - ====Finished Processing====: music engineer
+2022-12-04 06:49:16 - root - INFO - ====Sending data to CSV file====: music engineer
+2022-12-04 06:49:16 - root - INFO - ====Finished Sending data to CSV file====: music engineer
+2022-12-04 06:49:16 - root - INFO - ====Sending data to readme====: music engineer
+2022-12-04 06:49:16 - root - INFO - ====Finished Sending data to readme====: music engineer
+2022-12-04 06:49:24 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
+2022-12-04 06:49:26 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
+2022-12-04 06:49:26 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:49:26 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+engineer&pn=1
+2022-12-04 06:49:26 - root - INFO - ====Finished Processing====: acoustic engineer
+2022-12-04 06:49:26 - root - INFO - ====Sending data to CSV file====: acoustic engineer
+2022-12-04 06:49:26 - root - INFO - ====Finished Sending data to CSV file====: acoustic engineer
+2022-12-04 06:49:26 - root - INFO - ====Sending data to readme====: acoustic engineer
+2022-12-04 06:49:26 - root - INFO - ====Finished Sending data to readme====: acoustic engineer
+2022-12-04 06:49:34 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
+2022-12-04 06:49:35 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
+2022-12-04 06:49:35 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:49:35 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+engineer&pn=1
+2022-12-04 06:49:36 - root - INFO - ====Finished Processing====: visual engineer
+2022-12-04 06:49:36 - root - INFO - ====Sending data to CSV file====: visual engineer
+2022-12-04 06:49:36 - root - INFO - ====Finished Sending data to CSV file====: visual engineer
+2022-12-04 06:49:36 - root - INFO - ====Sending data to readme====: visual engineer
+2022-12-04 06:49:36 - root - INFO - ====Finished Sending data to readme====: visual engineer
+2022-12-04 06:49:43 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
+2022-12-04 06:49:49 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
+2022-12-04 06:49:49 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:49:49 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+design&pn=1
+2022-12-04 06:49:50 - root - INFO - ====Finished Processing====: generative design
+2022-12-04 06:49:50 - root - INFO - ====Sending data to CSV file====: generative design
+2022-12-04 06:49:50 - root - INFO - ====Finished Sending data to CSV file====: generative design
+2022-12-04 06:49:50 - root - INFO - ====Sending data to readme====: generative design
+2022-12-04 06:49:50 - root - INFO - ====Finished Sending data to readme====: generative design
+2022-12-04 06:50:01 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
+2022-12-04 06:50:02 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
+2022-12-04 06:50:02 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:50:02 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+engineer&pn=1
+2022-12-04 06:50:02 - root - INFO - ====Finished Processing====: vfx engineer
+2022-12-04 06:50:02 - root - INFO - ====Sending data to CSV file====: vfx engineer
+2022-12-04 06:50:02 - root - INFO - ====Finished Sending data to CSV file====: vfx engineer
+2022-12-04 06:50:02 - root - INFO - ====Sending data to readme====: vfx engineer
+2022-12-04 06:50:02 - root - INFO - ====Finished Sending data to readme====: vfx engineer
+2022-12-04 06:50:13 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
+2022-12-04 06:50:26 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
+2022-12-04 06:50:26 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:50:26 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=junior+designer&pn=1
+2022-12-04 06:50:26 - root - INFO - ====Finished Processing====: junior designer
+2022-12-04 06:50:26 - root - INFO - ====Sending data to CSV file====: junior designer
+2022-12-04 06:50:26 - root - INFO - ====Finished Sending data to CSV file====: junior designer
+2022-12-04 06:50:26 - root - INFO - ====Sending data to readme====: junior designer
+2022-12-04 06:50:26 - root - INFO - ====Finished Sending data to readme====: junior designer
+2022-12-04 06:50:34 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
+2022-12-04 06:50:36 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
+2022-12-04 06:50:36 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:50:36 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programming&pn=1
+2022-12-04 06:50:37 - root - INFO - ====Finished Processing====: creative programming
+2022-12-04 06:50:37 - root - INFO - ====Sending data to CSV file====: creative programming
+2022-12-04 06:50:37 - root - INFO - ====Finished Sending data to CSV file====: creative programming
+2022-12-04 06:50:37 - root - INFO - ====Sending data to readme====: creative programming
+2022-12-04 06:50:37 - root - INFO - ====Finished Sending data to readme====: creative programming
+2022-12-04 06:50:49 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
+2022-12-04 06:50:50 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
+2022-12-04 06:50:50 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:50:50 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=frontend+engineer&pn=1
+2022-12-04 06:50:51 - root - INFO - ====Finished Processing====: frontend engineer
+2022-12-04 06:50:51 - root - INFO - ====Sending data to CSV file====: frontend engineer
+2022-12-04 06:50:51 - root - INFO - ====Finished Sending data to CSV file====: frontend engineer
+2022-12-04 06:50:51 - root - INFO - ====Sending data to readme====: frontend engineer
+2022-12-04 06:50:51 - root - INFO - ====Finished Sending data to readme====: frontend engineer
+2022-12-04 06:50:59 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
+2022-12-04 06:51:09 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
+2022-12-04 06:51:09 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:51:09 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programmer&pn=1
+2022-12-04 06:51:10 - root - INFO - ====Finished Processing====: creative programmer
+2022-12-04 06:51:10 - root - INFO - ====Sending data to CSV file====: creative programmer
+2022-12-04 06:51:10 - root - INFO - ====Finished Sending data to CSV file====: creative programmer
+2022-12-04 06:51:10 - root - INFO - ====Sending data to readme====: creative programmer
+2022-12-04 06:51:10 - root - INFO - ====Finished Sending data to readme====: creative programmer
+2022-12-04 06:51:21 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
+2022-12-04 06:51:26 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
+2022-12-04 06:51:26 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:51:26 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=senior+designer&pn=1
+2022-12-04 06:51:27 - root - INFO - ====Finished Processing====: senior designer
+2022-12-04 06:51:27 - root - INFO - ====Sending data to CSV file====: senior designer
+2022-12-04 06:51:27 - root - INFO - ====Finished Sending data to CSV file====: senior designer
+2022-12-04 06:51:27 - root - INFO - ====Sending data to readme====: senior designer
+2022-12-04 06:51:27 - root - INFO - ====Finished Sending data to readme====: senior designer
+2022-12-04 06:51:35 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
+2022-12-04 06:51:36 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
+2022-12-04 06:51:36 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:51:36 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustical+engineering&pn=1
+2022-12-04 06:51:37 - root - INFO - ====Finished Processing====: acoustical engineering
+2022-12-04 06:51:37 - root - INFO - ====Sending data to CSV file====: acoustical engineering
+2022-12-04 06:51:37 - root - INFO - ====Finished Sending data to CSV file====: acoustical engineering
+2022-12-04 06:51:37 - root - INFO - ====Sending data to readme====: acoustical engineering
+2022-12-04 06:51:37 - root - INFO - ====Finished Sending data to readme====: acoustical engineering
+2022-12-04 06:51:45 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
+2022-12-04 06:51:48 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
+2022-12-04 06:51:48 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:51:48 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+designer&pn=1
+2022-12-04 06:51:49 - root - INFO - ====Finished Processing====: vfx designer
+2022-12-04 06:51:49 - root - INFO - ====Sending data to CSV file====: vfx designer
+2022-12-04 06:51:49 - root - INFO - ====Finished Sending data to CSV file====: vfx designer
+2022-12-04 06:51:49 - root - INFO - ====Sending data to readme====: vfx designer
+2022-12-04 06:51:49 - root - INFO - ====Finished Sending data to readme====: vfx designer
+2022-12-04 06:52:03 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
+2022-12-04 06:52:04 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
+2022-12-04 06:52:04 - root - INFO - Break here, now go to next loop(next page)
+2022-12-04 06:52:04 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+engineer&pn=1
+2022-12-04 06:52:05 - root - INFO - ====Finished Processing====: 3d engineer
+2022-12-04 06:52:05 - root - INFO - ====Sending data to CSV file====: 3d engineer
+2022-12-04 06:52:05 - root - INFO - ====Finished Sending data to CSV file====: 3d engineer
+2022-12-04 06:52:05 - root - INFO - ====Sending data to readme====: 3d engineer
+2022-12-04 06:52:05 - root - INFO - ====Finished Sending data to readme====: 3d engineer
