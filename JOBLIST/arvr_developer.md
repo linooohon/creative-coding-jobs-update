@@ -1,5 +1,5 @@
 
 
-|    | platform    | company   | job                                                                                                                       | update_time   | location            |
-|---:|:------------|:----------|:--------------------------------------------------------------------------------------------------------------------------|:--------------|:--------------------|
-|  1 | SimplyHired | Oculus    | [Launch Manager](https://www.simplyhired.com/job/gncMABZPhlldWSuJUhiiBKufmXZzXF0ZDJzkB9xCuwSBfXcxQcL7BA?q=arvr+developer) | Recently      | Remote +3 locations |
+|    | platform    | company          | job                                                                                                                                                                      | update_time   | location      |
+|---:|:------------|:-----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:--------------|
+|  1 | SimplyHired | Cleveland Clinic | [Associate Director Technology and Development- Digital Health](https://www.simplyhired.com/job/U20vkDabVWYuEmzOUU9n6blXJNmjJeE1dWnaNzXvloUJnySYx3hgkA?q=arvr+developer) | Today         | Cleveland, OH |
