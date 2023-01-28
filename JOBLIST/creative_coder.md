@@ -1,6 +1,5 @@
 
 
-|    | platform    | company             | job                                                                                                                                          | update_time   | location      |
-|---:|:------------|:--------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:--------------|
-|  1 | SimplyHired | Techspace Solutions | [Technical Writer (Medical Coding)](https://www.simplyhired.com/job/NJ_LWiGOxJBlEwmcRAcsI3Pt3twjKSvNSkpLMwAPdJX68uv_Ti9O-g?q=creative+coder) | Recently      | Rochester, NY |
-|  2 | SimplyHired | Tekskills Inc       | [Technical Writer (Medical Coding)](https://www.simplyhired.com/job/PiR_FXZN54SkvpaBFj5QXniPwNtckAhkrlE5V3jFERZbzKyrFBr_5Q?q=creative+coder) | Recently      | Rochester, NY |
+|    | platform    | company     | job                                                                                                                                | update_time   | location    |
+|---:|:------------|:------------|:-----------------------------------------------------------------------------------------------------------------------------------|:--------------|:------------|
+|  1 | SimplyHired | Red Lobster | [Email Coding Specialist](https://www.simplyhired.com/job/FIx7-ptt9Mz1VEe_iQHrAqWlq1plGcqIRNXQT593C5i_qtC1Phse4Q?q=creative+coder) | Today         | Orlando, FL |
