@@ -32,7 +32,9 @@ jobs:
           EOF
       - name: Install Dependencies
         run: |
-          pip install poetry==1.4.0
+          python3 -m pip install --user pipx
+          python3 -m pipx ensurepath
+          pipx install poetry
           cat << EOF > poetry.toml
           [virtualenvs]
           in-project = true
