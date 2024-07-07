@@ -1,324 +1,324 @@
-2024-07-06 06:38:22 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
-2024-07-06 06:38:22 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
-2024-07-06 06:38:22 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:38:22 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+developer&pn=1
-2024-07-06 06:38:23 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+developer&pn=1
-2024-07-06 06:38:23 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:38:37 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
-2024-07-06 06:38:37 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
-2024-07-06 06:38:37 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:38:37 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+art&pn=1
-2024-07-06 06:38:37 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+art&pn=1
-2024-07-06 06:38:37 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:38:49 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
-2024-07-06 06:38:49 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
-2024-07-06 06:38:49 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:38:49 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+developer&pn=1
-2024-07-06 06:38:49 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=digital+developer&pn=1
-2024-07-06 06:38:49 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:02 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
-2024-07-06 06:39:02 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
-2024-07-06 06:39:02 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:02 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+artist&pn=1
-2024-07-06 06:39:02 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+artist&pn=1
-2024-07-06 06:39:02 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:11 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
-2024-07-06 06:39:11 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
-2024-07-06 06:39:11 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:11 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+developer&pn=1
-2024-07-06 06:39:12 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=interactive+developer&pn=1
-2024-07-06 06:39:12 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:23 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
-2024-07-06 06:39:23 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
-2024-07-06 06:39:23 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:23 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+designer&pn=1
-2024-07-06 06:39:23 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+designer&pn=1
-2024-07-06 06:39:23 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:31 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2024-07-06 06:39:31 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2024-07-06 06:39:31 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:31 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
-2024-07-06 06:39:31 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
-2024-07-06 06:39:31 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
-2024-07-06 06:39:42 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
-2024-07-06 06:39:42 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:42 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+engineer&pn=1
-2024-07-06 06:39:42 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+engineer&pn=1
-2024-07-06 06:39:42 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:49 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
-2024-07-06 06:39:49 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
-2024-07-06 06:39:49 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:49 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+designer&pn=1
-2024-07-06 06:39:49 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=interactive+designer&pn=1
-2024-07-06 06:39:49 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:56 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
-2024-07-06 06:39:56 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
-2024-07-06 06:39:56 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:39:56 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+artist&pn=1
-2024-07-06 06:39:56 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=technical+artist&pn=1
-2024-07-06 06:39:56 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:05 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
-2024-07-06 06:40:06 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
-2024-07-06 06:40:06 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:06 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
-2024-07-06 06:40:06 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
-2024-07-06 06:40:06 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:14 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
-2024-07-06 06:40:14 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
-2024-07-06 06:40:14 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:14 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+developer&pn=1
-2024-07-06 06:40:14 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+developer&pn=1
-2024-07-06 06:40:14 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:21 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
-2024-07-06 06:40:21 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
-2024-07-06 06:40:21 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:21 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+designer&pn=1
-2024-07-06 06:40:21 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=sound+designer&pn=1
-2024-07-06 06:40:21 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:34 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
-2024-07-06 06:40:34 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
-2024-07-06 06:40:34 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:34 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=unity+developer&pn=1
-2024-07-06 06:40:34 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=unity+developer&pn=1
-2024-07-06 06:40:34 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:47 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
-2024-07-06 06:40:47 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
-2024-07-06 06:40:47 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:47 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+designer&pn=1
-2024-07-06 06:40:47 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+designer&pn=1
-2024-07-06 06:40:47 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:58 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
-2024-07-06 06:40:59 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
-2024-07-06 06:40:59 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:40:59 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+designer&pn=1
-2024-07-06 06:40:59 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=digital+designer&pn=1
-2024-07-06 06:40:59 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:13 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
-2024-07-06 06:41:13 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
-2024-07-06 06:41:13 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:13 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=animation+developer&pn=1
-2024-07-06 06:41:13 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=animation+developer&pn=1
-2024-07-06 06:41:13 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:20 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
-2024-07-06 06:41:20 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
-2024-07-06 06:41:20 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+designer&pn=1
-2024-07-06 06:41:20 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+designer&pn=1
-2024-07-06 06:41:20 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:30 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
-2024-07-06 06:41:30 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
-2024-07-06 06:41:30 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+developer&pn=1
-2024-07-06 06:41:30 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=sound+developer&pn=1
-2024-07-06 06:41:30 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:38 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
-2024-07-06 06:41:38 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
-2024-07-06 06:41:38 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:38 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+coder&pn=1
-2024-07-06 06:41:38 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+coder&pn=1
-2024-07-06 06:41:38 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:52 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
-2024-07-06 06:41:53 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
-2024-07-06 06:41:53 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:41:53 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+engineer&pn=1
-2024-07-06 06:41:53 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=ux+engineer&pn=1
-2024-07-06 06:41:53 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:04 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
-2024-07-06 06:42:04 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
-2024-07-06 06:42:04 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:04 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+sound+designer&pn=1
-2024-07-06 06:42:04 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=technical+sound+designer&pn=1
-2024-07-06 06:42:04 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:18 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
-2024-07-06 06:42:18 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
-2024-07-06 06:42:18 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=audio+engineer&pn=1
-2024-07-06 06:42:18 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=audio+engineer&pn=1
-2024-07-06 06:42:18 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:29 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
-2024-07-06 06:42:29 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
-2024-07-06 06:42:29 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:29 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+platform&pn=1
-2024-07-06 06:42:29 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=digital+platform&pn=1
-2024-07-06 06:42:29 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
-2024-07-06 06:42:42 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
-2024-07-06 06:42:42 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:42 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+designer&pn=1
-2024-07-06 06:42:42 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+designer&pn=1
-2024-07-06 06:42:42 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:52 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
-2024-07-06 06:42:52 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
-2024-07-06 06:42:52 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:42:52 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+designer&pn=1
-2024-07-06 06:42:52 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=ux+designer&pn=1
-2024-07-06 06:42:52 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:06 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
-2024-07-06 06:43:06 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
-2024-07-06 06:43:06 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:06 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+artist&pn=1
-2024-07-06 06:43:06 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+artist&pn=1
-2024-07-06 06:43:06 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:20 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
-2024-07-06 06:43:20 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
-2024-07-06 06:43:20 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+artworker&pn=1
-2024-07-06 06:43:20 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+artworker&pn=1
-2024-07-06 06:43:20 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:28 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
-2024-07-06 06:43:28 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
-2024-07-06 06:43:28 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:28 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+developer&pn=1
-2024-07-06 06:43:28 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+developer&pn=1
-2024-07-06 06:43:28 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:38 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
-2024-07-06 06:43:38 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
-2024-07-06 06:43:38 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:38 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+designer&pn=1
-2024-07-06 06:43:38 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=ui+designer&pn=1
-2024-07-06 06:43:38 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2024-07-06 06:43:46 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
-2024-07-06 06:43:46 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
-2024-07-06 06:43:46 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
-2024-07-06 06:43:46 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:59 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
-2024-07-06 06:43:59 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
-2024-07-06 06:43:59 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:43:59 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=design+developer&pn=1
-2024-07-06 06:44:00 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=design+developer&pn=1
-2024-07-06 06:44:00 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:14 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
-2024-07-06 06:44:14 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
-2024-07-06 06:44:14 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:14 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+art&pn=1
-2024-07-06 06:44:14 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=visual+art&pn=1
-2024-07-06 06:44:14 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:21 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
-2024-07-06 06:44:21 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
-2024-07-06 06:44:21 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:21 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+engineer&pn=1
-2024-07-06 06:44:21 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=ui+engineer&pn=1
-2024-07-06 06:44:21 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:33 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
-2024-07-06 06:44:33 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
-2024-07-06 06:44:33 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:33 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+designer&pn=1
-2024-07-06 06:44:33 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=3d+designer&pn=1
-2024-07-06 06:44:33 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
-2024-07-06 06:44:46 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
-2024-07-06 06:44:46 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+effects&pn=1
-2024-07-06 06:44:46 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=visual+effects&pn=1
-2024-07-06 06:44:46 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:55 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
-2024-07-06 06:44:55 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
-2024-07-06 06:44:55 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:44:55 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+developer&pn=1
-2024-07-06 06:44:55 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=acoustic+developer&pn=1
-2024-07-06 06:44:55 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:03 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
-2024-07-06 06:45:03 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
-2024-07-06 06:45:03 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:03 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+developer&pn=1
-2024-07-06 06:45:04 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=music+developer&pn=1
-2024-07-06 06:45:04 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:18 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
-2024-07-06 06:45:18 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
-2024-07-06 06:45:18 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+architect&pn=1
-2024-07-06 06:45:18 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=visual+architect&pn=1
-2024-07-06 06:45:18 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
-2024-07-06 06:45:32 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
-2024-07-06 06:45:32 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:32 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=artworker&pn=1
-2024-07-06 06:45:32 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=artworker&pn=1
-2024-07-06 06:45:32 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:45 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
-2024-07-06 06:45:45 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
-2024-07-06 06:45:45 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:45 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+developer&pn=1
-2024-07-06 06:45:45 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=3d+developer&pn=1
-2024-07-06 06:45:45 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:56 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
-2024-07-06 06:45:56 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
-2024-07-06 06:45:56 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:45:56 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+engineer&pn=1
-2024-07-06 06:45:56 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=music+engineer&pn=1
-2024-07-06 06:45:56 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:06 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
-2024-07-06 06:46:06 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
-2024-07-06 06:46:06 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:06 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+engineer&pn=1
-2024-07-06 06:46:06 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=acoustic+engineer&pn=1
-2024-07-06 06:46:06 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:15 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
-2024-07-06 06:46:15 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
-2024-07-06 06:46:15 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:15 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+engineer&pn=1
-2024-07-06 06:46:16 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=visual+engineer&pn=1
-2024-07-06 06:46:16 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:28 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
-2024-07-06 06:46:28 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
-2024-07-06 06:46:28 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:28 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+design&pn=1
-2024-07-06 06:46:28 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+design&pn=1
-2024-07-06 06:46:28 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:39 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
-2024-07-06 06:46:39 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
-2024-07-06 06:46:39 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:39 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+engineer&pn=1
-2024-07-06 06:46:39 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=vfx+engineer&pn=1
-2024-07-06 06:46:39 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:51 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
-2024-07-06 06:46:51 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
-2024-07-06 06:46:51 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:46:51 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=junior+designer&pn=1
-2024-07-06 06:46:51 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=junior+designer&pn=1
-2024-07-06 06:46:51 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:05 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
-2024-07-06 06:47:05 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
-2024-07-06 06:47:05 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:05 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programming&pn=1
-2024-07-06 06:47:05 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+programming&pn=1
-2024-07-06 06:47:05 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:15 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
-2024-07-06 06:47:15 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
-2024-07-06 06:47:15 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:15 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=frontend+engineer&pn=1
-2024-07-06 06:47:15 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=frontend+engineer&pn=1
-2024-07-06 06:47:15 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:29 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
-2024-07-06 06:47:30 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
-2024-07-06 06:47:30 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programmer&pn=1
-2024-07-06 06:47:30 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+programmer&pn=1
-2024-07-06 06:47:30 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
-2024-07-06 06:47:42 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
-2024-07-06 06:47:42 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:42 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=senior+designer&pn=1
-2024-07-06 06:47:42 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=senior+designer&pn=1
-2024-07-06 06:47:42 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:49 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
-2024-07-06 06:47:49 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
-2024-07-06 06:47:49 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:47:49 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustical+engineering&pn=1
-2024-07-06 06:47:49 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=acoustical+engineering&pn=1
-2024-07-06 06:47:49 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:48:00 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
-2024-07-06 06:48:00 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
-2024-07-06 06:48:00 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:48:00 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+designer&pn=1
-2024-07-06 06:48:00 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=vfx+designer&pn=1
-2024-07-06 06:48:00 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:48:10 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
-2024-07-06 06:48:10 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
-2024-07-06 06:48:10 - root - INFO - Break here, now go to next loop(next page)
-2024-07-06 06:48:10 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+engineer&pn=1
-2024-07-06 06:48:10 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=3d+engineer&pn=1
-2024-07-06 06:48:10 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:09 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
+2024-07-07 06:39:09 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+developer&fromAge=14
+2024-07-07 06:39:09 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:09 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+developer&pn=1
+2024-07-07 06:39:09 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+developer&pn=1
+2024-07-07 06:39:09 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:22 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
+2024-07-07 06:39:22 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+art&fromAge=14
+2024-07-07 06:39:22 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:22 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+art&pn=1
+2024-07-07 06:39:22 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+art&pn=1
+2024-07-07 06:39:22 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
+2024-07-07 06:39:32 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+developer&fromAge=14
+2024-07-07 06:39:32 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:32 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+developer&pn=1
+2024-07-07 06:39:32 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=digital+developer&pn=1
+2024-07-07 06:39:32 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:44 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
+2024-07-07 06:39:44 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+artist&fromAge=14
+2024-07-07 06:39:44 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:44 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+artist&pn=1
+2024-07-07 06:39:44 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+artist&pn=1
+2024-07-07 06:39:44 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:53 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
+2024-07-07 06:39:54 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+developer&fromAge=14
+2024-07-07 06:39:54 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:39:54 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+developer&pn=1
+2024-07-07 06:39:54 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=interactive+developer&pn=1
+2024-07-07 06:39:54 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:08 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
+2024-07-07 06:40:08 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+designer&fromAge=14
+2024-07-07 06:40:08 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:08 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+designer&pn=1
+2024-07-07 06:40:08 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+designer&pn=1
+2024-07-07 06:40:08 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:16 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2024-07-07 06:40:16 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2024-07-07 06:40:16 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:16 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2024-07-07 06:40:16 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2024-07-07 06:40:16 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:29 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
+2024-07-07 06:40:29 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+engineer&fromAge=14
+2024-07-07 06:40:29 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:29 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+engineer&pn=1
+2024-07-07 06:40:29 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+engineer&pn=1
+2024-07-07 06:40:29 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:40 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
+2024-07-07 06:40:40 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=interactive+designer&fromAge=14
+2024-07-07 06:40:40 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:40 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=interactive+designer&pn=1
+2024-07-07 06:40:41 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=interactive+designer&pn=1
+2024-07-07 06:40:41 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:50 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
+2024-07-07 06:40:50 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+artist&fromAge=14
+2024-07-07 06:40:50 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:50 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+artist&pn=1
+2024-07-07 06:40:50 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=technical+artist&pn=1
+2024-07-07 06:40:50 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:59 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
+2024-07-07 06:40:59 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=virtual+reality+developer&fromAge=14
+2024-07-07 06:40:59 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:40:59 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
+2024-07-07 06:40:59 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=virtual+reality+developer&pn=1
+2024-07-07 06:40:59 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:07 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
+2024-07-07 06:41:07 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+developer&fromAge=14
+2024-07-07 06:41:07 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:07 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+developer&pn=1
+2024-07-07 06:41:07 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+developer&pn=1
+2024-07-07 06:41:07 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:20 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
+2024-07-07 06:41:20 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+designer&fromAge=14
+2024-07-07 06:41:20 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:20 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+designer&pn=1
+2024-07-07 06:41:20 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=sound+designer&pn=1
+2024-07-07 06:41:20 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:27 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
+2024-07-07 06:41:27 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=unity+developer&fromAge=14
+2024-07-07 06:41:27 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:27 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=unity+developer&pn=1
+2024-07-07 06:41:28 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=unity+developer&pn=1
+2024-07-07 06:41:28 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:37 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
+2024-07-07 06:41:37 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+designer&fromAge=14
+2024-07-07 06:41:37 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:37 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+designer&pn=1
+2024-07-07 06:41:37 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+designer&pn=1
+2024-07-07 06:41:37 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:48 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
+2024-07-07 06:41:48 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+designer&fromAge=14
+2024-07-07 06:41:48 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:48 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+designer&pn=1
+2024-07-07 06:41:48 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=digital+designer&pn=1
+2024-07-07 06:41:48 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:55 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
+2024-07-07 06:41:55 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=animation+developer&fromAge=14
+2024-07-07 06:41:55 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:41:55 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=animation+developer&pn=1
+2024-07-07 06:41:55 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=animation+developer&pn=1
+2024-07-07 06:41:55 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:04 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
+2024-07-07 06:42:04 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=arvr+designer&fromAge=14
+2024-07-07 06:42:04 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:04 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=arvr+designer&pn=1
+2024-07-07 06:42:04 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=arvr+designer&pn=1
+2024-07-07 06:42:04 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:12 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
+2024-07-07 06:42:12 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=sound+developer&fromAge=14
+2024-07-07 06:42:12 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:12 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=sound+developer&pn=1
+2024-07-07 06:42:13 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=sound+developer&pn=1
+2024-07-07 06:42:13 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:24 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
+2024-07-07 06:42:24 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+coder&fromAge=14
+2024-07-07 06:42:24 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:24 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+coder&pn=1
+2024-07-07 06:42:24 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+coder&pn=1
+2024-07-07 06:42:24 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:32 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
+2024-07-07 06:42:32 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+engineer&fromAge=14
+2024-07-07 06:42:32 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:32 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+engineer&pn=1
+2024-07-07 06:42:32 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=ux+engineer&pn=1
+2024-07-07 06:42:32 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:42 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
+2024-07-07 06:42:42 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=technical+sound+designer&fromAge=14
+2024-07-07 06:42:42 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:42 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=technical+sound+designer&pn=1
+2024-07-07 06:42:42 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=technical+sound+designer&pn=1
+2024-07-07 06:42:42 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:51 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
+2024-07-07 06:42:51 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=audio+engineer&fromAge=14
+2024-07-07 06:42:51 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:51 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=audio+engineer&pn=1
+2024-07-07 06:42:51 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=audio+engineer&pn=1
+2024-07-07 06:42:51 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:59 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
+2024-07-07 06:42:59 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=digital+platform&fromAge=14
+2024-07-07 06:42:59 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:42:59 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=digital+platform&pn=1
+2024-07-07 06:43:00 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=digital+platform&pn=1
+2024-07-07 06:43:00 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:10 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
+2024-07-07 06:43:10 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+designer&fromAge=14
+2024-07-07 06:43:10 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:10 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+designer&pn=1
+2024-07-07 06:43:10 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+designer&pn=1
+2024-07-07 06:43:10 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:22 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
+2024-07-07 06:43:22 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ux+designer&fromAge=14
+2024-07-07 06:43:22 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:22 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ux+designer&pn=1
+2024-07-07 06:43:22 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=ux+designer&pn=1
+2024-07-07 06:43:22 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:35 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
+2024-07-07 06:43:35 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+artist&fromAge=14
+2024-07-07 06:43:35 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:35 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+artist&pn=1
+2024-07-07 06:43:35 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+artist&pn=1
+2024-07-07 06:43:35 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:43 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
+2024-07-07 06:43:43 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+artworker&fromAge=14
+2024-07-07 06:43:43 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:43 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+artworker&pn=1
+2024-07-07 06:43:43 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+artworker&pn=1
+2024-07-07 06:43:43 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:51 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
+2024-07-07 06:43:51 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+developer&fromAge=14
+2024-07-07 06:43:51 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:51 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+developer&pn=1
+2024-07-07 06:43:52 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+developer&pn=1
+2024-07-07 06:43:52 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:59 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
+2024-07-07 06:43:59 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+designer&fromAge=14
+2024-07-07 06:43:59 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:43:59 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+designer&pn=1
+2024-07-07 06:43:59 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=ui+designer&pn=1
+2024-07-07 06:43:59 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:11 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2024-07-07 06:44:11 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=graphic+engineer&fromAge=14
+2024-07-07 06:44:11 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:11 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2024-07-07 06:44:11 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=graphic+engineer&pn=1
+2024-07-07 06:44:11 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:22 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
+2024-07-07 06:44:22 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=design+developer&fromAge=14
+2024-07-07 06:44:22 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:22 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=design+developer&pn=1
+2024-07-07 06:44:22 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=design+developer&pn=1
+2024-07-07 06:44:22 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:36 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
+2024-07-07 06:44:36 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+art&fromAge=14
+2024-07-07 06:44:36 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:36 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+art&pn=1
+2024-07-07 06:44:36 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=visual+art&pn=1
+2024-07-07 06:44:36 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
+2024-07-07 06:44:46 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=ui+engineer&fromAge=14
+2024-07-07 06:44:46 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=ui+engineer&pn=1
+2024-07-07 06:44:46 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=ui+engineer&pn=1
+2024-07-07 06:44:46 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:54 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
+2024-07-07 06:44:55 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+designer&fromAge=14
+2024-07-07 06:44:55 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:44:55 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+designer&pn=1
+2024-07-07 06:44:55 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=3d+designer&pn=1
+2024-07-07 06:44:55 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:07 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
+2024-07-07 06:45:07 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+effects&fromAge=14
+2024-07-07 06:45:07 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:07 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+effects&pn=1
+2024-07-07 06:45:07 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=visual+effects&pn=1
+2024-07-07 06:45:07 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:18 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
+2024-07-07 06:45:18 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+developer&fromAge=14
+2024-07-07 06:45:18 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:18 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+developer&pn=1
+2024-07-07 06:45:18 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=acoustic+developer&pn=1
+2024-07-07 06:45:18 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:30 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
+2024-07-07 06:45:30 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+developer&fromAge=14
+2024-07-07 06:45:30 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:30 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+developer&pn=1
+2024-07-07 06:45:30 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=music+developer&pn=1
+2024-07-07 06:45:30 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:37 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
+2024-07-07 06:45:37 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+architect&fromAge=14
+2024-07-07 06:45:37 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:37 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+architect&pn=1
+2024-07-07 06:45:37 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=visual+architect&pn=1
+2024-07-07 06:45:37 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:47 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
+2024-07-07 06:45:47 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=artworker&fromAge=14
+2024-07-07 06:45:47 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:45:47 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=artworker&pn=1
+2024-07-07 06:45:47 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=artworker&pn=1
+2024-07-07 06:45:47 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:01 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
+2024-07-07 06:46:01 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+developer&fromAge=14
+2024-07-07 06:46:01 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:01 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+developer&pn=1
+2024-07-07 06:46:02 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=3d+developer&pn=1
+2024-07-07 06:46:02 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:11 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
+2024-07-07 06:46:11 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=music+engineer&fromAge=14
+2024-07-07 06:46:11 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:11 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=music+engineer&pn=1
+2024-07-07 06:46:11 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=music+engineer&pn=1
+2024-07-07 06:46:11 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:25 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
+2024-07-07 06:46:25 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustic+engineer&fromAge=14
+2024-07-07 06:46:25 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:25 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustic+engineer&pn=1
+2024-07-07 06:46:25 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=acoustic+engineer&pn=1
+2024-07-07 06:46:25 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:33 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
+2024-07-07 06:46:33 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=visual+engineer&fromAge=14
+2024-07-07 06:46:33 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:33 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=visual+engineer&pn=1
+2024-07-07 06:46:33 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=visual+engineer&pn=1
+2024-07-07 06:46:33 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:40 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
+2024-07-07 06:46:40 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=generative+design&fromAge=14
+2024-07-07 06:46:40 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:40 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=generative+design&pn=1
+2024-07-07 06:46:40 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=generative+design&pn=1
+2024-07-07 06:46:40 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:51 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
+2024-07-07 06:46:51 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+engineer&fromAge=14
+2024-07-07 06:46:51 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:46:51 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+engineer&pn=1
+2024-07-07 06:46:51 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=vfx+engineer&pn=1
+2024-07-07 06:46:51 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:04 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
+2024-07-07 06:47:05 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=junior+designer&fromAge=14
+2024-07-07 06:47:05 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:05 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=junior+designer&pn=1
+2024-07-07 06:47:05 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=junior+designer&pn=1
+2024-07-07 06:47:05 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:16 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
+2024-07-07 06:47:16 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programming&fromAge=14
+2024-07-07 06:47:16 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:16 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programming&pn=1
+2024-07-07 06:47:16 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+programming&pn=1
+2024-07-07 06:47:16 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:24 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
+2024-07-07 06:47:24 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=frontend+engineer&fromAge=14
+2024-07-07 06:47:24 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:24 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=frontend+engineer&pn=1
+2024-07-07 06:47:24 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=frontend+engineer&pn=1
+2024-07-07 06:47:24 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:36 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
+2024-07-07 06:47:36 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=creative+programmer&fromAge=14
+2024-07-07 06:47:36 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:36 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=creative+programmer&pn=1
+2024-07-07 06:47:36 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=creative+programmer&pn=1
+2024-07-07 06:47:36 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:46 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
+2024-07-07 06:47:46 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=senior+designer&fromAge=14
+2024-07-07 06:47:46 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:46 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=senior+designer&pn=1
+2024-07-07 06:47:46 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=senior+designer&pn=1
+2024-07-07 06:47:46 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:58 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
+2024-07-07 06:47:58 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=acoustical+engineering&fromAge=14
+2024-07-07 06:47:58 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:47:58 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=acoustical+engineering&pn=1
+2024-07-07 06:47:58 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=acoustical+engineering&pn=1
+2024-07-07 06:47:58 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:48:09 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
+2024-07-07 06:48:10 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=vfx+designer&fromAge=14
+2024-07-07 06:48:10 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:48:10 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=vfx+designer&pn=1
+2024-07-07 06:48:10 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=vfx+designer&pn=1
+2024-07-07 06:48:10 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:48:19 - root - INFO - Now Processing: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
+2024-07-07 06:48:19 - root - ERROR - FAIL, no result when crawling this url: https://www.glassdoor.com/Job/jobs.htm?sc.keyword=3d+engineer&fromAge=14
+2024-07-07 06:48:19 - root - INFO - Break here, now go to next loop(next page)
+2024-07-07 06:48:19 - root - INFO - Now Processing: https://www.simplyhired.com/search?q=3d+engineer&pn=1
+2024-07-07 06:48:19 - root - ERROR - FAIL, no result when crawling this url: https://www.simplyhired.com/search?q=3d+engineer&pn=1
+2024-07-07 06:48:19 - root - INFO - Break here, now go to next loop(next page)
